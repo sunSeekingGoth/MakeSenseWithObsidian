@@ -17,6 +17,7 @@
 			- "Quick Global Tasks"
 			- note: change default date here to match all of obs
 - [ ] Put this tutorial in its own folder
+	- [ ] intro
 	- [ ] General
 	- [ ] Research
 	- [ ] Task & time Management
