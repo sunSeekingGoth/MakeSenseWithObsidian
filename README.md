@@ -1,26 +1,3 @@
-# Tasks
-- [ ] Download all plugins listed below:
-	- Time management
-		- Day Planner
-		- Calendar (small & daily notes)
-		- Daily notes (template per day)
-	- Research
-		- Better Word Count
-		- Annotater (callback to graphs and tags)
-		- Template
-		- Read It Later
-	- Task management
-		- Tasks: Project based
-		- Homepage: data queries
-		- Dataview
-- [ ] Put this tutorial in its own folder
-	- [ ] General
-	- [ ] Research
-	- [ ] Task & time Management
-- [ ] Make slides note to gauge length of each section
-- [x] Put to Github
-
-Pad: https://digitalcare.noho.st/pad/p/MakeSenseWithObsidian
 # Components to Introduce
 
 # Monday Afternoon
@@ -34,7 +11,12 @@ Pad: https://digitalcare.noho.st/pad/p/MakeSenseWithObsidian
 	- Metadata / properties (light)
 - Graph View
 - Core plugins
-- Canvas
+	- Templates
+		- Command Palette
+		- Slash command
+	- Daily notes
+		- Date Format
+	- Canvas
 - Layout: Tabs and Panes
 - Clutter management 
 - make it cute
@@ -44,18 +26,17 @@ Pad: https://digitalcare.noho.st/pad/p/MakeSenseWithObsidian
 > put index or overveiw in each one to explain what it is
 > eg. Research, writing, interviews
 
-## Themeing:
-Making it cute
-
-# Tuesday Morning:
 ## Research
-- Templates
 - Read It Later
 - Anatator (callback to graphs and tags)
-
 > [! Group Task]
 > Bring a PDF into your vault
 > Use Anatator to make notes
+
+# Tuesday Morning:
+
+## Review??
+
 ## Task & Time management
 - Tasks Plugin 
 - Project-based
@@ -71,7 +52,25 @@ Making it cute
 	- Day Planner
 	- Calendar (small & daily notes)
 	- Daily notes (template per day)
+## Themeing:
+Making it cute
+CSS & Style Settings
+____
+# Discussions:
+Doing things in different ways
+- note status, tags vs meta-data
+- annotations, inside vs outside PDFs
+- writing approaches
+# Resources
 ## Extra & Cool
 - Highlighter
 - slides
 - Better Word Count
+- Homepage
+- Day Planner
+- Syncthing
+
+___
+# Review
+
+

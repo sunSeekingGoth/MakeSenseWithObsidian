@@ -6,9 +6,10 @@
       {
         "id": "1e8c70a330f37713",
         "type": "tabs",
+        "dimension": 42.05087440381558,
         "children": [
           {
-            "id": "8d98809e15f392df",
+            "id": "1094e1a85fda618c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +19,27 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "3b251ab949e7dfee",
+        "type": "tabs",
+        "dimension": 57.949125596184416,
+        "children": [
           {
-            "id": "028822f52b510194",
+            "id": "3779f591dafc3aac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4026255adf91ec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General syntax skills.md",
+                "file": "Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "right": {
     "id": "6bfbdb1e5413a74b",
@@ -110,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General syntax skills.md",
+                "file": "Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General syntax skills.md",
+                "file": "Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +145,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General syntax skills.md"
+                "file": "Intro.md"
               }
+            }
+          },
+          {
+            "id": "d07a1ddb39aa9274",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -168,13 +171,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false
     }
   },
-  "active": "d4026255adf91ec0",
+  "active": "3779f591dafc3aac",
   "lastOpenFiles": [
-    "Welcome.md",
+    "README.md",
     "General syntax skills.md",
-    "README.md"
+    "Intro.md",
+    "TO DO.md",
+    "Welcome.md"
   ]
 }

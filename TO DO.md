@@ -1,0 +1,26 @@
+- [x] Download all plugins listed below: ✅ 2024-04-15
+	- Time management
+		-  Day Planner: Put in Extra & Cool
+		- [x] Calendar (small & daily notes)
+		- [x] Daily notes (template per day)
+	- Research
+		- [x] Better Word Count
+		- [x] Annotater (callback to graphs and tags)
+		- Template: Core
+			- make together: daily note
+			- make together: annotator
+		- [x] Read It Later
+	- Task management
+		- [x] Tasks: Project based
+		- Homepage:  Extra & Cool
+		- [x] Dataview: 
+			- "Quick Global Tasks"
+			- note: change default date here to match all of obs
+- [ ] Put this tutorial in its own folder
+	- [ ] General
+	- [ ] Research
+	- [ ] Task & time Management
+- [ ] Make slides note to gauge length of each section
+- [x] Put to Github
+
+Pad: https://digitalcare.noho.st/pad/p/MakeSenseWithObsidian
