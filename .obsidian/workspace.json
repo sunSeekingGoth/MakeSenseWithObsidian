@@ -23,12 +23,28 @@
             "id": "028822f52b510194",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4026255adf91ec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General syntax skills.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "General syntax skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "General syntax skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "General syntax skills.md"
+              }
             }
           }
         ]
@@ -151,9 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "028822f52b510194",
+  "active": "d4026255adf91ec0",
   "lastOpenFiles": [
-    "README.md",
-    "Welcome.md"
+    "Welcome.md",
+    "General syntax skills.md",
+    "README.md"
   ]
 }
