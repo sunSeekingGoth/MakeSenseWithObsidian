@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro.md",
+                "file": "General syntax skills.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro.md",
+                "file": "General syntax skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro.md",
+                "file": "General syntax skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro.md"
+                "file": "General syntax skills.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "8d98809e15f392df",
   "lastOpenFiles": [
-    "General syntax skills.md",
-    "Intro.md",
+    "TO DO.md",
     "README.md",
-    "Welcome.md",
-    "TO DO.md"
+    "Intro.md",
+    "General syntax skills.md",
+    "Welcome.md"
   ]
 }

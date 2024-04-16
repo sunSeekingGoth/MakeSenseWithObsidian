@@ -7,7 +7,7 @@ Our uses of this tool, being within the context of research,
 - using link, connections and data to create your groupings, rhythms and movements within notes. 
 - Using different modes like visualising knowledge. 
 
-## Why we have a knowledge base:
+## Why we personally have a knowledge base:
 - To practice organising our own knowledge, and seeing how that feels⭐works
 - Learning to create helpful way-finding, especially neuro🍮divergent learning & rhythms 
 - Non-compartmentalising and creating a trans⭐disciplinary knowledge practice
