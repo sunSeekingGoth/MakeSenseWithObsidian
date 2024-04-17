@@ -27,4 +27,9 @@ Cultivating a knowledge base takes time (G: 1.5 years, B: 3 years) but today we 
 
 Showing different methods of using the same functionalities, we will see this with using tags, meta-data, annotation, writing styles and linking. How we are using the analogy of the constellation; how does creating tags and systems inform the structure of the constellation? 
 
+## Constellations?
+
+Constellations as a way of navigating the unknown, taking in relational and situated ways of knowing and gathering and structuring our knowledge outside of a singular rule ⭐ measure. Its about accounting for the unknown in the ways we know, and letting us work with that instead of being restrained by it. 
+
+
 

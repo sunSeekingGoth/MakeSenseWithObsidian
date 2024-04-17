@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Agenda pad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d69897c2fead480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "General syntax skills.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General syntax skills.md",
+                "file": "Agenda pad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General syntax skills.md",
+                "file": "Agenda pad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General syntax skills.md"
+                "file": "Agenda pad.md"
               }
             }
           }
@@ -148,10 +160,11 @@
   },
   "active": "8d98809e15f392df",
   "lastOpenFiles": [
-    "TO DO.md",
-    "README.md",
     "Intro.md",
+    "README.md",
+    "Agenda pad.md",
     "General syntax skills.md",
+    "TO DO.md",
     "Welcome.md"
   ]
 }

@@ -1,7 +1,18 @@
 # Components to Introduce
 
+This gives an overview of how the we are approaching creating a constellation of knowledge throughout the workshop. Through introducing the interface we will ad layers of complexity and skills whilst also showing a guide to how they might practice a knowledge base for themselves. As this workshop is fairly short for the amount of content, it is about opening doors for them to go through in the future and in their own way.
+
 # Monday Afternoon
-## General
+
+## Intro
+
+### Knowledge Bases
+In this session we are introducing the concept of knowledge bases, and the use of obsidian in this spectrum of these software and tools. We will introduce how we can practice and adapt these flexible tools to work within  many approaches to note taking, reading and organising your knowledge and research. 
+
+### Constellations of knowledge
+
+We will then introduce the concepts of the workshop where we will use basic functionalities of obsidian to formulate a small constellation of knowledge, formed from connected notes on their selected media or papers. This will come together with the basic skills we have show to explore how themes, tags and connections can create new and generative ways of exploring their research.  
+## Basic skill intro
 - Mark down
 	-  Editing Syntax
 	- Tags
@@ -26,7 +37,7 @@
 > put index or overveiw in each one to explain what it is
 > eg. Research, writing, interviews
 
-## Research
+## Specific research skills⭐tools
 - Read It Later
 - Anatator (callback to graphs and tags)
 > [! Group Task]
