@@ -16,11 +16,15 @@
 		- [x] Dataview: 
 			- "Quick Global Tasks"
 			- note: change default date here to match all of obs
-- [ ] Put this tutorial in its own folder
-	- [ ] intro
+- [x] Put this tutorial in its own folder ✅ 2024-05-06
+	- [x] intro ✅ 2024-05-06
+	- [x] General ✅ 2024-05-06
+	- [x] Research ✅ 2024-05-06
+	- [x] Task & time Management ✅ 2024-05-06 (now called Process)
+- [ ] Expand on content for:
 	- [ ] General
 	- [ ] Research
-	- [ ] Task & time Management
+	- [ ] Process
 - [ ] Make slides note to gauge length of each section
 - [x] Put to Github
 

@@ -8,7 +8,7 @@ Ask qs about the make sense workshop and how he sees us fitting in?
 We ask as we wonder how knowledge basing can fit in as a tool for the rest of the week and their practice.
 
 ## 2 Workshop
-Show [[README]] & [[Intro]]i pages and look over concepts and approaches.
+Show [[README]] & [[00_Intro]]i pages and look over concepts and approaches.
 
 Q's: 
 - size of group

@@ -39,7 +39,11 @@ We will then introduce the concepts of the workshop where we will use basic func
 
 ## Specific research skills⭐tools
 - Read It Later
-- Anatator (callback to graphs and tags)
+- Annotator (callback to graphs and tags)
+### Writing approaches:
+- creating your own text from a lot of reading.
+- Miro boards offering visual links vs idea-based linked with hyper links in obsidian.
+
 > [! Group Task]
 > Bring a PDF into your vault
 > Use Anatator to make notes
@@ -51,7 +55,7 @@ We will then introduce the concepts of the workshop where we will use basic func
 ## Task & Time management
 - Tasks Plugin 
 - Project-based
-	- Dataview
+	- Dataview 
 	- Homepage without the Homepage plugin
 
 >[! Group Task]
