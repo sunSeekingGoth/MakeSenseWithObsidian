@@ -1,67 +1,21 @@
 
-# Knowledge * Obsidian
+# 1 Lets learn some syntax!
 
-### Let's organise those notes!
-
----
-
-## Today we will:
-
-- Learn what a knowledge base is.
-- have a basic understanding of  obsidian and:
-	- markdown
-	- hyperlinks + embeds
-	- tags
-	- annotator
-	- graph view
-	- Addons
-# Knowledge * Obsidian
-
-### Let's organise those notes!
+Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax) but we will run through the basics
 
 ---
 
-## Today we will:
-
-- Learn what a knowledge base is.
-- have a basic understanding of  obsidian and:
-	- markdown
-	- hyperlinks + embeds
-	- tags
-	- annotator
-	- graph view
-	- Addons
-- Start to imagine how you might use a knowledge for yourself! 
+Here we will look at essentials of markdown:
+- Headings
+- Styling
+- hyperlinks 
+- embeds
+- tags
+- ToDos
 
 ---
 
-## So what is a knowledge base?
-
-#### A Knowledge base is a system/software to organise your:
-- Notes
-- Thoughts
-- Readings
-- Diagrams
-- Plans
-- Code
-- Recipes
-- And More
-
----
-
-### So what does one look like?
-
-#### WELL THIS!!!!!
-
----
-
-## Basic Syntax
-
-#### Now we will look at some basic markdown code for obsidian.
-
----
-
-# Headings!
+# 2 Headings!
 
 ## Oh Headings!!
 
@@ -69,36 +23,100 @@
 
 That enable you to break up notes into sections and structure many levels of subheadings.
 
+# For organising
+
+`# Headings!`
+
+
 ---
 
-### Code Blocks 💻
+# 3 Styling
+
+**BOLD**
+
+`**BOLD**`
+
+*Italics*
+
+`*Italics*`
+
+==Highlighted==
+
+`==Highlighted==`
+
+~~Strikethrough~~
+
+`~~Strikethrough~~`
+
+---
+
+# 4 To Dos
+
+- [ ] 
+
+`- [ ]`
+
+They help mark progress, and as we will see later can work in many adaptive ways.
+
+---
+
+
+# 5 Code!
+
+## Blocks 💻
 
 ``` shell
 pip install cute-things
 ```
 
----
+using ` ``` ` either side of the text.
 
-## To Dos ☑ << Lets remove this from 'general'?
+## Inline
 
-- [x] Lots
-- [x] of 
-- [x] things 
-- [x] still
-- [ ] to 
-- [ ] do
+`Inline-Code`
+
+Using one \` either side of the text.
 
 ---
-# Links
-## There are many types of links 🔗
+# 6 Notes \* Comments
 
-[Web Links](https://help.obsidian.md/Linking+notes+and+files/Internal+links) use this `[Single Bracket](followed by the URL in paranthesese)` syntax.
+> [! note] Make stand out notes \* comments 
+> Use this to make comments \* notes that you want to be noticeable.
+> You can also use all sorts of normal formatting in **here** ==like== ~~this~~.
 
-This [Internal Links](Cognitivists%20example.md) is created using the Markdown `[single bracket](parenthasis%to%title%note)` syntax.
+``` md
+> [! note] Make stand out notes \* comments 
+> Use this to make comments \* notes that you want to be noticeable.
+> You can also use all sorts of normal formatting in **here** ==like== ~~this~~.
+```
+---
 
-This [[Internal link]] was created using more simple wikilink `[[double bracket]]` syntax.
+# 7 There are many types of links 🔗
 
---
+And they are all pretty flexible and handy, creating a wide range of possibilities.
+
+---
+### External
+
+[Web Links](https://help.obsidian.md/Linking+notes+and+files/Internal+links)
+
+`[Web Links](https://help.obsidian.md/Linking+notes+and+files/Internal+links)`
+
+To enable you to link to external websites and resources.
+
+---
+### Internal links
+
+**Simple (Wiki Link):**
+[[00_Intro]]
+
+`[[<FILE_NAME>]]`
+e.g.
+`[[00_Intro]]`
+
+Use this to  link to files within your vault. when you start writing `[[` you will be prompted to search existing files you can link to.
+
+---
 ## Links to non-existent notes
 
 Obsidian can create new notes from links, so that you don't have to interrupt your process to create a new note.
@@ -110,18 +128,75 @@ Like if you are mid thought, and remember that this text connects to [[Related C
 > `[[Related Concept | somethine else]]`
 > This keeps your sentence cohesive as note titles don't always make sense in-line
 
---
+---
+# Embedding links
 
-### Embedding images through links
-![Pasted image 20231204103218](../../Pasted%20image%2020231204103218.png)
+This enables you to link to images and other sorts of information within the docs! It also means that multiple notes can share and link to the same image, saving space and time. It also means that it is fairly limitless what you can do when it comes to embedding which makes it very transformable and adaptable. 
 
-That enable you to link to images and other sorts of docs!
+---
 
---
+## Embed Local Image
 
-### Embed links * videos + podcasts
+![[cool pup.png]]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tc1Nm5kNWKc?si=11mBIn8CcX7UgHEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+`![[<FILE_NAME>]]`
+e.g.
+`![[cool pup.png]]`
+
+This lets you embed an image form your vault.
+
+---
+
+## Embed Online Image
+
+![](https://farm8.staticflickr.com/7007/6684384907_b093c428b4_z.jpg)
+
+`![](<FILE_URL>)`
+e.g.
+`![](https://farm8.staticflickr.com/7007/6684384907_b093c428b4_z.jpg)`
+
+This lets you embed images from online. I would recommend using local though as it is more stable, and uses less energy.  
+
+---
+### Embed videos
+
+<iframe title="Access Server, American Sign Language  with Optional Captions" width="560" height="315" src="https://tube.systerserver.net/videos/embed/5249d4a1-852e-4dfe-8b4c-42bb2eeb656c" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
+``` html
+<iframe title="Access Server, American Sign Language  with Optional Captions" width="560" height="315" src="https://tube.systerserver.net/videos/embed/5249d4a1-852e-4dfe-8b4c-42bb2eeb656c" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
+```
+Just embed videos how you normally would in html. You can normally find this code by using the share button and then selecting embed.
+
+
+---
+
+### Embedding Websites in notes
+
+
+
+<iframe src="https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Bold%2C+italics%2C+highlights" style="width:100%; height:500px"></iframe>
+
+``` html
+<iframe src="<PAGE_URL>" style="width:100%; height:500px"></iframe>
+```
+e.g.
+``` html
+<iframe src="https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Bold%2C+italics%2C+highlights" style="width:100%; height:500px"></iframe>
+```
+This means you can link directly to sites, feeds and resources you might want to access.Think opportunities, journals and docs etc.
+
+---
+## Shared pads?
+
+<iframe name="embed_readwrite" src="https://pad.vvvvvvaria.org/obs_wrkshop?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
+
+
+``` html
+<iframe name="embed_readwrite" src="https://pad.vvvvvvaria.org/obs_wrkshop?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
+```
+
+Create a new pad and use the share menu to get the embed code like above.
 
 ---
 ## Tagging
@@ -137,8 +212,6 @@ These can be #inline or in page metadata (info about a note).
 ### You can also tag within annotations!
 
 You can annotate essays easily with tags and keep track of trends!
-
-like [THESE NOTES](../../../../Research💭/Reading%20📖/Johanna%20Hedva/Sick%20Woman%20Theory.md)
 
 ---
 # Metadata / Properties
@@ -165,32 +238,4 @@ In comparison to tags, metadata can also store _different kinds_ of data, like d
 Because then you can start to see and search through you information in a much clearer way.
 
 ---
-### As well as Graph view
-
-That enables you to see a mapping of the data.
-
----
-## Quick note on Addons
-
-There are soooo many!
-
-And they can help to transform what obsidian is able to do.
-From:
-- annotating pdfs
-- download sub tracks from videos
-- auto downloading recipes
-- saving webpages for later
-- organising you TODos
-- And much more!
-
----
-
-## On your own  for 2 mins try to come up with some use cases.
-
-At the end we will aim to feedback to the group!
-
----
-
-## Thanks for your time and please ask any qs now or after class if it feels more comfy.
-- Start to imagine how you might use a knowledge for yourself! 
 
