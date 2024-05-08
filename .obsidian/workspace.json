@@ -6,7 +6,6 @@
       {
         "id": "1e8c70a330f37713",
         "type": "tabs",
-        "dimension": 42.58872651356994,
         "children": [
           {
             "id": "8d98809e15f392df",
@@ -14,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d69897c2fead480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutorial/01_General syntax skills.md",
+                "file": "Tutorial/04_Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,36 +30,22 @@
         ]
       },
       {
-        "id": "aa38ca2e729be684",
+        "id": "d8653760d383fbe3",
         "type": "tabs",
-        "dimension": 57.41127348643006,
         "children": [
           {
-            "id": "ba07dca52d08f1b3",
+            "id": "327b626451461a65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/01_General syntax skills.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a04e631f7db4517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutorial/02_Core plugins.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/02_Core plugins.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/02_Core plugins.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/02_Core plugins.md"
+                "file": "README.md"
               }
             }
           },
@@ -203,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/02_Core plugins.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tutorial/02_Core plugins.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,17 +239,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a04e631f7db4517",
+  "active": "327b626451461a65",
   "lastOpenFiles": [
+    "Tutorial/05_Process.md",
     "README.md",
-    "Tutorial/02_Core plugins.md",
+    "Tutorial/04_Research.md",
+    "Tutorial/02_Interface.md",
+    "Tutorial/03_Plugins.md",
     "Tutorial/01_General syntax skills.md",
-    "Tutorial/03_Research.md",
     "Tutorial/00_Intro.md",
     "TO DO.md",
     "Welcome.md",
     "Agenda pad.md",
-    "Tutorial/04_Process.md",
     "Internal link.md",
     "Intro.md",
     "cool pup.png",

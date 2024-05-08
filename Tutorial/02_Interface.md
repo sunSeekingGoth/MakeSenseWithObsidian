@@ -1,0 +1,5 @@
+- reader and preview views
+- - Graph View
+- - Layout: Tabs and Panes
+- Clutter management 
+- make it cute

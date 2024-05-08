@@ -14,7 +14,7 @@ Obsidian with its flexibility structure lets us practice and learn what systems 
 
 ## What will we be looking at?
 
-- Structure
-- Automation
-- Annotation
-- Ideation
+- Structure - make their own system structure, folders for reading etc. maybe necessaries folders for this workshop (tosort etc)
+- Automation - read it later -
+- Annotation -  yt transcript - annotator - embedded media 
+- Ideation - canvas + different layouts of notes

@@ -203,15 +203,17 @@ Create a new pad and use the share menu to get the embed code like above.
 
 This is similar to social media tagging but you set the agenda!
 
---
+---
 ### You simply use a `#` and word to create tags between documents.
 
 These can be #inline or in page metadata (info about a note).
 
---
-### You can also tag within annotations!
 
-You can annotate essays easily with tags and keep track of trends!
+---
+
+## Subtags
+
+Batoollll
 
 ---
 # Metadata / Properties

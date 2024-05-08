@@ -11,7 +11,7 @@ In this session we are introducing the concept of knowledge bases, and the use o
 
 ### Constellations of knowledge
 
-We will then introduce the concepts of the workshop where we will use basic functionalities of obsidian to formulate a small constellation of knowledge, formed from connected notes on their selected media or papers. This will come together with the basic skills we have show to explore how themes, tags and connections can create new and generative ways of exploring their research.  
+We will then introduce the concepts of the workshop where we will use basic functionalities of obsidian to formulate a small constellation of knowledge, formed from connected notes on their selected media or papers. This will come together with the basic skills we have show to explore how themes, tags and connections can create new and generative ways of exploring their research. 
 ## Basic skill intro
 - Mark down
 	-  Editing Syntax
