@@ -8,8 +8,8 @@
 - Daily notes
 	- Date Format
 - Templates
-	- page templates
-	- inline templates?
+	- page templates: create a "work log" daily template with properties
+	- inline templates: dates, blocks of repeating info
 - Canvas
 	- ways of organising notes visually
 ## Community plugins

@@ -42,7 +42,9 @@ That enable you to break up notes into sections and structure many levels of sub
 
 ==Highlighted==
 
-`==Highlighted==`
+```
+==Highlighted==
+```
 
 ~~Strikethrough~~
 

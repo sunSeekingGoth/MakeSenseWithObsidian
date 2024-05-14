@@ -21,10 +21,10 @@
 	- [x] General ✅ 2024-05-06
 	- [x] Research ✅ 2024-05-06
 	- [x] Task & time Management ✅ 2024-05-06 (now called Process)
-- [ ] Expand on content for:
-	- [ ] General
-	- [ ] Research
-	- [ ] Process
+- [x] Expand on content for: ✅ 2024-05-14
+	- [x] General ✅ 2024-05-14
+	- [x] Research ✅ 2024-05-14
+	- [x] Process ✅ 2024-05-14
 - [ ] Make slides note to gauge length of each section
 - [x] Put to Github
 

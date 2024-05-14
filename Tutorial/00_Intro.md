@@ -28,6 +28,8 @@ Cultivating a knowledge base takes time (G: 1.5 years, B: 3 years) but today we 
 
 Showing different methods of using the same functionalities, we will see this with using tags, meta-data, annotation, writing styles and linking. How we are using the analogy of the constellation; how does creating tags and systems inform the structure of the constellation? 
 
+We've made a folder called "Workshop Notes" where you can create the exercises we will be going through today or take notes on what we're doing.
+
 
 
 

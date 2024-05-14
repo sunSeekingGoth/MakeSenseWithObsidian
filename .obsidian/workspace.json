@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/04_Research.md",
+                "file": "Tutorial/01_General syntax skills.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.50390243530273
+    "width": 203.50390243530273
   },
   "right": {
     "id": "6bfbdb1e5413a74b",
@@ -78,6 +78,7 @@
       {
         "id": "25d56012e954efa1",
         "type": "tabs",
+        "dimension": 54.872389791183295,
         "children": [
           {
             "id": "c7821f3d3e28023a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/04_Research.md",
+                "file": "Tutorial/01_General syntax skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/04_Research.md",
+                "file": "Tutorial/01_General syntax skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,39 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/04_Research.md"
-              }
-            }
-          },
-          {
-            "id": "90a8bd95cf551f2d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "27365ca08bbd7f04",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "13a0fa78bda18dd7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Tutorial/04_Research.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Tutorial/01_General syntax skills.md"
               }
             }
           },
@@ -167,9 +136,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tutorial/04_Research.md",
+                "file": "Tutorial/01_General syntax skills.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -191,9 +160,42 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7171113894671323,
-                  "close": false
+                  "close": true
                 }
               }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "27365ca08bbd7f04",
+        "type": "tabs",
+        "dimension": 45.127610208816705,
+        "children": [
+          {
+            "id": "13a0fa78bda18dd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tutorial/01_General syntax skills.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90a8bd95cf551f2d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -201,34 +203,36 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "8d98809e15f392df",
+  "active": "e7c16a56d3121baf",
   "lastOpenFiles": [
+    "Demo",
+    "Tutorial/00_Intro.md",
     "Tutorial/05_Process.md",
     "README.md",
-    "Agenda pad.md",
-    "Tutorial/01_General syntax skills.md",
-    "Tutorial/00_Intro.md",
-    "Tutorial/03_Plugins.md",
-    "Tutorial/04_Research.md",
-    "Tutorial/02_Interface.md",
     "TO DO.md",
+    "Agenda pad.md",
     "Welcome.md",
+    "Tutorial/04_Research.md",
+    "Tutorial/03_Plugins.md",
+    "2024-05-14.md",
+    "Tutorial/01_General syntax skills.md",
+    "cool pup.png",
+    "Tutorial/02_Interface.md",
     "Internal link.md",
     "Intro.md",
-    "cool pup.png",
     "Cognitivists example.md",
     "Tutorial"
   ]

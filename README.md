@@ -9,9 +9,9 @@ This gives an overview of how the we are approaching creating a constellation of
 ### Knowledge Bases
 In this session we are introducing the concept of knowledge bases, and the use of obsidian in this spectrum of these software and tools. We will introduce how we can practice and adapt these flexible tools to work within  many approaches to note taking, reading and organising your knowledge and research. 
 
-### Constellations of knowledge
+### Making Sense with Obsidian
 
-We will then introduce the concepts of the workshop where we will use basic functionalities of obsidian to formulate a small constellation of knowledge, formed from connected notes on their selected media or papers. This will come together with the basic skills we have show to explore how themes, tags and connections can create new and generative ways of exploring their research. 
+We will then introduce the concepts of the workshop where we will use basic functionalities of obsidian to formulate a small configurations of knowledge, formed from connected notes on your selected media or papers. This will come together with the basic skills we have show to explore how themes, tags and connections can create new and generative ways of exploring their research. 
 ## Basic skill intro
 
 ### [[01_General syntax skills]]
@@ -54,39 +54,30 @@ graph TD
 
 # Tuesday Morning:
 
-## Specific research skills⭐tools
-- Read It Later
-- Annotator (callback to graphs and tags)
-### Writing approaches:
-- creating your own text from a lot of reading.
-- Miro boards offering visual links vs idea-based linked with hyper links in obsidian.
-
-> [! Group Task]
-> Bring a PDF into your vault
-> Use Anatator to make notes
-
-
-## Review??
-
-## Task & Time management
-- Tasks Plugin 
-- Project-based
-	- Dataview 
-	- Homepage without the Homepage plugin
-
->[! Group Task]
->Adding to do to some of the project page
->Create some time sensitive ones and some general ones
-
-- Time-based
-	- Task Rollover
-	- Day Planner
-	- Calendar (small & daily notes)
-	- Daily notes (template per day)
-## Themeing:
-Making it cute
-CSS & Style Settings
-____
+## [[04_Research]]
+- Intro
+- Structure
+	- Folder structure
+	- Data Structure
+- Automation:
+	- Read It Later
+	- Quick add
+- Annotation:
+	- Annotator & other/diverse media annotation
+- Ideation & Inspiration
+	- Canvas & layouts
+- Writing approaches discussion
+### [[05_Process]]
+- Tasks 
+	- Core syntas
+	- Plugin features
+	- Extra mention: Task Rollover
+- Calendar
+	- link to daily note & setup tasks
+- Dataview
+	- Querying tasks
+	- Tables
+- Tracker
 # Discussions:
 Doing things in different ways
 - note status, tags vs meta-data

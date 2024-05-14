@@ -15,7 +15,38 @@ Obsidian with its flexibility structure lets us practice and learn what systems 
 
 ## What will we be looking at?
 
-- Structure - make their own system structure, folders for reading etc. maybe necessaries folders for this workshop (tosort etc)
-- Automation - read it later - quick add
-- Annotation -  yt transcript - annotator - embedded media 
-- Ideation - canvas + different layouts of notes
+- Structure - some people may have already made their own directory structure, folders for reading etc. maybe necessaries folders for this workshop :
+	- Folder Structure
+		- Tosort 
+		- Archive 
+	- Data Structure
+		- Properties: metadata for parsing different notes eg. Author, File Type, Website
+		- Tags: can be used to structure the status of different notes eg. to-read
+		- Discussion on using tags & properties for different approaches to working. It will different depending on whether you prefer to use Graph View or Dataview to create a big-picture look over your notes. 
+
+> [! Reflect]
+> Don't be afraid to change your folder to match your evolving needs!
+
+- Automation
+	- read it later: actually downloads page content!
+		- get plugin and setup tosort folder
+		- get URL to paste in 
+	- quick add: quick tutorial for how to make a function
+		- add pad through provided code block
+		- see an embedded shared pad in iframe
+
+> [! Reflect]
+> What would you want to automate?
+> How can we think about automation as a process of caring for our selves and research, creating time & systems for us to make our work?
+
+- Annotation 
+	- Annotator: Use plugin with PDFs
+	- Embedded media 
+	- yt transcript 
+	- Zotero, quick mention and link to video tutorial 
+- Ideation & Inspiration
+	- Canvas + different layouts of notes
+		- Plans dg. Teaching plan
+### Writing approaches:
+- creating your own text from a lot of reading.
+- Miro boards offering visual links vs idea-based linked with hyper links in obsidian.
