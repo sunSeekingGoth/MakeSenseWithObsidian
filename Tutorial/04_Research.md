@@ -1,3 +1,4 @@
+50 mins
 # Intro
 
 As you saw in [[01_General syntax skills]] there are many ways we can make notes to make sense of different media and resources we want to work with. In this section we will be looking at some of the methods we have found useful for working within obsidian for research. 
@@ -15,6 +16,6 @@ Obsidian with its flexibility structure lets us practice and learn what systems 
 ## What will we be looking at?
 
 - Structure - make their own system structure, folders for reading etc. maybe necessaries folders for this workshop (tosort etc)
-- Automation - read it later -
+- Automation - read it later - quick add
 - Annotation -  yt transcript - annotator - embedded media 
 - Ideation - canvas + different layouts of notes

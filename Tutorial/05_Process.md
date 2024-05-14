@@ -1,3 +1,5 @@
+50 mins
+
 As well as being a place to create and keep your notes, Obsidian is also an interface for _how_ you work. Everyone will have difference preferences for tools that manage their tasks and the time needed to complete them. 
 
 ---
@@ -5,12 +7,12 @@ As well as being a place to create and keep your notes, Obsidian is also an inte
 - [ ] This is a thing to do
 	- [ ] This is a sub-thing
 
---
+---
 ## Task Syntax 
 Is `- [ ] `
 but you can also insert a checkbox with the `cmd-L` shortcut
 
--- 
+---
 ## "advanced" tasks
 The core Tasks plugin is good for most things, but you can also use the Tasks community plugin to be able to add more nuance (and emojis) to your tasks like:
 - [ ] priorities ⏫ 
@@ -27,3 +29,6 @@ The core Tasks plugin is good for most things, but you can also use the Tasks co
 
 reading tracker, ask george maybe?
 writing tracker!
+
+---
+# Dataview

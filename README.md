@@ -13,29 +13,46 @@ In this session we are introducing the concept of knowledge bases, and the use o
 
 We will then introduce the concepts of the workshop where we will use basic functionalities of obsidian to formulate a small constellation of knowledge, formed from connected notes on their selected media or papers. This will come together with the basic skills we have show to explore how themes, tags and connections can create new and generative ways of exploring their research. 
 ## Basic skill intro
+
+### [[01_General syntax skills]]
 - Mark down
 	-  Editing Syntax
 	- Tags
 	- Hyperlinks (internal & external)
-	- reader and preview views
 	- Callouts
 	- Metadata / properties (light)
+### [[02_Interface]]
+- reader and preview views
+- Layouts: Tabs and Pane
+- Folder organisation
 - Graph View
-- Core plugins
-	- Templates
-		- Command Palette
-		- Slash command
-	- Daily notes
-		- Date Format
-	- Canvas
-- Layout: Tabs and Panes
-- Clutter management 
-- make it cute
+- Queerying
+- Make it cute
 
-> [! Group Task]
-> Create base project directory
-> put index or overveiw in each one to explain what it is
-> eg. Research, writing, interviews
+### [[03_Plugins]]
+- Templates
+	- Command Palette
+	- Slash command
+- Daily notes
+	- Date Format
+- Canvas
+
+> [! Optional Tasks]
+> 1. Create directory structures u might need e.g.:
+> 	- research
+> 		- papers
+> 		- writing
+> 		- projects
+> 
+>```mermaid
+graph TD
+>
+>Research --> Chemistry
+>```
+> 2. Create an index or overview in each new directory to explain what it is. Remember you can use a template so they are all the same format, and then you can add tags, link them to related files and write some info about them.
+> 3. Maybe even start to add some existing research into the vault and place them in the relevant folders.
+
+# Tuesday Morning:
 
 ## Specific research skills⭐tools
 - Read It Later
@@ -48,7 +65,6 @@ We will then introduce the concepts of the workshop where we will use basic func
 > Bring a PDF into your vault
 > Use Anatator to make notes
 
-# Tuesday Morning:
 
 ## Review??
 
@@ -85,7 +101,5 @@ Doing things in different ways
 - Day Planner
 - Syncthing
 
-___
-# Review
 
 

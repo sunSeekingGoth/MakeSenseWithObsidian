@@ -1,4 +1,4 @@
-
+20-25 mins
 # 1 Lets learn some syntax!
 
 Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax) but we will run through the basics
