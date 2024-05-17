@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/01_General syntax skills.md",
+                "file": "Tutorial/04_Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/01_General syntax skills.md",
+                "file": "Tutorial/04_Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/01_General syntax skills.md",
+                "file": "Tutorial/04_Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/01_General syntax skills.md"
+                "file": "Tutorial/04_Research.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tutorial/01_General syntax skills.md",
+                "file": "Tutorial/04_Research.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,7 +159,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7171113894671323,
+                  "scale": 0.5392668690923015,
                   "close": true
                 }
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/01_General syntax skills.md",
+                "file": "Tutorial/04_Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,11 +203,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -216,21 +215,22 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e7c16a56d3121baf",
+  "active": "fe080aa2107e4409",
   "lastOpenFiles": [
+    "README.md",
+    "Tutorial/04_Research.md",
+    "Tutorial/02_Interface.md",
+    "Tutorial/03_Plugins.md",
+    "Tutorial/05_Process.md",
+    "Tutorial/Attachments/cool pup.png",
+    "Tutorial/Attachments",
+    "Tutorial/01_General syntax skills.md",
     "Demo",
     "Tutorial/00_Intro.md",
-    "Tutorial/05_Process.md",
-    "README.md",
     "TO DO.md",
     "Agenda pad.md",
     "Welcome.md",
-    "Tutorial/04_Research.md",
-    "Tutorial/03_Plugins.md",
     "2024-05-14.md",
-    "Tutorial/01_General syntax skills.md",
-    "cool pup.png",
-    "Tutorial/02_Interface.md",
     "Internal link.md",
     "Intro.md",
     "Cognitivists example.md",

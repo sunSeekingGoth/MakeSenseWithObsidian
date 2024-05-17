@@ -4,7 +4,7 @@ This gives an overview of how the we are approaching creating a constellation of
 
 # Monday Afternoon
 
-## Intro
+## [[00_Intro]]
 
 ### Knowledge Bases
 In this session we are introducing the concept of knowledge bases, and the use of obsidian in this spectrum of these software and tools. We will introduce how we can practice and adapt these flexible tools to work within  many approaches to note taking, reading and organising your knowledge and research. 
@@ -38,16 +38,27 @@ We will then introduce the concepts of the workshop where we will use basic func
 - Canvas
 
 > [! Optional Tasks]
-> 1. Create directory structures u might need e.g.:
-> 	- research
-> 		- papers
-> 		- writing
-> 		- projects
+> 1. Create directory structures u might need e.g.: 
+> - Research:
+> 	- Papers
+> 	- Projects
+> - Thesis:
+> 	- Chapter1
+> 	- Chapter2
+> - Templates
+> - Notes
 > 
+>Or in a graph as:
 >```mermaid
-graph TD
->
->Research --> Chemistry
+>flowchart LR
+>Vault --> Research
+>Vault --> Thesis
+>Vault --> Templates
+>Vault --> Notes
+>Research --> Papers
+>Research --> Projects
+>Thesis --> Chapter1
+>Thesis --> Chapter2
 >```
 > 2. Create an index or overview in each new directory to explain what it is. Remember you can use a template so they are all the same format, and then you can add tags, link them to related files and write some info about them.
 > 3. Maybe even start to add some existing research into the vault and place them in the relevant folders.
