@@ -27,5 +27,7 @@
 	- [x] Process ✅ 2024-05-14
 - [ ] Make slides note to gauge length of each section
 - [x] Put to Github
+- [ ] Do we want to number the headers so that people can follow along?
+- [ ] Do we want to export the Tutorial folder as a PDF to give as a follow along sheet?
 
 Pad: https://digitalcare.noho.st/pad/p/MakeSenseWithObsidian

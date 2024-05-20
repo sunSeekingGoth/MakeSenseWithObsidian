@@ -26,9 +26,8 @@ We will then introduce the concepts of the workshop where we will use basic func
 - Layouts: Tabs and Pane
 - Folder organisation
 - Graph View
-- Queerying
+- Querying
 - Make it cute
-
 ### [[03_Plugins]]
 - Templates
 	- Command Palette
@@ -79,29 +78,40 @@ We will then introduce the concepts of the workshop where we will use basic func
 	- Canvas & layouts
 - Writing approaches discussion
 ### [[05_Process]]
+- Intro
 - Tasks 
-	- Core syntas
-	- Plugin features
+	- Core Task plugin
+	- Community Tasks Plugin features
 	- Extra mention: Task Rollover
-- Calendar
+- Routines & Timekeeping
+	- Calendar
 	- link to daily note & setup tasks
+	- Tracker
 - Dataview
-	- Querying tasks
-	- Tables
-- Tracker
+	- Dataview: Querying tasks
+	- Dataview: Query Tables
+- Work Modes:
+	- Workspaces
 # Discussions:
 Doing things in different ways
 - note status, tags vs meta-data
 - annotations, inside vs outside PDFs
 - writing approaches
 # Resources
-## Extra & Cool
+
+## Technical References
+- [Obsidian Documentation](https://help.obsidian.md/Home)
+- [Markdown Cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+## Extra & Cool Plugins
 - Highlighter
-- slides
+- Slides
 - Better Word Count
 - Homepage
 - Day Planner
 - Syncthing
-
+# Community
+- [Tech Support](https://help.obsidian.md/Help+and+support)
+- [Forum](https://forum.obsidian.md)
+- [Publish sites](https://www.are.na/marco-noris/obsidian-publish-websites)
 
 

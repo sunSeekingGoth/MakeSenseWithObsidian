@@ -1,7 +1,8 @@
 15-20 mins - overview
 +10 min break
 
-more introing and demoing talking
+# Intro
+
 
 - reader and preview views
 - Layout: Tabs and Panes

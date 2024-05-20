@@ -1,8 +1,9 @@
 25-35 mins
-# Intro to plugins
+# Intro 
 
+---
+# Core Plugins
 
-## Core Plugins
 - Command Palette
 	- Slash command
 - Daily notes
@@ -10,9 +11,11 @@
 - Templates
 	- page templates: create a "work log" daily template with properties
 	- inline templates: dates, blocks of repeating info
+	- note: remove templates from searches!
+
 - Canvas
 	- ways of organising notes visually
-## Community plugins
+# Community plugins
 - easy example get better emoji shortcode
 - intermediate example annotator
 - Other examples:

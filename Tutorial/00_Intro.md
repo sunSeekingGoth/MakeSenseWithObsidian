@@ -1,11 +1,10 @@
 20 mins - settle and intro
 # Situating "Making Sense with Obsidian"
 ## Knowledge base & Research Collection
-
 Our uses of this tool, being within the context of research, 
 - note-taking
--  A centralisation and management system of notes & ideas.
-- using link, connections and data to create your groupings, rhythms and movements within notes. 
+- A centralisation and management system of notes & ideas.
+- using links, connections and data to create your groupings, rhythms and movements within notes. 
 - Using different modes like visualising knowledge. 
 
 ## Why we personally have a knowledge base:

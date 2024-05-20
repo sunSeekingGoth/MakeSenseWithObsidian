@@ -85,7 +85,7 @@ Do you think it will be good to set the themes (or whatever you want to call it)
 
 The inevitable question! Should it be a tag, or should it be a property?
 
-Well sad\*happy to say it's up to you! But there are a few minor differences, the most major being that tags show up in the graph, and properties don't. 
+Well sad\*happy to say it's up to you! But there are a few minor differences, the most major being that tags show up in the graph view, and properties don't. 
 
 ---
 
