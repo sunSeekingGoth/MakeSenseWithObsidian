@@ -91,6 +91,9 @@ We will then introduce the concepts of the workshop where we will use basic func
 	- Dataview: Querying tasks
 	- Dataview: Query Tables
 - Work Modes:
+	- Reading / note-taking 
+	- Writing
+	- Daily / Admin
 	- Workspaces
 # Discussions:
 Doing things in different ways

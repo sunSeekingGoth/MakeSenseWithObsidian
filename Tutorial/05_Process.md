@@ -54,6 +54,27 @@ Dataview is a plugin that allows you to see different parts of your notes based 
 > We are not trying to track for efficiency, but this could be helpful when writing on a deadline or you need to maintain a rhythm of daily writing, reading
 
 ---
+# Work Modes
+Similar to rearranging your desk for different projects, you can use different layouts to do different parts of you workflow.
+
+This will inevitably become your own, for now, my suggested ones are: Reading, Writing and Admin. 
+
+---
+# Workspaces
+A core plugin that saves each layout with the name you give it, then snaps you in and out of that layout 
+
+---
+# Reading
+This is for doing most of what we covered in the [[04_Research#Research]] section and will be best for viewing two files side by side
+
+---
+# Writing
+focus mode
+
+---
+# Admin
+
+---
 # Troubleshooting 
 Knowing how things break is the best way of understanding how they work! Some of these things will "break" your vault, here is how to fix them:
 ### Changing your vault location 
