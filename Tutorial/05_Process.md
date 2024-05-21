@@ -64,15 +64,15 @@ This will inevitably become your own, for now, my suggested ones are: Reading, W
 A core plugin that saves each layout with the name you give it, then snaps you in and out of that layout 
 
 ---
-# Reading
+## Reading
 This is for doing most of what we covered in the [[04_Research#Research]] section and will be best for viewing two files side by side
 
 ---
-# Writing
+## Writing
 focus mode
 
 ---
-# Admin
+## Admin or Daily
 
 ---
 # Troubleshooting 
@@ -84,6 +84,10 @@ Knowing how things break is the best way of understanding how they work! Some of
 - Go to: Options -> Files and Links
 - make sure that "Automatically Update Internal Links" is toggled on
 - If you are prompted to auto-update links always select yes
+
+## Changing date formats
+Keep all date formats to YYYY-MM-DDD even if you find it annoying. I changed it to dd-mm-yyyy and had to change it back after a few months with much faff and python scripting.
+- Don't do it.
 ### Changing the default config 
 This is a more advanced problem for adventurers who want to override `.obsidian` settings, possibly to create extra custom profiles.
 - Don't do it. Make a new vault or copy your vault if you want to test different configs and do that by editing the existing .obsidian file
