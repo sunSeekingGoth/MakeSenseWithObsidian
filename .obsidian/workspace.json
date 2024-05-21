@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "216a1c97802517f2",
+    "id": "bbcd6e12372b0eeb",
     "type": "split",
     "children": [
       {
-        "id": "1e8c70a330f37713",
+        "id": "f23882bba011b0af",
         "type": "tabs",
         "children": [
           {
-            "id": "59372ef5e668c5c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutorial/04_Research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "308cd8720a1263cb",
+            "id": "57a94f4562c19fba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,38 +20,20 @@
             }
           }
         ]
-      },
-      {
-        "id": "c4e8aa15bb757d0b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bdb0fa1029a328f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sandbox/Sandbox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ff0f6b4766f287e6",
+    "id": "104cbf0a90e9d465",
     "type": "split",
     "children": [
       {
-        "id": "b88d729249b20e6e",
+        "id": "3ca9b6613ec1362e",
         "type": "tabs",
         "children": [
           {
-            "id": "e7c16a56d3121baf",
+            "id": "7fed8876bb34d4bb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -73,7 +43,7 @@
             }
           },
           {
-            "id": "c0f52e6037324b4e",
+            "id": "b0692def5dce4aff",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -88,7 +58,7 @@
             }
           },
           {
-            "id": "8ea0b778ea1db498",
+            "id": "b7d04080780955b0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,23 +69,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.50390243530273
+    "width": 300
   },
   "right": {
-    "id": "6bfbdb1e5413a74b",
+    "id": "c6d3237312802c83",
     "type": "split",
     "children": [
       {
-        "id": "25d56012e954efa1",
+        "id": "0f55f1ff9fb07e3c",
         "type": "tabs",
         "children": [
           {
-            "id": "c7821f3d3e28023a",
+            "id": "d88228144c2d2ae7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b3bc7d4afadf5a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/04_Research.md",
+                "file": "Tutorial/02_Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,19 +105,19 @@
             }
           },
           {
-            "id": "f9348fd3784df033",
+            "id": "ec2c320f40e78efd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/04_Research.md",
+                "file": "Tutorial/02_Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a793b98eecbc1f3b",
+            "id": "63e1000eba9ec32e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,106 +128,35 @@
             }
           },
           {
-            "id": "0c3a17073e127c63",
+            "id": "4aa24bed5e6975d3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/04_Research.md"
-              }
-            }
-          },
-          {
-            "id": "fe080aa2107e4409",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Tutorial/04_Research.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5392668690923015,
-                  "close": true
-                }
+                "file": "Tutorial/02_Interface.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "59372ef5e668c5c8",
-  "lastOpenFiles": [
-<<<<<<< Updated upstream
-=======
-    "Tutorial/Attachments/ReadItLater_Settings.png",
-    "Tutorial/Attachments/ReadItLaterIcon.png",
-    "Tutorial/02_Interface.md",
-    "README.md",
-    "Tutorial/05_Process.md",
-    "Tutorial/01_General syntax skills.md",
-    "Tutorial/03_Plugins.md",
-    "Tutorial/04_Research.md",
->>>>>>> Stashed changes
-    "TO DO.md",
-    "README.md",
-    "Tutorial/03_Plugins.md",
-    "Tutorial/02_Interface.md",
-    "Tutorial/01_General syntax skills.md",
-    "Tutorial/00_Intro.md",
-    "Tutorial/04_Research.md",
-    "Tutorial/Attachments/Properties.png",
-    "Tutorial/Attachments/Metadata Types.png",
-    "Sandbox/Sandbox.md",
-    "Sandbox/Untitled.canvas",
-    "Sandbox",
-    "Tutorial/05_Process.md",
-    "Tutorial/Attachments/cool pup.png",
-    "Tutorial/Attachments",
-    "Demo",
-    "Agenda pad.md",
-    "Welcome.md",
-    "2024-05-14.md",
-    "Internal link.md",
-    "Intro.md",
-    "Cognitivists example.md",
-    "Tutorial"
-  ]
+  "active": "57a94f4562c19fba",
+  "lastOpenFiles": []
 }
