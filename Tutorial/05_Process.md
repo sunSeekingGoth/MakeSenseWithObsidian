@@ -1,5 +1,4 @@
 50 mins
-
 As well as being a place to create and keep your notes, Obsidian is also an interface for _how_ you work. Everyone will have difference preferences for tools that manage their tasks and the time needed to complete them. This section will be more about setting yourself up for a basic workflow and time management .
 
 ---
