@@ -36,7 +36,7 @@ The files tab on the left, is basically the file system (vault) that these notes
 
 ---
 
-#### Recommended Files
+#### Recommended Folders
 
 ##### Tosort 
 
@@ -44,6 +44,8 @@ A folder to dump bits to sort later! This is very helpful when finding bits on t
 ##### Archive 
 
 A folder to keep past projects and files to help keep your directory clean and more focused on present projects.
+
+- maybe say many ways to do it but we find sub-vaults in the appropriate places are good. (e.g. projects, events, conferences, etc.)
 
 ---
 ##### Attachments
@@ -69,7 +71,7 @@ Notes/
 
 Metadata for parsing different notes. eg.:
 - Author
-- File Type (note, annotation, podcast)
+- File Type (note, annotation, podcast).
 - Website
 
 ---
@@ -89,7 +91,6 @@ The inevitable question! Should it be a tag, or should it be a property?
 Well sad\*happy to say it's up to you! But there are a few minor differences, the most major being that #tags show up in the graph, and properties don't. 
 
 ---
-
 #### Love
 
 > [! Reflect]
@@ -101,14 +102,18 @@ Well sad\*happy to say it's up to you! But there are a few minor differences, th
 By automation, we are not approaching this as a way of accelerating our work and getting maximum efficiencies, but as a way to setup protocols and rhythms for ourselves to easily keep somewhat uniform notes that we can come back to when we are ready and able. It is a way to take care setting up to provide simple and easy workflows for yourself! 
 
 There are many many many ways to do this in obsidian, but we will just show you a few handy addons/processes we have found that work well.
+
+---
 ### Read it later: 
 
-This is a very simple example that I especially use when clearing my tabs and archiving bits I want to keep. It basically is a addon that adds a simple button that takes the URL you have copied in your clipboard and saves it as a note in a designated folder. A bonus here, if you are nerdy and care about energy expense of networks and accessibility of resources offline on your local computers, is that it actually saves it as a note in your vault! This also means you can write notes around, add properties\*tags and edit it as well.
+This is a very simple example that I especially use when clearing my tabs and archiving bits I want to keep. It basically is a addon that adds a simple button that takes the URL you have copied in your clipboard and saves it as a note in a designated folder. 
+
+A bonus here, if you are nerdy and care about energy expense of networks and accessibility of resources offline on your local computers, is that it actually saves it as a note in your vault! This also means you can write notes around, add properties\*tags and edit it as well.
 
 ![[ReadItLaterIcon.png]]
 > ReadItLater icon in the left side bar.
 
-Download from [HERE](obsidian://show-plugin?id=obsidian-read-it-later), or go to Settings>community plugins>browse and search `ReadItLater`. (Make sure you remember to enable it.)
+Install it [HERE](obsidian://show-plugin?id=obsidian-read-it-later), or go to Settings>community plugins>browse and search `ReadItLater`. (Make sure you remember to enable it.)
 
 
 
@@ -117,6 +122,7 @@ Download from [HERE](obsidian://show-plugin?id=obsidian-read-it-later), or go to
 Actually downloads page content!
 		- get plugin and setup tosort folder
 		- get URL to paste in 
+
 ### Quick add:
 quick tutorial for how to make a function
 		- add pad through provided code block
@@ -132,14 +138,15 @@ quick tutorial for how to make a function
 - Embedded media 
 - yt transcript 
 - Zotero, quick mention and link to video tutorial 
-- Ideation & Inspiration
-	- Canvas + different layouts of notes
-		- Plans dg. Teaching plan
+
 
 ---
 ## Writing Approaches:
 - creating your own text from a lot of reading.
 - Miro boards offering visual links vs idea-based linked with hyper links in obsidian.
+- Ideation & Inspiration
+	- Canvas + different layouts of notes
+		- Plans dg. Teaching plan
 
 ---
 quick add vid

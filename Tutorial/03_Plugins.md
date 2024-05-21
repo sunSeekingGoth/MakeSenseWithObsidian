@@ -4,17 +4,18 @@
 ---
 # Core Plugins
 
-- Command Palette
+- Command Palette - George
 	- Slash command
-- Daily notes
+- Daily notes - Batool
 	- Date Format
-- Templates
+- Templates - Both
 	- page templates: create a "work log" daily template with properties
 	- inline templates: dates, blocks of repeating info
 	- note: remove templates from searches!
 
-- Canvas
+- Canvas - Both
 	- ways of organising notes visually
+	- functionality.
 # Community plugins
 - easy example get better emoji shortcode
 - intermediate example annotator

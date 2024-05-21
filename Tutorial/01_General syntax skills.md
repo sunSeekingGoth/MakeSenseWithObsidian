@@ -6,12 +6,20 @@ Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+f
 ---
 
 Here we will look at essentials of markdown:
-- Headings
-- Styling
+- [[01_General syntax skills#2 Headings!|2 Headings]]
+- [[01_General syntax skills#3 Styling|3 Styling]]
+- [[01_General syntax skills#4 To Dos|4 To Dos]]
+- [[01_General syntax skills#5 Code!|5 Code!]]
+- [[01_General syntax skills#6 Notes * Comments|6 Notes*Comments]]
+- [[01_General syntax skills#7 There are many types of links 🔗|7 There are many types of links 🔗]]
+- [[01_General syntax skills#9 Tagging|9 Tagging]]
+- [[01_General syntax skills#10 Metadata / Properties|10 Metadata / Properties]]
+- [[01_General syntax skills#11 Why organise like this?|11 Why organise like this?]]
+- ToDos
 - hyperlinks 
 - embeds
 - tags
-- ToDos
+
 
 ---
 
@@ -98,7 +106,7 @@ Using one \` either side of the text.
 And they are all pretty flexible and handy, creating a wide range of possibilities.
 
 ---
-### External
+## External
 
 [Web Links](https://help.obsidian.md/Linking+notes+and+files/Internal+links)
 
@@ -107,7 +115,7 @@ And they are all pretty flexible and handy, creating a wide range of possibiliti
 To enable you to link to external websites and resources.
 
 ---
-### Internal links
+## Internal links
 
 **Simple (Wiki Link):**
 [[00_Intro]]
@@ -131,7 +139,7 @@ Like if you are mid thought, and remember that this text connects to [[Related C
 > This keeps your sentence cohesive as note titles don't always make sense in-line
 
 ---
-# Embedding links
+# 8 Embedding links
 
 This enables you to link to images and other sorts of information within the docs! It also means that multiple notes can share and link to the same image, saving space and time. It also means that it is fairly limitless what you can do when it comes to embedding which makes it very transformable and adaptable. 
 
@@ -160,7 +168,7 @@ e.g.
 This lets you embed images from online. I would recommend using local though as it is more stable, and uses less energy.  
 
 ---
-### Embed videos
+## Embed videos
 
 <iframe title="Access Server, American Sign Language  with Optional Captions" width="560" height="315" src="https://tube.systerserver.net/videos/embed/5249d4a1-852e-4dfe-8b4c-42bb2eeb656c" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
@@ -173,7 +181,7 @@ Just embed videos how you normally would in html. You can normally find this cod
 
 ---
 
-### Embedding Websites in notes
+## Embedding Websites in notes
 
 
 
@@ -193,7 +201,7 @@ This means you can link directly to sites, feeds and resources you might want to
 
 <iframe name="embed_readwrite" src="https://pad.vvvvvvaria.org/obs_wrkshop?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
 
-
+e.g.
 ``` html
 <iframe name="embed_readwrite" src="https://pad.vvvvvvaria.org/obs_wrkshop?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
 ```
@@ -201,7 +209,7 @@ This means you can link directly to sites, feeds and resources you might want to
 Create a new pad and use the share menu to get the embed code like above.
 
 ---
-## Tagging
+# 9 Tagging
 
 This is similar to social media tagging but you set the agenda!
 
@@ -218,28 +226,53 @@ These can be #inline or in page metadata (info about a note).
 Batoollll
 
 ---
-# Metadata / Properties
+#  10 Metadata / Properties
 
-Similar to tags, metadata can store information about your notes, but it can also store information about the file itself.
+Similar to tags, metadata can store information about your notes, but it can also store information about the file itself. 
+
+![[Properties.png]]
+
+Properties are always at the top of the page, so the example is in the [[Sandbox]] file. You can add them through the interface provided, or code them in like these examples:
+
+``` md
+---
+<protperty_name>: <property_value>
+---
+```
+e.g.
+``` md
+---
+type: demo
+---
+```
+
 
 > [! Tip]
-> Metadata is best used for information that you don't want to appear in-line with your text. 
+> In read view you can't see the properties, so this metadata is best used for information that you don't want to appear in-line with your text. 
 
---
+---
 ## Common metadata:
 - Date created (usually automated with Templates plugin)
 - Title (can be automated by pulling from note name)
 - Alias
 - Author
 - Citation
---
-## metadata "types"
-In comparison to tags, metadata can also store _different kinds_ of data, like dates and boolean data (like whether or not you drank water today).
+---
+## Metadata "types"
+In comparison to tags, metadata can also store _different kinds_ of data, like dates and boolean (true/false) data (e.g. if a file is being edited or not).
+
+![[Metadata Types.png]]
+>[!Note!]
+>These property types can also by manually coded in if you prefer but the menu can help!
 
 ---
-## Why organise like this?
+# 11 Why organise like this?
 
-Because then you can start to see and search through you information in a much clearer way.
+This way of structuring your notes is what makes obsidian (and other knowledge bases with similar capacities) so useful, as they enable you to connect and thread your notes together in multiple ways! 
+
+Throughout the workshop we will also see how these threads will  enable us to bring together different ways of accessing your notes and research into new formations and interfaces that can help us understand it and connect it in different ways. 
+
+The main thing we will be trying to show is how to make these processes easy, sustainable and adaptable for you to fit around your practice and rhythms.
 
 ---
 

@@ -14,25 +14,25 @@ In this session we are introducing the concept of knowledge bases, and the use o
 We will then introduce the concepts of the workshop where we will use basic functionalities of obsidian to formulate a small configurations of knowledge, formed from connected notes on your selected media or papers. This will come together with the basic skills we have show to explore how themes, tags and connections can create new and generative ways of exploring their research. 
 ## Basic skill intro
 
-### [[01_General syntax skills]]
+### [[01_General syntax skills]] -George
 - Mark down
 	-  Editing Syntax
 	- Tags
 	- Hyperlinks (internal & external)
 	- Callouts
 	- Metadata / properties (light)
-### [[02_Interface]]
+### [[02_Interface]] - Batool
 - reader and preview views
 - Layouts: Tabs and Pane
 - Folder organisation
 - Graph View
 - Querying
 - Make it cute
-### [[03_Plugins]]
+### [[03_Plugins]] 
 - Templates
 	- Command Palette
 	- Slash command
-- Daily notes
+- Daily notes - Daily notes
 	- Date Format
 - Canvas
 
@@ -62,9 +62,10 @@ We will then introduce the concepts of the workshop where we will use basic func
 > 2. Create an index or overview in each new directory to explain what it is. Remember you can use a template so they are all the same format, and then you can add tags, link them to related files and write some info about them.
 > 3. Maybe even start to add some existing research into the vault and place them in the relevant folders.
 
+
 # Tuesday Morning:
 
-## [[04_Research]]
+## [[04_Research]] - George
 - Intro
 - Structure
 	- Folder structure
@@ -77,7 +78,7 @@ We will then introduce the concepts of the workshop where we will use basic func
 - Ideation & Inspiration
 	- Canvas & layouts
 - Writing approaches discussion
-### [[05_Process]]
+### [[05_Process]] - Batool
 - Intro
 - Work Modes:
 	- Reading / note-taking 
