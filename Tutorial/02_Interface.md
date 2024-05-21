@@ -11,7 +11,10 @@
 - Graph View
 	- different perspectives into
 	- filters
-- Knowdlege queerying interfaces.
+- Knowdlege querying interfaces.
 	- small intro, but more deflating concerns.
+	- filtering tags on Graph View
+	- Simple Query like no. pages in vault or no pages tagged reading
+	- Clue to creating tables with Dataview and Calendar trackers
 - make it cute
 	- just intro and show, but don't rec doing it yet.

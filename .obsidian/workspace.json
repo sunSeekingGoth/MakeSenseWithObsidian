@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "308cd8720a1263cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorial/02_Interface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -231,10 +243,10 @@
   },
   "active": "8d98809e15f392df",
   "lastOpenFiles": [
-    "README.md",
     "Tutorial/02_Interface.md",
-    "Tutorial/01_General syntax skills.md",
+    "README.md",
     "Tutorial/05_Process.md",
+    "Tutorial/01_General syntax skills.md",
     "Tutorial/03_Plugins.md",
     "Tutorial/04_Research.md",
     "TO DO.md",

@@ -79,22 +79,23 @@ We will then introduce the concepts of the workshop where we will use basic func
 - Writing approaches discussion
 ### [[05_Process]]
 - Intro
-- Tasks 
-	- Core Task plugin
-	- Community Tasks Plugin features
-	- Extra mention: Task Rollover
-- Routines & Timekeeping
-	- Calendar
-	- link to daily note & setup tasks
-	- Tracker
-- Dataview
-	- Dataview: Querying tasks
-	- Dataview: Query Tables
 - Work Modes:
 	- Reading / note-taking 
 	- Writing
 	- Daily / Admin
 	- Workspaces
+- Routines & Timekeeping
+	- Calendar
+	- link to daily note & setup tasks
+- Tasks 
+	- Core Task plugin
+	- Community Tasks Plugin features
+	- Extra mention: Task Rollover
+- Vault stats & Overview
+	- Dataview: Querying tasks
+	- Dataview: Query Tables
+	-  Tracker
+
 # Discussions:
 Doing things in different ways
 - note status, tags vs meta-data

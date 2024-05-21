@@ -32,7 +32,9 @@ The core Tasks plugin is good for most things, but you can also use the Tasks co
 
 ---
 # Dataview
-Dataview is a plugin that allows you to see different parts of your notes based on the meta-data and tags allocated to them. It does this by asking your vault for certain info
+Dataview is a plugin that allows you to see different parts of your notes based on the meta-data and tags allocated to them. It does this by asking your vault for certain info.
+
+Defining your queries will help you articulate the question that you want to ask about your own knowledge base which will inform what kinda of connections you want to synthesise.
 
 ---
 
@@ -47,6 +49,8 @@ Dataview is a plugin that allows you to see different parts of your notes based 
 		- Published date
 		- Tags
 		- Ranking / Importance
+
+---
 ## Tracker
 - Writing tracker can be set up with the word count plugin
 
@@ -69,7 +73,7 @@ This is for doing most of what we covered in the [[04_Research#Research]] sectio
 
 ---
 ## Writing
-focus mode
+Plugins: focus mode & typewriter scroll (dyslexia support)
 
 ---
 ## Admin or Daily
@@ -93,3 +97,4 @@ This is a more advanced problem for adventurers who want to override `.obsidian`
 - Don't do it. Make a new vault or copy your vault if you want to test different configs and do that by editing the existing .obsidian file
 
 _Further support and trouble shooting [[README#Community|through here]]_
+
