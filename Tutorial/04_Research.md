@@ -71,6 +71,7 @@ Metadata for parsing different notes. eg.:
 - Author
 - File Type (note, annotation, podcast)
 - Website
+
 ---
 #### `#`Tags: 
 
@@ -85,7 +86,7 @@ Do you think it will be good to set the themes (or whatever you want to call it)
 
 The inevitable question! Should it be a tag, or should it be a property?
 
-Well sad\*happy to say it's up to you! But there are a few minor differences, the most major being that tags show up in the graph view, and properties don't. 
+Well sad\*happy to say it's up to you! But there are a few minor differences, the most major being that #tags show up in the graph, and properties don't. 
 
 ---
 
@@ -96,11 +97,28 @@ Well sad\*happy to say it's up to you! But there are a few minor differences, th
 
 ---
 ## Automation
+
+By automation, we are not approaching this as a way of accelerating our work and getting maximum efficiencies, but as a way to setup protocols and rhythms for ourselves to easily keep somewhat uniform notes that we can come back to when we are ready and able. It is a way to take care setting up to provide simple and easy workflows for yourself! 
+
+There are many many many ways to do this in obsidian, but we will just show you a few handy addons/processes we have found that work well.
 ### Read it later: 
+
+This is a very simple example that I especially use when clearing my tabs and archiving bits I want to keep. It basically is a addon that adds a simple button that takes the URL you have copied in your clipboard and saves it as a note in a designated folder. A bonus here, if you are nerdy and care about energy expense of networks and accessibility of resources offline on your local computers, is that it actually saves it as a note in your vault! This also means you can write notes around, add properties\*tags and edit it as well.
+
+![[ReadItLaterIcon.png]]
+> ReadItLater icon in the left side bar.
+
+Download from [HERE](obsidian://show-plugin?id=obsidian-read-it-later), or go to Settings>community plugins>browse and search `ReadItLater`. (Make sure you remember to enable it.)
+
+
+
+![[ReadItLater_Settings.png]]
+
 Actually downloads page content!
 		- get plugin and setup tosort folder
 		- get URL to paste in 
-	- quick add: quick tutorial for how to make a function
+### Quick add:
+quick tutorial for how to make a function
 		- add pad through provided code block
 		- see an embedded shared pad in iframe
 
@@ -108,6 +126,7 @@ Actually downloads page content!
 > What would you want to automate?
 > How can we think about automation as a process of caring for our selves and research, creating space, time & systems for us to make our work through?
 
+---
 ## Annotation 
 - Annotator: Use plugin with PDFs
 - Embedded media 
@@ -116,6 +135,8 @@ Actually downloads page content!
 - Ideation & Inspiration
 	- Canvas + different layouts of notes
 		- Plans dg. Teaching plan
+
+---
 ## Writing Approaches:
 - creating your own text from a lot of reading.
 - Miro boards offering visual links vs idea-based linked with hyper links in obsidian.
