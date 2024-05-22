@@ -1,11 +1,7 @@
 20-25 mins
 # 1 Lets learn some syntax!
 
-Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax) but we will run through the basics
-
----
-
-Here we will look at essentials of markdown:
+Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax) but we will run through the basics:
 - [[01_General syntax skills#2 Headings!|2 Headings]]
 - [[01_General syntax skills#3 Styling|3 Styling]]
 - [[01_General syntax skills#4 To Dos|4 To Dos]]
@@ -15,11 +11,6 @@ Here we will look at essentials of markdown:
 - [[01_General syntax skills#9 Tagging|9 Tagging]]
 - [[01_General syntax skills#10 Metadata / Properties|10 Metadata / Properties]]
 - [[01_General syntax skills#11 Why organise like this?|11 Why organise like this?]]
-- ToDos
-- hyperlinks 
-- embeds
-- tags
-
 
 ---
 
