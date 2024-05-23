@@ -37,5 +37,6 @@
 - [ ] Both edit [[03_Plugins]]
 - [ ] George Finish [[04_Research]]
 - [ ] Create feedback Qs in vault + maybe form?
+- [ ] add links for downloading all plugins [[03_Plugins]]
 
 Pad: https://digitalcare.noho.st/pad/p/MakeSenseWithObsidian
