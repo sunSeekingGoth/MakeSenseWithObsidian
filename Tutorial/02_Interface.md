@@ -1,11 +1,14 @@
 15-20 mins - overview
 +10 min break
 
-# Intro
+# Intro - Interface Tour
 
 
-- reader and preview views
-- Layout: Tabs and Panes
+# 1_Reader and preview views
+
+
+# 2_Layout: Tabs and Panes
+
 - Folder organisation
 	- intro to how we can setup and organise notes easily
 - Graph View

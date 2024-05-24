@@ -14,7 +14,7 @@ Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+f
 
 ---
 
-# 2 Headings!
+# 2_Headings!
 
 ## Oh Headings!!
 
