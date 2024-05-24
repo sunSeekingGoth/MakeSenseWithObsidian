@@ -26,18 +26,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1545c938c0e0f420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sandbox/Sandbox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3a174fe29456aa60",
             "type": "leaf",
             "state": {
@@ -49,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,6 +177,15 @@
   },
   "active": "57a94f4562c19fba",
   "lastOpenFiles": [
+    "templates/meeting.md",
+    "meet.md",
+    "Tutorial/Attachments/QuickAdd template setup 3.png",
+    "Tutorial/Attachments/QuickAdd template setup 1.png",
+    "Tutorial/Attachments/QuickAdd template 2.png",
+    "Tutorial/Attachments/QuickAdd syntax in template.png",
+    "Tutorial/Attachments/QuickAdd Template 4.png",
+    "Demo Folder/Demo page.md",
+    "Demo Folder",
     "Tutorial/01_General syntax skills.md",
     "Tutorial/02_Interface.md",
     "Sandbox/Sandbox.md",

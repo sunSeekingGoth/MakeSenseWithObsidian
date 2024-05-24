@@ -161,12 +161,151 @@ Again to get started we open it's settings by pressing the cog in the bottom lef
 
 ![[QuickAdd Settings.png]]
 
+There are a many different setups and functions we can do, and we will just show you the syntax and the a couple of basic examples.
 
+---
+#### Syntax
 
-To 
-quick tutorial for how to make a function
-		- add pad through provided code block
-		- see an embedded shared pad in iframe
+This is a fairly simple syntax, and you only need to use it once in a while  setting these bits up. The official  [DOCS ARE HERE](https://quickadd.obsidian.guide/docs/FormatSyntax) but we will show the basics. 
+
+You can use this in a few places when automatically adding notes or templates but we will just explain it first. 
+
+>[!Note]
+> If you forget, it is easy to come back here when you need it and refer to 
+
+---
+##### Time stamps
+
+These automatically set a time stamp on the  page. 
+
+``` md
+{{DATE}}
+```
+
+Outputs the current date in `YYYY-MM-DD` format. You could write `{{DATE+3}}` to offset the date with 3 days. You can use `+-3` to offset with `-3` days.
+
+``` md
+{{DATE:<DATEFORMAT>}}
+```
+
+Replace `<DATEFORMAT>` with a [Moment.js date format](https://momentjs.com/docs/#/displaying/format/). You could write `{{DATE:<DATEFORMAT> +3}}` to offset the date with 3 days.
+
+---
+
+##### Values
+
+This enables you to create interface selections and inputs that will be added to a file.  This is great when we want to standardise notes easily, or create different hacky tools. 
+
+``` md
+{{VALUE}} or {{NAME}}
+ ```
+
+Interchangeable. Represents the value given in an input prompt. If text is selected in the current editor, it will be used as the value.
+
+``` md
+{{VALUE:<variable name>}}
+```
+
+e.g. 
+``` md
+{{VALUE:tags}}
+```
+
+With one variable name like this, you will be prompeted to input for `tags`.
+
+e.g. 
+``` md
+{{VALUE:project1, project2, project3}}
+```
+
+With multiple variable names separated by commas like this, you will be prompted to select from the options (e.g. `project1`, `project2`, `project3`).
+
+---
+
+#### How to setup a command?
+
+There are a few different ways to setup a quick add command, but we will just cover the two simple ones. 
+
+[**Template**](https://quickadd.obsidian.guide/docs/Choices/TemplateChoice) :
+Is a definition of how to create a new note, and composes with Obsidian's own Templates core plugin or community template plugins. For example, it would allow you to define a quick action to create a new note in a particular location, with a templatized title, and templated content.
+
+[**Capture**](https://quickadd.obsidian.guide/docs/Choices/CaptureChoice) :
+Allows you to quickly add content to predefined files. For example, you could set up a quick action to add a link to the open file to your daily note under a specific section.
+
+---
+
+##### Template
+
+To make this quick, I have already setup a template for us to use with some syntax setup inside. It is in the `templates` folder and called [[meeting]] that has different parts of the properties having quick add syntax to prompt you for or automate values.
+
+![[QuickAdd syntax in template.png]]
+
+Here are the values and when we add it to a command you will see what t does!
+
+---
+
+###### Adding the template command!
+
+![[QuickAdd template setup 1.png]]
+
+To add a template its fairly easy, you just follow these three steps:
+1. In the yellow box add the name of the command you want, I use `Meeting Note`.
+2. In the red box choose from the drop down menu and select template. It might be selected by default aready. 
+3. Press the `Add Choice` button to add it!
+
+---
+###### Edit the template command
+
+Now you should see something like this:
+![[QuickAdd template 2.png]]
+
+To edit press the cog button to get this menu:
+
+![[QuickAdd template setup 3.png]]
+
+There are a few different configurations that can do a lots of flexible bits, but we will be using the basics. 
+
+In this image I have already set the `Template Path` to the md of the pre-made template, you want to do the same. 
+
+---
+###### Test template command
+
+We can now test this command to see what its like!
+
+To do that:
+1. Get command pallet out (cntrl+P).
+2. Write `Quicj Add` and select `Run QuickAdd`.
+3. Then select the name of the command you made!
+4. You will then be prompted to name the file and fill out the prompts that are in the [[meeting]] template. 
+5. Check out the new file that was made!
+
+---
+###### Further Setup!
+
+This works well, but the real power here is that you can also use the syntax and values you have made in the interface and use it to automatically structure your notes for you as well!
+
+![[QuickAdd Template 4.png]]
+
+To add some auto structuring like the setup above that:
+1. Turn `File Name Format`.
+2. Then add the name syntax you want for the file format. In the syntax above we have the `Who?` value from the template and then the date. 
+3. Turn on `Create in folder`.
+4. Add a path, that can have a syntax in it, and then select add. In our syntax above we have it at `Demo fFolder/<Project Name>/meetings/`, o that it will store it in our project folder's `meetins` sub-directory. 
+
+---
+###### Again test the template command
+
+We can now test this command again to see what its like!
+
+To do that:
+1. Get command pallet out (cntrl+P).
+2. Write `QuickAdd` and select `Run QuickAdd`.
+3. Then select the name of the command you made!
+4. This time you won't be prompted to name the file but you will fill out the prompts that are in the [[meeting]] template. 
+5. Check out the new file that was made. This time it is named  and stored  in the right folder automatically!
+
+---
+## Reflect
 
 > [! Reflect]
 > What would you want to automate?
@@ -174,6 +313,8 @@ quick tutorial for how to make a function
 
 ---
 # 5 Annotation 
+
+
 - Annotator: Use plugin with PDFs
 - Embedded media 
 - yt transcript 
