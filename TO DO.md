@@ -33,7 +33,7 @@
 - [ ] Batool finish [[02_Interface]]
 - [ ] Batool reorder [[05_Process]]
 - [ ] Batool add [[01_General syntax skills#Subtags]]
-- [ ] Both add examples to [[Sandbox]]
+- [ ] Both add examples to [[Demo page]]
 - [ ] Both edit [[03_Plugins]]
 - [ ] George Finish [[04_Research]]
 - [ ] Create feedback Qs in vault + maybe form?

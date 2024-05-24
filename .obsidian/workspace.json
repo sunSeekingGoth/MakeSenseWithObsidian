@@ -1,19 +1,23 @@
 {
   "main": {
-    "id": "bbcd6e12372b0eeb",
+    "id": "216a1c97802517f2",
     "type": "split",
     "children": [
       {
-        "id": "f23882bba011b0af",
+        "id": "1e8c70a330f37713",
         "type": "tabs",
         "children": [
           {
-            "id": "57a94f4562c19fba",
+            "id": "308cd8720a1263cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "TO DO.md",
+=======
+                "file": "Tutorial/04_Research.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "104cbf0a90e9d465",
+    "id": "ff0f6b4766f287e6",
     "type": "split",
     "children": [
       {
-        "id": "3ca9b6613ec1362e",
+        "id": "b88d729249b20e6e",
         "type": "tabs",
         "children": [
           {
-            "id": "7fed8876bb34d4bb",
+            "id": "e7c16a56d3121baf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +47,7 @@
             }
           },
           {
-            "id": "b0692def5dce4aff",
+            "id": "c0f52e6037324b4e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +62,7 @@
             }
           },
           {
-            "id": "b7d04080780955b0",
+            "id": "8ea0b778ea1db498",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,31 +73,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.50390243530273
   },
   "right": {
-    "id": "c6d3237312802c83",
+    "id": "6bfbdb1e5413a74b",
     "type": "split",
     "children": [
       {
-        "id": "0f55f1ff9fb07e3c",
+        "id": "25d56012e954efa1",
         "type": "tabs",
         "children": [
           {
-            "id": "d88228144c2d2ae7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "0b3bc7d4afadf5a9",
+            "id": "c7821f3d3e28023a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "TO DO.md",
+=======
+                "file": "Tutorial/04_Research.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +105,23 @@
             }
           },
           {
-            "id": "ec2c320f40e78efd",
+            "id": "f9348fd3784df033",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "TO DO.md",
+=======
+                "file": "Tutorial/04_Research.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "63e1000eba9ec32e",
+            "id": "a793b98eecbc1f3b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,39 +132,129 @@
             }
           },
           {
-            "id": "4aa24bed5e6975d3",
+            "id": "0c3a17073e127c63",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "TO DO.md"
+=======
+                "file": "Tutorial/04_Research.md"
+              }
+            }
+          },
+          {
+            "id": "fe080aa2107e4409",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Tutorial/04_Research.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5392668690923015,
+                  "close": true
+                }
+>>>>>>> Stashed changes
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "workspaces:Manage workspace layouts": false
     }
   },
+<<<<<<< Updated upstream
   "active": "57a94f4562c19fba",
   "lastOpenFiles": [
     "README.md",
     "TO DO.md",
     "Tutorial/02_Interface.md"
+=======
+  "active": "308cd8720a1263cb",
+  "lastOpenFiles": [
+    "Tutorial/Attachments/QuickAdd Template 4.png",
+    "Tutorial/Attachments/QuickAdd Settings.png",
+    "Tutorial/Attachments/QuickAdd Template 4.png",
+    "Tutorial/Attachments/QuickAdd syntax in template.png",
+    "Tutorial/Attachments/QuickAdd template 2.png",
+    "Tutorial/Attachments/QuickAdd template setup 1.png",
+    "Tutorial/Attachments/QuickAdd template setup 3.png",
+    "Tutorial/04_Research.md",
+    "Tutorial/Pasted image 20240524084517.png",
+    "Tutorial/02_Interface.md",
+    "meet.md",
+    "templates/meeting.md",
+    "Demo Folder/Demo page.md",
+    "Demo Folder/Project1/meetings/terry - 2024 05 24.md",
+    "love - 2024 05 24.md",
+    "Demo Folder/Project1/meetings/love - 2024 05 24.md",
+    "Demo Folder/Project1/meetings",
+    "Demo Folder/Project1",
+    "Sandbox/Project1/meet/meet - 2024-05-25.md",
+    "Sandbox/Project1/meet/meet - 2024-05-24.md",
+    "Sandbox/ Project2/meet/meet - 2024-05-24.md",
+    "Sandbox/ Project2/meet",
+    "Sandbox/ Project2",
+    "Sandbox/Project1/meet/meet - 2024-05-23.md",
+    "Tutorial/05_Process.md",
+    "Sandbox/Project1/meet",
+    "Sandbox/Project1",
+    "Sandbox",
+    "Tutorial/03_Plugins.md",
+    "Tutorial/01_General syntax skills.md",
+    "templates",
+    "Sandbox/Project1/meet/meet - 2024-05-21.md",
+    "Tutorial/Attachments/ReadItLaterIcon.png",
+    "Tutorial/Attachments/ReadItLater_Settings.png",
+    "TO DO.md",
+    "README.md",
+    "Tutorial/00_Intro.md",
+    "Tutorial/Attachments/Properties.png",
+    "Sandbox/Untitled.canvas",
+    "Demo Folder",
+    "Tutorial/Attachments",
+    "Agenda pad.md",
+    "Welcome.md",
+    "2024-05-14.md",
+    "Internal link.md",
+    "Intro.md",
+    "Cognitivists example.md"
+>>>>>>> Stashed changes
   ]
 }
