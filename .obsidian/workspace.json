@@ -6,6 +6,7 @@
       {
         "id": "f23882bba011b0af",
         "type": "tabs",
+        "dimension": 36.1198738170347,
         "children": [
           {
             "id": "57a94f4562c19fba",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/02_Interface.md",
+                "file": "Tutorial/04_Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +25,7 @@
       {
         "id": "9a61a1697c45b238",
         "type": "tabs",
+        "dimension": 63.8801261829653,
         "children": [
           {
             "id": "3a174fe29456aa60",
@@ -31,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/01_General syntax skills.md",
+                "file": "Tutorial/03_Plugins.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/02_Interface.md",
+                "file": "Tutorial/03_Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/02_Interface.md",
+                "file": "Tutorial/03_Plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/02_Interface.md"
+                "file": "Tutorial/03_Plugins.md"
               }
             }
           }
@@ -175,8 +177,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "57a94f4562c19fba",
+  "active": "3a174fe29456aa60",
   "lastOpenFiles": [
+    "Tutorial/04_Research.md",
+    "Tutorial/03_Plugins.md",
+    "Tutorial/Attachments/TemplatesSetup.png",
+    "Tutorial/01_General syntax skills.md",
+    "Tutorial/02_Interface.md",
     "templates/meeting.md",
     "meet.md",
     "Tutorial/Attachments/QuickAdd template setup 3.png",
@@ -186,8 +193,6 @@
     "Tutorial/Attachments/QuickAdd Template 4.png",
     "Demo Folder/Demo page.md",
     "Demo Folder",
-    "Tutorial/01_General syntax skills.md",
-    "Tutorial/02_Interface.md",
     "Sandbox/Sandbox.md",
     "TO DO.md",
     "README.md"

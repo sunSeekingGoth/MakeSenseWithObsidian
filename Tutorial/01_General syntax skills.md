@@ -14,7 +14,7 @@ Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+f
 
 ---
 
-# 2_Headings!
+# 2 Headings!
 
 ## Oh Headings!!
 
@@ -81,7 +81,7 @@ Using one \` either side of the text.
 ---
 # 6 Notes \* Comments
 
-> [! note] Make stand out notes \* comments 
+> [! note] This is a Callout, used to make stand out notes \* comments 
 > Use this to make comments \* notes that you want to be noticeable.
 > You can also use all sorts of normal formatting in **here** ==like== ~~this~~.
 

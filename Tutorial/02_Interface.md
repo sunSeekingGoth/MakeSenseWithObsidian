@@ -4,20 +4,21 @@
 # Intro - Interface Tour
 
 
-# 1_Reader and preview views
+# 1 Reader and preview views
 
 
-# 2_Layout: Tabs and Panes
+# 2 Layout: Tabs and Panes
 
-- Folder organisation
+# 3 Folder organisation
 	- intro to how we can setup and organise notes easily
-- Graph View
+# 4 Graph View
 	- different perspectives into
 	- filters
-- Knowdlege querying interfaces.
+# 5 Knowledge querying interfaces.
 	- small intro, but more deflating concerns.
 	- filtering tags on Graph View
 	- Simple Query like no. pages in vault or no pages tagged reading
 	- Clue to creating tables with Dataview and Calendar trackers
-- make it cute
+
+# 6 make it cute
 	- just intro and show, but don't rec doing it yet.
