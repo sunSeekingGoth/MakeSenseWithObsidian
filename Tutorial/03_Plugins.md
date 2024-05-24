@@ -3,47 +3,70 @@
 
 ---
 # Core Plugins
+# 1 Command Palette - George
+- Slash command
 
-- Command Palette - George
-	- Slash command
-- Daily notes - Batool
-	- Date Format
 ---
 # Templates - Both
 
-We looked at templates already when we talked about [[04_Research#Time stamps|time stamps]]. A template is any preset format or info that can be applied into different notes. It can be used to create the structure of a whole note, or to insert a recurring snippets of info.
-### At setup:
-Identify where in the Vault your Templates folder is. This folder will not be treated as other notes and will not come up in search results. That is because templates are essentially placeholders for future content.
+A template is any preset format or info that can be inserted into different active notes. It can be used to create the structure of a whole note, or to insert a recurring snippets of info.
+### Setup:
+- Identify where in the Vault your Templates folder is. 
+
+Notes in this folder will not be treated as other notes and will not come up in search results. That is because templates are essentially structural layouts (like headings and bullet points) or placeholders (like variables) for future content.
 
 ![[TemplatesSetup.png]]
 
 > For dataview: remove templates from searches!
 
 ---
-## Page templates
-Create a "work log" daily template with properties.
+## Inline templates
+These are almost always just for variables. The syntax will just be stored in a note and can be applied wherever you want.
 
-For templates that setup a whole page, you want to make sure to apply them to an empty note. This is doubly important because these usually have metadata (or properties, or YAML, wtvr you want to call it) and that will only be read correctly when its at the top of the note!
+eg.
+`{{time}}` is the variable syntax for inserting the current time
 
+Dates, blocks of repeating info. Full reference for variables on moment.js.
 
 ---
-## Inline templates: 
-Dates, blocks of repeating info
+## Page templates
+For templates that setup a whole page, you want to make sure to apply them to an empty note. This is doubly important because these usually have metadata (or properties, or YAML, wtvr you want to call it) and that will only be read correctly when its at the top of the note!
+### Make Daily Note template
+Most common use for page templates is Daily Notes, which are notes that can hold day to day content like tasks, work logs, journal entries etc, and can be linked to an in-vault calendar which we will setup as well.
 
 ___
+# Daily notes - Batool
+
+### Setup:
+- New File location: This is the folder we already have in the vault called "Daily Notes"
+- Template location: This will be `Templates/Daily note`
+
+This will tell Obsidian where to save new notes where to get the template from.
+
+>[! note]
+>Date Format is YYYY-MM-DD by default. Leave it that way!
 
 
-- Canvas - Both
-	- ways of organising notes visually
-	- functionality.
+___
+#  Canvas - Both
+Goodbye Miro. Canvases are a "infinite scroll" spaces for laying out, linking and organising notes visually. You can insert pre-existing notes into it, or use "cards" that are local to the canvas.
+
+- Timeline planning e.g. [[Demo canvas_Weekly plan.canvas|Demo canvas_Weekly plan]]
+- Project planning e.g.
+---
 # Community plugins
 - easy example get better emoji shortcode
-- intermediate example annotator
-- Other examples:
-	- Highlighter
-	- slides
-	- Better Word Count
-	- Homepage
-	- [Folder Index](obsidian://show-plugin?id=obsidian-folder-index)
-	- Zotero
+- Day Planner
+---
+## intermediate example annotator
+
+---
+# Other examples:
+
+- Highlighter
+- slides
+- Better Word Count
+- Homepage
+- [Folder Index](obsidian://show-plugin?id=obsidian-folder-index)
+- Zotero
 

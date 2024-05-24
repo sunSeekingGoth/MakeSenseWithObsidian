@@ -6,7 +6,7 @@
       {
         "id": "f23882bba011b0af",
         "type": "tabs",
-        "dimension": 36.1198738170347,
+        "dimension": 42.82334384858044,
         "children": [
           {
             "id": "57a94f4562c19fba",
@@ -25,7 +25,7 @@
       {
         "id": "9a61a1697c45b238",
         "type": "tabs",
-        "dimension": 63.8801261829653,
+        "dimension": 57.17665615141956,
         "children": [
           {
             "id": "3a174fe29456aa60",
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 240.5
   },
   "right": {
     "id": "c6d3237312802c83",
@@ -179,13 +179,17 @@
   },
   "active": "3a174fe29456aa60",
   "lastOpenFiles": [
-    "Tutorial/04_Research.md",
+    "Demo Folder/Demo canvas_Weekly plan.canvas",
     "Tutorial/03_Plugins.md",
+    "Untitled.md",
+    "Templates/Daily.md",
+    "meet.md",
+    "Daily Notes",
+    "Tutorial/04_Research.md",
     "Tutorial/Attachments/TemplatesSetup.png",
     "Tutorial/01_General syntax skills.md",
     "Tutorial/02_Interface.md",
-    "templates/meeting.md",
-    "meet.md",
+    "Templates/meeting.md",
     "Tutorial/Attachments/QuickAdd template setup 3.png",
     "Tutorial/Attachments/QuickAdd template setup 1.png",
     "Tutorial/Attachments/QuickAdd template 2.png",
