@@ -37,6 +37,10 @@ The core tasks good for most things, but you can also use the Tasks community pl
 - [ ] Start dates 🛫 2024-05-07 
 - [x] done dates ✅ 2024-05-06
 
+>[!note]
+>Even if we cancel a task it still displays a tick. This is a CSS controlled thing and will vary per theme.
+
+
 ---
 ## Calendar Plugin
 - Install[ here](obsidian://show-plugin?id=calendar)

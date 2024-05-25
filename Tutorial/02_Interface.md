@@ -39,10 +39,10 @@ By default, we don't see the the markdown syntax of Obsidian unless we are *typi
 
 We can toggle Source Mode and Reading More from the top-right menu in the editor. Or the book icon.
 
-![[ReadingView Menu.png]]
+![[ReadingView Menu.png|500]]
+
 > [!note] 
 > Note how Reading View will change the spacing of your text. This is how markdown readings line breaks and paragraphs. You don't need to worry about that.
-
 
 ___
 # 3 Folder organisation
@@ -56,17 +56,31 @@ This comes with the needs of your practice and so is highly different, but when 
 
 ---
 # 4 Graph View
-Auto-generated cloud of notes and how they are linked. 
-- different perspectives into
-- filters
-# 5 Knowledge querying interfaces.
-	- small intro, but more deflating concerns.
-	- filtering tags on Graph View
-	- Simple Query like no. pages in vault or no pages tagged reading
-	- Clue to creating tables with Dataview and Calendar trackers
+Auto-generated cloud of notes and how they are linked. Filters can be toggled to view different layers of information!
+#### Global (whole vault)
+Accessed through the Graph View icon in the Riboon
+#### Local
+Only showing links to and from the active note.
+Access through the three dot menu in the editor.
 
 ___
-# 6 Make it cute / Yassification
+# 5 Knowledge querying interfaces.
+Start thinking about what questions you have for your own notes and knowledge base. eg. What other 
+#### Filtering tags on Graph View
+but don't make everything into a tag like author names and definitely not dates! 
+
+We will look at how to manage that data in Metadata. Filtering by tags is best kept to simple sorts like #toread or #done etc. or themes like #midcentury or #classical
+#### Simple Queries 
+wWhich texts do I still need to read (that I have tagged with #toread):
+
+```dataview
+LIST
+FROM #toread 
+```
+#### More complex queries
+how many words am I writing on average daily? We will answer these questions, and create different "data-vis" things for them when we talk about [[05_Process#3 Dataview|dataview and trackers]]
+___
+# 6 Yassification (or making it cute)
 The real reason we're here. Obsidian can have themes! 
 
 The one we're using is the Default Obsidian theme, but the community has made MANY pretty themes with varying levels of customisation. Find them through:

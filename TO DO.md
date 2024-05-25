@@ -30,9 +30,10 @@
 - [x] Do we want to number the headers so that people can follow along? - yes ✅ 2024-05-25
 - [-] Do we want to export the Tutorial folder as a PDF to give as a follow along sheet? - maybe
 - [x] George finish [[01_General syntax skills]]
-- [ ] Batool finish [[02_Interface]]
+- [x] Batool finish [[02_Interface]] ✅ 2024-05-25
 - [x] Batool reorder [[05_Process]] ✅ 2024-05-25
 - [ ] Batool add [[01_General syntax skills#Subtags]]
+- [ ] Batool finish [[05_Process#3 Dataview]] and [[05_Process#4 Tracker]]
 - [ ] Both add examples to [[Demo page]]
 - [ ] Both edit [[03_Plugins]]
 - [ ] George Finish [[04_Research]]
