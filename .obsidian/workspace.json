@@ -19,11 +19,14 @@
             "id": "a0522713dfba6da3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Tutorial/03_Plugins.md",
-                "mode": "source",
-                "source": false
+                "file": "Demo Folder/Demo canvas_Weekly plan.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/03_Plugins.md",
+                "file": "Demo Folder/Demo canvas_Weekly plan.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/03_Plugins.md",
+                "file": "Demo Folder/Demo canvas_Weekly plan.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/03_Plugins.md"
+                "file": "Demo Folder/Demo canvas_Weekly plan.canvas"
               }
             }
           },
@@ -151,11 +154,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,31 +168,32 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a0522713dfba6da3",
+  "active": "2da3c4f2267b36ad",
   "lastOpenFiles": [
     "Tutorial/04_Research.md",
-    "hope/How to Survive the End of the World/Witch School Graduation with Alexis Pauline Gumbs and Sangodare.md",
     "Tutorial/Attachments/YTranscript.gif",
+    "Tutorial/Attachments/QuickAdd template 3.png",
+    "Tutorial/Attachments/QuickAdd template 1.png",
+    "Tutorial/05_Process.md",
+    "Tutorial/Attachments/Planning 1.png",
+    "Tutorial/Attachments/Planning 2.png",
+    "Demo Folder/Project1/meetings/jeff - 2024 05 24.md",
+    "Tutorial/Untitled.canvas",
+    "Tutorial/Attachments/Annotator 4.png",
     "Tutorial/Pasted image 20240525090107.png",
-    "Tutorial/Attachments/PodNote.png",
+    "Tutorial/Attachments/Annotator 3.png",
+    "Tutorial/Attachments/Annotator 2.png",
+    "Tutorial/Attachments/Annotator 1.png",
+    "Tutorial/03_Plugins.md",
+    "hope/How to Survive the End of the World/Witch School Graduation with Alexis Pauline Gumbs and Sangodare.md",
     "hope/How to Survive the End of the World",
     "hope",
     "hope/How to Survive the End of the World.md",
     "Demo Folder/Untitled",
-    "Tutorial/Pasted image 20240525072741.png",
-    "Tutorial/Pasted image 20240525072819.png",
-    "Tutorial/Pasted image 20240524205358.png",
     "Demo Folder/Demo page.md",
-    "Tutorial/Pasted image 20240524205245.png",
-    "Tutorial/Pasted image 20240524205210.png",
     "README.md",
     "Demo Folder/BrittonPritchard.pdf",
-    "Tutorial/03_Plugins.md",
-    "Tutorial/05_Process.md",
     "Tutorial/02_Interface.md",
-    "Tutorial/Attachments/QuickAdd template 6.png",
-    "Tutorial/Attachments/QuickAdd template 5.png",
-    "Demo Folder/Project1/meetings/jeff - 2024 05 24.md",
     "Demo Folder/Project1/meetings",
     "Demo Folder/Project1",
     "Templates/Daily.md",

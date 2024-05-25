@@ -112,7 +112,7 @@ This is a very simple example that I especially use when clearing my tabs and ar
 
 A bonus here, if you are nerdy and care about energy expense of networks and accessibility of resources offline on your local computers, is that it actually saves it as a note in your vault! This also means you can write notes around, add properties\*tags and edit it as well.
 
-![[ReadItLaterIcon.png]]
+![[ReadItLater icon.png]]
 > ReadItLater icon in the left side bar.
 
 Install it [HERE](obsidian://show-plugin?id=obsidian-read-it-later), or go to Settings>community plugins>browse and search `ReadItLater`. (Make sure you remember to enable it.)
@@ -122,7 +122,7 @@ Install it [HERE](obsidian://show-plugin?id=obsidian-read-it-later), or go to Se
 
 To get started we open it's settings by pressing the cog in the bottom left, and then pressing `ReadItLater`'s tab (highlighted on the left in the image below). In here we can edit our setup!
 
-![[ReadItLater_Settings.png]]
+![[ReadItLater settings.png]]
 
 The main thing we have to set is the __Inbox dir__ which is the folder these files will be saved to. I normally use the `ToSort` we recommended making before. 
 
@@ -134,7 +134,7 @@ The main thing we have to set is the __Inbox dir__ which is the folder these fil
 Two very simple steps!
 
 1. Copy a URL of a page you want.
-2. Press the button on the left hand bar. ![[ReadItLaterIcon.png]]
+2. Press the button on the left hand bar. ![[ReadItLater icon.png]]
 3. (Optional) Check to see if your note is there!
 
 ---
@@ -153,6 +153,8 @@ This is a little more complex example, but hopefully once it is setup it will cr
 What quick add does is basically create easy commands that we can call. This means we can create systems that give us simple ways of organising our notes. This again is very flexible and hackable, so you can do lots with it, and we will be showing you a couple of simple examples.
 
 Install it [HERE](obsidian://show-plugin?id=quickadd), or go to Settings>community plugins>browse and search `QuickAdd`. (Make sure you remember to enable it.)
+
+There is also a nice video [HERE](https://youtu.be/gYK3VDQsZJo) for more depth.
 
 ---
 ### Setting it up?
@@ -224,7 +226,7 @@ With multiple variable names separated by commas like this, you will be prompted
 
 #### How to setup a command?
 
-There are a few different ways to setup a QuickAdd command, but we will just cover creating a command with a [**Template**](https://quickadd.obsidian.guide/docs/Choices/TemplateChoice) . This lets us define a few fields in a template that will then be prompted when we call the command.
+There are a few different ways to setup a QuickAdd command, but we will just cover creating a command with a [**Template**](https://quickadd.obsidian.guide/docs/Choices/TemplateChoice) . This lets us define a few fields in a template that will then be prompted when we call the command we create.
 
 
 ---
@@ -241,7 +243,7 @@ Here are the values and when we add it to a command you will see what t does!
 
 ###### Adding the template command!
 
-![[QuickAdd template setup 1.png]]
+![[QuickAdd template 1.png]]
 
 To add a template its fairly easy, you just follow these three steps:
 1. In the yellow box add the name you want for the command your creating. I chose `Meeting Note`.
@@ -256,7 +258,7 @@ Now you should see something like this:
 
 To edit press the cog button to get this menu:
 
-![[QuickAdd template setup 3.png]]
+![[QuickAdd template 3.png]]
 
 There are a few different configurations that can do a lots of flexible bits, but we will be using the basics. 
 
@@ -283,7 +285,7 @@ You will hopefully have something like this:
 
 This works well, but the real power here is that you can also use the syntax and values you have made in the interface and use it to automatically structure your notes for you as well!
 
-![[QuickAdd Template 4.png]]
+![[QuickAdd template 4.png]]
 
 To add some auto structuring like the setup above that:
 1. Turn `File Name Format`.
@@ -357,20 +359,20 @@ annotation-target: https://arxiv.org/pdf/2104.13478.pdf
 Once this is added we can press the three dot menu in the top right and the select annotate to open it up in the reader.
 
 It should look something like this:
-![[Pasted image 20240524205210.png]]
+![[Annotator 1.png]]
 
 You can then add a annotation by highlighting and the clicking Annotate like:
-![[Pasted image 20240524205245.png]]
+![[Annotator 2.png]]
 
 You can the edit in the side menu, adding comments and tags! (don't forget to save the annotation)
-![[Pasted image 20240524205358.png]]
+![[Annotator 3.png]]
 
 ---
 #### Bonus annotations print out. 
 
 A bonus from the way that Annotator works is that you can see just the annotations and their tags by opening the file they are were made in, in the read view of obsidian and it should look something like this:
 
-![[Pasted image 20240525072819.png]]
+![[Annotator 4.png]]
 
 
 >[!Note]
@@ -420,24 +422,69 @@ We will have a very quick look at two options depending on what you have at the 
 ---
 #### Zotero plugin
 
-This is actually very easy way of incorperating your existing zotero workflow or notes into obsidian. It has a lot of setup so it is a bit more of a mention than a description of how to use.
+The [Zotero](obsidian://show-plugin?id=obsidian-zotero-desktop-connector) plugin is actually very easy way of incorperating your existing zotero workflow or notes into obsidian. It has a lot of setup so it is a bit more of a mention than a description of how to use.
 
 It lets you:
 - Add inline citations in chosen formats.
 - Paste annotations to a md note in obsidian.
 - Transfer the tracking systems you used in Zotero.
-- 
+- And more.
 
+---
+#### Word (.doc) to .md?
 
+This is more complex but still possible it just depends how many files and how techy you are feeling.
+
+##### Simple way
+
+Just copy and paste over the text manually. It takes a while for lots of files and you may loose images, but easy and quick for just one or two docs of text.
+
+##### Medium way
+
+Export you doc to html and then import the html into obsidian. It's not too long and keeps the images, but still has to be done manually to each page.
+
+##### Techy (automated) way
+
+Install and use [Pandoc](https://pandoc.org/MANUAL.html) to automatically convert your files from doc to md, whole folders at a time with one command. Installing and using may be tricky if you are new to coding, but it is great for doing whole sections of docs in one go. You can also download a plugin to export your md files out to many file types when you have pandoc installed on your computer. With most automatic conversions, do check out for formatting errors etc, but it seems to work okay. 
 
 ---
 # 6 Writing Approaches:
+
+There are many ways you can start to write, and work out what makes it easier to write and structure your ideas, ass well as connect all of your thoughts, annotations and threads together.
+
+I will be showing ways that I as a dyslexic who finds it tricky to structure essays and research into clearer arguments uses a few of these obsidian tools to stage essay writing into more clearer steps.
+
+>[!Remember]
+>This is for reference and think about how you can incorporate or transform your existing ways of working through these tools.
+
+---
+## Mapping with the Canvas.
+
+Now this isn't a new idea for getting your ideas out there but through this methodology we can keep keep it together as one fluid and growing seed within your practice and maybe recommend some processes to do that.
+
+### My steps:
+
+1. Make sure your canvas save your new files in the local folder to the canvas by going into sttings and selecting `Same folder as current` like this: ![[Planning 2.png]]
+2. Create a new folder for your writing.
+3. Add a new canvas to that folder and name it appropriately.
+4. Open it up and add a new note into the canvas with this button: ![[Planning 1.png]]
+5. Then write the name of the new file you want to make and press `Shift + Enter` to make it. This will create the file in the same folder as the canvas.
+6. In this file I then do the following steps:
+	1. Spend 15-20 mins blurbing out what I want to write without too much care.
+	2. Spend 10 -15 mins writing that up as a one sentence question or argument.
+7. Once I have the argument I will then structure out the rest of the essay into its subheadings and steps quite quickly, writing up briefly what each one will contain. Remembering to think of how they will be wound or woven back into this central question or argument. 
+8. When you are happy with your first structure you can then focus in to each individual note to start to grow out these very clear pre-planned section and journey of text by themselves without getting too cluttered. You can also leave clear notes, links and refs per section as well and not loose them.
+10. If you come back and feel like the structure needs to change, as it often does, you can then visually from a high level move these written sections around and feel what might work without getting stuck in the nitty gritty.
+11. Once you are feeling comfortable with this essays structure and message, you may then need to add more complex referencing etc to it. I would personally move it over to a libre or office setup, but see what works for you. These steps are more about smoothly growing and structuring the idea.
+
+
+---
+
+# Maybe add:
+
+Writing 
 - creating your own text from a lot of reading.
 - Miro boards offering visual links vs idea-based linked with hyper links in obsidian.
 - Ideation & Inspiration
 	- Canvas + different layouts of notes
 		- Plans dg. Teaching plan
-
----
-quick add vid
-https://youtu.be/gYK3VDQsZJo

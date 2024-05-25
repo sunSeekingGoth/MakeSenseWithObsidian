@@ -15,7 +15,7 @@ A template is any preset format or info that can be inserted into different acti
 
 Notes in this folder will not be treated as other notes and will not come up in search results. That is because templates are essentially structural layouts (like headings and bullet points) or placeholders (like variables) for future content.
 
-![[TemplatesSetup.png]]
+![[Templates setup.png]]
 
 > For dataview: remove templates from searches!
 
