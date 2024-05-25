@@ -7,7 +7,7 @@
 - Slash command
 
 ---
-# Templates - Both
+# 2 Templates - Both
 
 A template is any preset format or info that can be inserted into different active notes. It can be used to create the structure of a whole note, or to insert a recurring snippets of info.
 ### Setup:
@@ -35,7 +35,7 @@ For templates that setup a whole page, you want to make sure to apply them to an
 Most common use for page templates is Daily Notes, which are notes that can hold day to day content like tasks, work logs, journal entries etc, and can be linked to an in-vault calendar which we will setup as well.
 
 ___
-# Daily notes - Batool
+# 3 Daily notes - Batool
 
 ### Setup:
 - New File location: This is the folder we already have in the vault called "Daily Notes"
@@ -48,7 +48,7 @@ This will tell Obsidian where to save new notes where to get the template from.
 
 
 ___
-#  Canvas - Both
+#  4 Canvas - Both
 Goodbye Miro. Canvases are a "infinite scroll" desk-space  for laying out, linking and organising notes visually. You can insert pre-existing notes into it, or use "cards" that are local to the canvas.
 
 - Timeline planning e.g. [[Demo canvas_Weekly plan.canvas|Demo canvas_Weekly plan]]
@@ -56,17 +56,17 @@ Goodbye Miro. Canvases are a "infinite scroll" desk-space  for laying out, linki
 
 ### Functionality
 Links made in canvas between cards or notes are tentative, they do not create wiki links.
-
+But if you make a wiki link in a canvas card it will create a note of that title in your vault!
 
 ---
-# Community plugins
+# 5 Community plugins
 - easy example get better emoji shortcode
 - Day Planner
 ---
 ## intermediate example annotator
 
 ---
-# Other examples:
+# 6 Honorable Mentions:
 
 - Highlighter
 - slides

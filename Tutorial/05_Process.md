@@ -1,6 +1,6 @@
 50 mins
 As well as being a place to create and keep your notes, Obsidian is also an interface for _how_ you work. Everyone will have difference preferences for tools that manage their tasks and the time needed to complete them. This section will be more about setting yourself up for a basic workflow and time management .
-# Work Modes
+# 1 Work Modes
 Similar to rearranging your desk for different projects, you can use different layouts to do different parts of you workflow.
 ## Workspaces Plugin
 A core plugin that saves each layout with the name you give it, then snaps you in and out of that layout 
@@ -22,13 +22,13 @@ The most 'cluttered view'. Best for time management and a overview on where you'
 >you have to save that change to the workspace. It will always load on that last saved layout and open those notes. 
 
 ---
-# Tasks ☑ - Core
+# 2 Tasks ☑ - Core
 - [ ] This is a thing to do
 	- [ ] This is a sub-thing, it will stay attached to the main task
 ### Task Syntax 
 - Is `- [ ] `
 - You can also insert a checkbox with the `cmd-L` shortcut
-# "Advanced": Tasks Plugin
+## "Advanced": Tasks Plugin
 - Install [here](obsidian://show-plugin?id=obsidian-tasks-plugin)
 
 The core tasks good for most things, but you can also use the Tasks community plugin to be able to add more nuance (and emojis) to your tasks like:
@@ -38,7 +38,7 @@ The core tasks good for most things, but you can also use the Tasks community pl
 - [x] done dates ✅ 2024-05-06
 
 ---
-## Calendar 
+## Calendar Plugin
 - Install[ here](obsidian://show-plugin?id=calendar)
 
 Calendar works well with Daily Notes plugin which we setup during the [[03_Plugins|plugins section]] 
@@ -53,7 +53,7 @@ Calendar works well with Daily Notes plugin which we setup during the [[03_Plugi
 > Think about where you put your to-dos, in-line within notes, on project Index, or in a time-based view (like a calendar)?
 
 ---
-# Dataview
+# 3 Dataview
 Dataview is a plugin that allows you to see different parts of your notes based on the meta-data and tags allocated to them. It does this by asking your vault for certain info.
 
 Defining your queries will help you articulate the question that you want to ask about your own knowledge base which will inform what kinda of connections you want to synthesise.
@@ -73,7 +73,7 @@ Defining your queries will help you articulate the question that you want to ask
 		- Ranking / Importance
 
 ---
-## Tracker
+# 4 Tracker
 - Writing tracker can be set up with the word count plugin
 
 > [! Reflect]

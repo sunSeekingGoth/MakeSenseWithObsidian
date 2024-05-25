@@ -483,12 +483,14 @@ Now this isn't a new idea for getting your ideas out there but through this meth
 11. Once you are feeling comfortable with this essays structure and message, you may then need to add more complex referencing etc to it. I would personally move it over to a libre or office setup, but see what works for you. These steps are more about smoothly growing and structuring the idea.
 
 ---
-# Batool Approaches: (will expland)
+## Iterating Complexity (Batool Approaches: (will expand))
 
-## Iterating complexity of notes
+Iterating complexity of notes by adding 
+
+### My steps
 1) Resource-bound notes (through annotator, physical sticky notes, canvas cards. etc)
 
-These notes will only make sense when viewed against the original resource.
+These notes will only make sense when viewed in context of the original resource. Will include language like "this is a useful concept" without naming the concept how what it's useful for.
 
 2) Discrete, irreducible complete thoughts. These start to form idea-based links with each other
 

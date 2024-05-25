@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/05_Process.md",
+                "file": "Tutorial/02_Interface.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,16 +31,19 @@
             "id": "e8241b264df0dadd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Tutorial/05_Process.md",
-                "mode": "source",
-                "source": false
+                "file": "Demo Folder/Demo canvas_Weekly plan.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/05_Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/05_Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tutorial/05_Process.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "956914a9f029ecf1",
@@ -194,21 +193,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8241b264df0dadd",
+  "active": "107ba1d5bccf7012",
   "lastOpenFiles": [
+    "Tutorial/02_Interface.md",
+    "Tutorial/04_Research.md",
+    "Demo Folder/BrittonPritchard.pdf",
+    "Demo Folder/Demo canvas_Weekly plan.canvas",
+    "Demo Folder/Demo page.md",
     "Tutorial/03_Plugins.md",
     "Tutorial/05_Process.md",
-    "2024-W21.md",
-    "Tutorial/04_Research.md",
-    "Tutorial/02_Interface.md",
+    "WEEK 1.md",
     "Tutorial/01_General syntax skills.md",
-    "Tutorial/00_Intro.md",
+    "TO DO.md",
     "Tutorial/06_TroubleShooting.md",
+    "2024-W21.md",
+    "Tutorial/00_Intro.md",
     "Templates/meeting.md",
     "Templates/Daily.md",
-    "Demo Folder/Demo canvas_Weekly plan.canvas",
-    "Demo Folder/BrittonPritchard.pdf",
-    "Demo Folder/Demo page.md",
     "Tutorial/Attachments/YTranscript.gif",
     "Tutorial/Attachments/QuickAdd template 3.png",
     "Tutorial/Attachments/QuickAdd template 1.png",
