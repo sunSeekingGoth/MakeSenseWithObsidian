@@ -224,19 +224,14 @@ With multiple variable names separated by commas like this, you will be prompted
 
 #### How to setup a command?
 
-There are a few different ways to setup a quick add command, but we will just cover the two simple ones. 
+There are a few different ways to setup a QuickAdd command, but we will just cover creating a command with a [**Template**](https://quickadd.obsidian.guide/docs/Choices/TemplateChoice) . This lets us define a few fields in a template that will then be prompted when we call the command.
 
-[**Template**](https://quickadd.obsidian.guide/docs/Choices/TemplateChoice) :
-Is a definition of how to create a new note, and composes with Obsidian's own Templates core plugin or community template plugins. For example, it would allow you to define a quick action to create a new note in a particular location, with a templatized title, and templated content.
-
-[**Capture**](https://quickadd.obsidian.guide/docs/Choices/CaptureChoice) :
-Allows you to quickly add content to predefined files. For example, you could set up a quick action to add a link to the open file to your daily note under a specific section.
 
 ---
 
 ##### Template
 
-To make this quick, I have already setup a template for us to use with some syntax setup inside. It is in the `templates` folder and called [[meeting]] that has different parts of the properties having quick add syntax to prompt you for or automate values.
+To make this quick, I have already setup a template for us to use with some syntax setup inside. It is in the `templates` folder and called [[meeting]] that has different parts of the properties having QuickAdd syntax to prompt you for or automate values.
 
 ![[QuickAdd syntax in template.png]]
 
@@ -249,8 +244,8 @@ Here are the values and when we add it to a command you will see what t does!
 ![[QuickAdd template setup 1.png]]
 
 To add a template its fairly easy, you just follow these three steps:
-1. In the yellow box add the name of the command you want, I use `Meeting Note`.
-2. In the red box choose from the drop down menu and select template. It might be selected by default aready. 
+1. In the yellow box add the name you want for the command your creating. I chose `Meeting Note`.
+2. In the red box choose from the drop down menu and select template. It might be selected by default already. 
 3. Press the `Add Choice` button to add it!
 
 ---
@@ -277,7 +272,11 @@ To do that:
 2. Write `Quicj Add` and select `Run QuickAdd`.
 3. Then select the name of the command you made!
 4. You will then be prompted to name the file and fill out the prompts that are in the [[meeting]] template. 
-5. Check out the new file that was made!
+5. Check out the new file that was made! 
+
+You will hopefully have something like this:
+
+![[QuickAdd template 5.png]]
 
 ---
 ###### Further Setup!
@@ -288,9 +287,9 @@ This works well, but the real power here is that you can also use the syntax and
 
 To add some auto structuring like the setup above that:
 1. Turn `File Name Format`.
-2. Then add the name syntax you want for the file format. In the syntax above we have the `Who?` value from the template and then the date. 
+2. Then add the name syntax you want for the file format. In the syntax above (`{{VALUE:Who?}} - {{DATE:YYYY MM DD}}`), we have the `Who?` value from the template and then the date. See File Name to see a demo of it working.
 3. Turn on `Create in folder`.
-4. Add a path, that can have a syntax in it, and then select add. In our syntax above we have it at `Demo fFolder/<Project Name>/meetings/`, o that it will store it in our project folder's `meetins` sub-directory. 
+4. Add a path, that can have a syntax in it, and then select add. In our syntax above we have it at `Demo Folder/{{VALUE:Project1,Project2,Project3}}/meetings/`, so that it will be saved in the selected project folder's `meetins` sub-directory. 
 
 ---
 ###### Again test the template command
@@ -304,6 +303,10 @@ To do that:
 4. This time you won't be prompted to name the file but you will fill out the prompts that are in the [[meeting]] template. 
 5. Check out the new file that was made. This time it is named  and stored  in the right folder automatically!
 
+The folders and file should look something like this:
+![[QuickAdd template 6.png]]
+
+
 ---
 ## Reflect
 
@@ -314,11 +317,117 @@ To do that:
 ---
 # 5 Annotation 
 
+This is very flexible and enables you to practice a method that fits your approach of reading\*watching\*listening . Again, we are just going to look at some options quite quickly to give an understanding of what you can do, so do adapt and build on.
 
-- Annotator: Use plugin with PDFs
-- Embedded media 
-- yt transcript 
-- Zotero, quick mention and link to video tutorial 
+---
+## Annotator (text annotation)
+
+This is a nice plugin for adding and tracking annotations on PDF and epub documents within obsidian. It lets you add comments on highlighted sections or whole pages, as well as add comments, and easily export quotes, comments and tags to a handy document. You may prefer other ways, but this is a quick intro to this one.
+
+Install it [HERE](obsidian://show-plugin?id=obsidian-annotator), or go to Settings>community plugins>browse and search `Annotator`. (Make sure you remember to enable it.)
+
+---
+### Creating an Annotation:
+
+Creating notes on a doc is easy, we just have to add a `annotation-target` property to a note in our vault and link it to the file. 
+
+syntax:
+``` properties
+--- 
+annotation-target: <document path or url>
+---
+```
+For a local file:
+``` properties
+--- 
+annotation-target: BrittonPritchard.pdf
+---
+```
+ For a remote file
+ ``` properties
+--- 
+annotation-target: https://arxiv.org/pdf/2104.13478.pdf
+---
+```
+ 
+   
+---
+#### Getting reading!
+
+Once this is added we can press the three dot menu in the top right and the select annotate to open it up in the reader.
+
+It should look something like this:
+![[Pasted image 20240524205210.png]]
+
+You can then add a annotation by highlighting and the clicking Annotate like:
+![[Pasted image 20240524205245.png]]
+
+You can the edit in the side menu, adding comments and tags! (don't forget to save the annotation)
+![[Pasted image 20240524205358.png]]
+
+---
+#### Bonus annotations print out. 
+
+A bonus from the way that Annotator works is that you can see just the annotations and their tags by opening the file they are were made in, in the read view of obsidian and it should look something like this:
+
+![[Pasted image 20240525072819.png]]
+
+
+>[!Note]
+>This is actually great for searching through the tags easily. Also the `show annotation` link take you directly to it in the text!
+
+---
+## Media Annotation
+
+We saw a number of ways that we can [[01_General syntax skills#8 Embedding links|Embed Links]] and other bits of media in the general syntax md file. Here we are going to be looking at how to work with specific bits of media and some notes and tricks to do that. We wont go in depth, as some setups will take too long, but we will link videos.
+
+---
+### PodNote
+
+[PodNote](obsidian://show-plugin?id=podnotes) is a great plugin for listening to, collecting and annotating podcasts! 
+
+It lets you:
+- Create libraries and playlists of podcasts in obsidian.
+- Create notes automatically from podcast episode with info.
+- Create hotkey to time stamp (with link to that audio\*time) podcasts your listening to.
+
+Check out this tutorial [HERE](https://www.youtube.com/watch?v=SGLfuN15uJY) for more info.
+
+When you have set it up making notes on podcasts will look something like this:
+![[PodNote.png]]
+
+>[!Tags]
+>Remember that we can add tags and link to other pages and content here as it is just a note!
+
+---
+### YTranscript
+
+[YTranscript](obsidian://show-plugin?id=ytranscript) is another great plugin that lets us get the captions from a youtube video you are watching and get time stamps!
+
+Once you set it up you can pull timestamped captions like this:
+
+>[08:35](https://www.youtube.com/watch?v=rZYF--aQmrY&list=PLzqSUPRfRFb40cAwUEUqVszM5XFtuu-xb&index=8&t=515)significance of Crisis and update in New Media so I see crisis and update as Central to actually unhinging habituation so the idea there is as I argue um habit
+>
+>[08:24](https://www.youtube.com/watch?v=rZYF--aQmrY&list=PLzqSUPRfRFb40cAwUEUqVszM5XFtuu-xb&index=8&t=504)everybody's looking at their phone all the time right you said um New Media exists you you just said it at the bleeding edge of obsolescence say a little bit more about the role and
+
+---
+### Adding existing notes/annotations
+
+Of course you already have notes you want to add as well right? Well depending on how you have them setup will make it either okay to bring them in or maybe a bit more tricky. 
+
+We will have a very quick look at two options depending on what you have at the moment.
+
+---
+#### Zotero plugin
+
+This is actually very easy way of incorperating your existing zotero workflow or notes into obsidian. It has a lot of setup so it is a bit more of a mention than a description of how to use.
+
+It lets you:
+- Add inline citations in chosen formats.
+- Paste annotations to a md note in obsidian.
+- Transfer the tracking systems you used in Zotero.
+- 
+
 
 
 ---
