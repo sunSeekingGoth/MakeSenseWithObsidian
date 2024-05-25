@@ -2,34 +2,36 @@
 As well as being a place to create and keep your notes, Obsidian is also an interface for _how_ you work. Everyone will have difference preferences for tools that manage their tasks and the time needed to complete them. This section will be more about setting yourself up for a basic workflow and time management .
 # Work Modes
 Similar to rearranging your desk for different projects, you can use different layouts to do different parts of you workflow.
-
-This will inevitably become your own, for now, my suggested ones are: Reading, Writing and Admin. 
-
----
-# Workspaces
+## Workspaces Plugin
 A core plugin that saves each layout with the name you give it, then snaps you in and out of that layout 
 
+This will inevitably become your own, for now, my suggested ones are: 
+- Reading
+- Writing
+- Admin / Daily
+
 ---
-## Reading
+#### Reading
 This is for doing most of what we covered in the [[04_Research#Research]] section and will be best for viewing two files side by side
+#### Writing
+Plugins: focus mode & typewriter scroll (dyslexia support).
+#### Admin or Daily
+The most 'cluttered view'. Best for time management and a overview on where you're at.
+
+>[! note] If you make changes while inside a workspace
+>you have to save that change to the workspace. It will always load on that last saved layout and open those notes. 
 
 ---
-## Writing
-Plugins: focus mode & typewriter scroll (dyslexia support)
-
----
-## Admin or Daily
-
----
-## Tasks ☑
-- core task plugin:
-	- [ ] This is a thing to do
-		- [ ] This is a sub-thing, it will stay attached to the main task
+# Tasks ☑ - Core
+- [ ] This is a thing to do
+	- [ ] This is a sub-thing, it will stay attached to the main task
 ### Task Syntax 
 - Is `- [ ] `
-- but you can also insert a checkbox with the `cmd-L` shortcut
-### "advanced" tasks
-The core Tasks plugin is good for most things, but you can also use the Tasks community plugin to be able to add more nuance (and emojis) to your tasks like:
+- You can also insert a checkbox with the `cmd-L` shortcut
+# "Advanced": Tasks Plugin
+- Install [here](obsidian://show-plugin?id=obsidian-tasks-plugin)
+
+The core tasks good for most things, but you can also use the Tasks community plugin to be able to add more nuance (and emojis) to your tasks like:
 - [ ] priorities ⏫ 
 - [ ] Due dates 📅 2024-05-07 
 - [ ] Start dates 🛫 2024-05-07 
@@ -37,10 +39,12 @@ The core Tasks plugin is good for most things, but you can also use the Tasks co
 
 ---
 ## Calendar 
-- Get calendar community plugin
-- Can link to the daily notes which we setup during the [[03_Plugins|plugins section]] 
+- Install[ here](obsidian://show-plugin?id=calendar)
+
+Calendar works well with Daily Notes plugin which we setup during the [[03_Plugins|plugins section]] 
 	- Set up time based tasks with due dates
-- Extra mention: Task Rollover
+
+- Honorable mention: Task Rollover
 
 ---
 ### Structuring your Tasks
