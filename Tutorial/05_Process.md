@@ -1,5 +1,24 @@
 50 mins
 As well as being a place to create and keep your notes, Obsidian is also an interface for _how_ you work. Everyone will have difference preferences for tools that manage their tasks and the time needed to complete them. This section will be more about setting yourself up for a basic workflow and time management .
+# Work Modes
+Similar to rearranging your desk for different projects, you can use different layouts to do different parts of you workflow.
+
+This will inevitably become your own, for now, my suggested ones are: Reading, Writing and Admin. 
+
+---
+# Workspaces
+A core plugin that saves each layout with the name you give it, then snaps you in and out of that layout 
+
+---
+## Reading
+This is for doing most of what we covered in the [[04_Research#Research]] section and will be best for viewing two files side by side
+
+---
+## Writing
+Plugins: focus mode & typewriter scroll (dyslexia support)
+
+---
+## Admin or Daily
 
 ---
 ## Tasks ☑
@@ -56,44 +75,5 @@ Defining your queries will help you articulate the question that you want to ask
 > [! Reflect]
 > We are not trying to track for efficiency, but this could be helpful when writing on a deadline or you need to maintain a rhythm of daily writing, reading
 
----
-# Work Modes
-Similar to rearranging your desk for different projects, you can use different layouts to do different parts of you workflow.
-
-This will inevitably become your own, for now, my suggested ones are: Reading, Writing and Admin. 
 
 ---
-# Workspaces
-A core plugin that saves each layout with the name you give it, then snaps you in and out of that layout 
-
----
-## Reading
-This is for doing most of what we covered in the [[04_Research#Research]] section and will be best for viewing two files side by side
-
----
-## Writing
-Plugins: focus mode & typewriter scroll (dyslexia support)
-
----
-## Admin or Daily
-
----
-# Troubleshooting 
-Knowing how things break is the best way of understanding how they work! Some of these things will "break" your vault, here is how to fix them:
-### Changing your vault location 
-- Go to Open another vault ( )
-- Click Open folder as vault & locate the vault
-### Renaming notes after linking them
-- Go to: Options -> Files and Links
-- make sure that "Automatically Update Internal Links" is toggled on
-- If you are prompted to auto-update links always select yes
-
-## Changing date formats
-Keep all date formats to YYYY-MM-DDD even if you find it annoying. I changed it to dd-mm-yyyy and had to change it back after a few months with much faff and python scripting.
-- Don't do it.
-### Changing the default config 
-This is a more advanced problem for adventurers who want to override `.obsidian` settings, possibly to create extra custom profiles.
-- Don't do it. Make a new vault or copy your vault if you want to test different configs and do that by editing the existing .obsidian file
-
-_Further support and trouble shooting [[README#Community|through here]]_
-

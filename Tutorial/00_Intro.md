@@ -6,6 +6,7 @@ Our uses of this tool, being within the context of research,
 - A centralisation and management system of notes & ideas.
 - using links, connections and data to create your groupings, rhythms and movements within notes. 
 - Using different modes like visualising knowledge. 
+- Relating knowledge to other knowledge, not just to when and where you learned it.
 
 ## Why we personally have a knowledge base:
 - To practice organising our own knowledge, and seeing how that feels⭐works

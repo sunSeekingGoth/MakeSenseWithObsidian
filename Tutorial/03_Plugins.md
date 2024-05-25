@@ -49,10 +49,15 @@ This will tell Obsidian where to save new notes where to get the template from.
 
 ___
 #  Canvas - Both
-Goodbye Miro. Canvases are a "infinite scroll" spaces for laying out, linking and organising notes visually. You can insert pre-existing notes into it, or use "cards" that are local to the canvas.
+Goodbye Miro. Canvases are a "infinite scroll" desk-space  for laying out, linking and organising notes visually. You can insert pre-existing notes into it, or use "cards" that are local to the canvas.
 
 - Timeline planning e.g. [[Demo canvas_Weekly plan.canvas|Demo canvas_Weekly plan]]
 - Project planning e.g.
+
+### Functionality
+Links made in canvas between cards or notes are tentative, they do not create wiki links.
+
+
 ---
 # Community plugins
 - easy example get better emoji shortcode

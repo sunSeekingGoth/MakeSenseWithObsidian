@@ -12,7 +12,6 @@ For us as neuro🍮diverse people with slightly chaotic rhythms, it is good to s
 Obsidian with its flexible structure lets us practice and learn what systems and routines work well for us individually. The skills we are showing here are more possibilities and higher level functionality, instead of a specific setup, so please adapt and transform them to fit needs.
 
 ---
-
 ## What will we be looking at?
 
 - [[04_Research#3 Structure|3 Structure]]
@@ -27,15 +26,21 @@ Obsidian with its flexible structure lets us practice and learn what systems and
 Some people may have already done the home work of starting to make their own directory structure (e.g. folders for papers, writing, etc.). We are now though, going to explore in more detail the possible systems and structures to setup.
 
 ---
-## Folder Structure
+## Folder Structure (move to: [[02_Interface]])
+The files tab on the left, is basically the file system (vault) that notes are held in, within that you can structure it however you want. 
+### Functional Folders:
+Some functions within Obsidian need to save and source things to and from allocated folders. 
+- Templates
+- Daily Notes 
 
-The files tab on the left, is basically the file system (vault) that these notes are held in, within that you can structure it however you want. This comes with the needs of your practice and so is highly different, but when setting up try to think out and imagine what your needs are? What sort of Folder system makes things clear, adaptable and maintainable?
+### Recommended Folders:
+
+This comes with the needs of your practice and so is highly different, but when setting up try to think out and imagine what your needs are? What sort of Folder system makes things clear, adaptable and maintainable?
 
 >[!Oh!]
 >As you get going the structure will change as you learn what works, but do put effort in at the beginning to think through what your needs are. This is because big changes can take a bit of work after you have lots of notes.  
 
 ---
-
 ### Recommended Folders
 
 #### Tosort 
@@ -450,7 +455,7 @@ Install and use [Pandoc](https://pandoc.org/MANUAL.html) to automatically conver
 ---
 # 6 Writing Approaches:
 
-There are many ways you can start to write, and work out what makes it easier to write and structure your ideas, ass well as connect all of your thoughts, annotations and threads together.
+There are many ways you can start to write, and work out what makes it easier to write and structure your ideas, as well as connect all of your thoughts, annotations and threads together.
 
 I will be showing ways that I as a dyslexic who finds it tricky to structure essays and research into clearer arguments uses a few of these obsidian tools to stage essay writing into more clearer steps.
 
@@ -477,14 +482,32 @@ Now this isn't a new idea for getting your ideas out there but through this meth
 10. If you come back and feel like the structure needs to change, as it often does, you can then visually from a high level move these written sections around and feel what might work without getting stuck in the nitty gritty.
 11. Once you are feeling comfortable with this essays structure and message, you may then need to add more complex referencing etc to it. I would personally move it over to a libre or office setup, but see what works for you. These steps are more about smoothly growing and structuring the idea.
 
+---
+# Batool Approaches: (will expland)
+
+## Iterating complexity of notes
+1) Resource-bound notes (through annotator, physical sticky notes, canvas cards. etc)
+
+These notes will only make sense when viewed against the original resource.
+
+2) Discrete, irreducible complete thoughts. These start to form idea-based links with each other
+
+These are full sentences in your own words, that do not make verbal references to the original source. (eg. not saying things like "this concept is important", but names the concept) but keeps links to the original note or resource note. 
+
+These notes should be comprehensible if read by themselves, but as they are still notes, they will have wiki links to other related ideas (that sit in their own notes)
+
+3) Output oriented writing compiling those notes, links become citations. This steps usually compiles the content of the wiki-linked notes into one longer "page style" note
+
+At this point, your notes are larger
 
 ---
 
 # Maybe add:
 
 Writing 
-- creating your own text from a lot of reading.
-- Miro boards offering visual links vs idea-based linked with hyper links in obsidian.
+- creating your own text from a lot of reading (I added this under Batool Approches)
+
+
+- Miro boards offering visual links vs idea-based linked with hyper links in obsidian. (can remove this or move it to [[03_Plugins#Canvas - Both]])
 - Ideation & Inspiration
 	- Canvas + different layouts of notes
-		- Plans dg. Teaching plan
