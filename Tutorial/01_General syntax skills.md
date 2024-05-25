@@ -60,8 +60,6 @@ That enable you to break up notes into sections and structure many levels of sub
 They help mark progress, and as we will see later can work in many adaptive ways.
 
 ---
-
-
 # 5 Code!
 
 ## Blocks 💻
@@ -91,7 +89,6 @@ Using one \` either side of the text.
 > You can also use all sorts of normal formatting in **here** ==like== ~~this~~.
 ```
 ---
-
 # 7 There are many types of links 🔗
 
 And they are all pretty flexible and handy, creating a wide range of possibilities.
@@ -135,7 +132,6 @@ Like if you are mid thought, and remember that this text connects to [[Related C
 This enables you to link to images and other sorts of information within the docs! It also means that multiple notes can share and link to the same image, saving space and time. It also means that it is fairly limitless what you can do when it comes to embedding which makes it very transformable and adaptable. 
 
 ---
-
 ## Embed Local Image
 
 ![[cool pup.png]]
@@ -147,7 +143,6 @@ e.g.
 This lets you embed an image form your vault.
 
 ---
-
 ## Embed Online Image
 
 ![](https://farm8.staticflickr.com/7007/6684384907_b093c428b4_z.jpg)
@@ -171,9 +166,7 @@ Just embed videos how you normally would in html. You can normally find this cod
 
 
 ---
-
 ## Embedding Websites in notes
-
 
 
 <iframe src="https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Bold%2C+italics%2C+highlights" style="width:100%; height:500px"></iframe>
@@ -202,16 +195,11 @@ Create a new pad and use the share menu to get the embed code like above.
 ---
 # 9 Tagging
 
-This is similar to social media tagging but you set the agenda!
+This is similar to social media tagging, they are used to make content searchable.
+
+You simply use a `#` and word to create tags between documents. These can be #inline or in page metadata (info about a note).
 
 ---
-### You simply use a `#` and word to create tags between documents.
-
-These can be #inline or in page metadata (info about a note).
-
-
----
-
 ## Subtags
 
 Batoollll

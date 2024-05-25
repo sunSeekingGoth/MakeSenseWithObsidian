@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ff653c225e85fbb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "a0522713dfba6da3",
             "type": "leaf",
             "state": {
@@ -28,22 +20,30 @@
             }
           },
           {
-            "id": "e8241b264df0dadd",
+            "id": "2ff653c225e85fbb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Demo Folder/Demo canvas_Weekly plan.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Tutorial/04_Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1feffe0ebd1293c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorial/03_Plugins.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
       {
         "id": "c9e6618d53bace42",
         "type": "tabs",
-        "dimension": 57.14285714285714,
+        "dimension": 59.39675174013921,
         "children": [
           {
             "id": "998db1439fbccd95",
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tutorial/02_Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tutorial/02_Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tutorial/02_Interface.md"
+              }
             }
           },
           {
@@ -159,12 +163,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
-        "id": "956914a9f029ecf1",
+        "id": "d088f95175236516",
         "type": "tabs",
-        "dimension": 42.857142857142854,
+        "dimension": 40.60324825986079,
         "children": [
           {
             "id": "016863ced8b0e8c7",
@@ -193,21 +197,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "107ba1d5bccf7012",
+  "active": "a0522713dfba6da3",
   "lastOpenFiles": [
-    "Tutorial/02_Interface.md",
     "Tutorial/04_Research.md",
-    "Demo Folder/BrittonPritchard.pdf",
-    "Demo Folder/Demo canvas_Weekly plan.canvas",
-    "Demo Folder/Demo page.md",
+    "Tutorial/02_Interface.md",
+    "Tutorial/06_TroubleShooting.md",
+    "Tutorial/Attachments/ReadingView Menu.png",
+    "Tutorial/00_Intro.md",
+    "Tutorial/01_General syntax skills.md",
     "Tutorial/03_Plugins.md",
     "Tutorial/05_Process.md",
+    "Demo Folder/Demo canvas_Weekly plan.canvas",
+    "Demo Folder/BrittonPritchard.pdf",
+    "Demo Folder/Demo page.md",
     "WEEK 1.md",
-    "Tutorial/01_General syntax skills.md",
     "TO DO.md",
-    "Tutorial/06_TroubleShooting.md",
     "2024-W21.md",
-    "Tutorial/00_Intro.md",
     "Templates/meeting.md",
     "Templates/Daily.md",
     "Tutorial/Attachments/YTranscript.gif",
@@ -221,7 +226,6 @@
     "Tutorial/Pasted image 20240525090107.png",
     "Tutorial/Attachments/Annotator 3.png",
     "Tutorial/Attachments/Annotator 2.png",
-    "Tutorial/Attachments/Annotator 1.png",
     "hope/How to Survive the End of the World/Witch School Graduation with Alexis Pauline Gumbs and Sangodare.md",
     "hope/How to Survive the End of the World",
     "hope",

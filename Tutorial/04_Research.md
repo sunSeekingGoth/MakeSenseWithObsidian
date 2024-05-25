@@ -4,7 +4,6 @@
 As you saw in [[01_General syntax skills]] there are many ways we can make notes to make sense of different media and resources we want to work with. In this section we will be looking at some of the methods we have found useful for working within obsidian for research. 
 
 ---
-
 # 2 Structures \* Systems \* Routines
 
 For us as neuro🍮diverse people with slightly chaotic rhythms, it is good to setup dependable but flexible structures, systems and routines for ourselves to come back to when we feel ready\*able.
@@ -23,25 +22,11 @@ Obsidian with its flexible structure lets us practice and learn what systems and
 ---
 # 3 Structure 
 
-Some people may have already done the home work of starting to make their own directory structure (e.g. folders for papers, writing, etc.). We are now though, going to explore in more detail the possible systems and structures to setup.
-
----
-## Folder Structure (move to: [[02_Interface]])
-The files tab on the left, is basically the file system (vault) that notes are held in, within that you can structure it however you want. 
-### Functional Folders:
-Some functions within Obsidian need to save and source things to and from allocated folders. 
-- Templates
-- Daily Notes 
-
-### Recommended Folders:
-
-This comes with the needs of your practice and so is highly different, but when setting up try to think out and imagine what your needs are? What sort of Folder system makes things clear, adaptable and maintainable?
+Some people may have already done the home work of starting to make their own directory structure (e.g. folders for papers, writing, etc.). We are now though, going to explore in more detail the possible systems and structures to setup. 
 
 >[!Oh!]
 >As you get going the structure will change as you learn what works, but do put effort in at the beginning to think through what your needs are. This is because big changes can take a bit of work after you have lots of notes.  
-
----
-### Recommended Folders
+## Recommended Folders
 
 #### Tosort 
 
@@ -69,13 +54,9 @@ Notes/
 >If you want to see this not in the abstract symbolic text, check out the `Tutorial` folder this file is in. It has the `Attachments` sub-folder setup and has the [[cool pup.png]] for the [[01_General syntax skills#Embed Local Image]] note.
 
 ---
-
 ## Data Structure
-
 We were introduced 
-
 ### Properties: 
-
 Metadata for parsing different notes. eg.:
 - Author
 - File Type (note, annotation, podcast).
