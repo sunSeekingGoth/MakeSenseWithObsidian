@@ -43,11 +43,10 @@ The core tasks good for most things, but you can also use the Tasks community pl
 
 ---
 ## Calendar Plugin
-- Install[ here](obsidian://show-plugin?id=calendar)
 
-Calendar works well with Daily Notes plugin which we setup during the [[03_Plugins|plugins section]] 
-	- Set up time based tasks with due dates
+[Calendar](obsidian://show-plugin?id=calendar) works well with Daily Notes plugin which we setup during the [[03_Plugins|plugins section]] 
 
+ - Set up time based tasks with due dates
 - Honorable mention: Task Rollover plugin
 
 ---
@@ -67,21 +66,22 @@ Defining your queries will help you articulate the question that you want to ask
 ---
 ### DataTypes
 
-### demo in Homepage 
+### Demo in [[Homepage]]
 
-- Tasks
-	- Querying all `NOT DONE` tasks
-	- Refine by a certain due date
-	- sort by `sort by created reverse` to see more recent tasks on top
-- Tables: querying notes about readings
-	- create table with all metadata as column headers to see
-		- Author
-		- Title
-		- Published date
-		- Tags
-		- Ranking / Importance
-- Lists
-- Calendar
+#### Tasks
+- Querying all `NOT DONE` tasks
+- Refine by a certain due date
+- sort by `sort by created reverse` to see more recent tasks on top
+
+#### Tables: querying notes about readings
+- create table with all metadata as column headers to see
+	- Author
+	- Title
+	- Published date
+	- Tags
+	- Ranking / Importance
+#### Lists
+#### Calendar
 
 ---
 # 4 Tracker
@@ -89,6 +89,3 @@ Defining your queries will help you articulate the question that you want to ask
 
 > [! Reflect]
 > We are not trying to track for efficiency, but this could be helpful when writing on a deadline or you need to maintain a rhythm of daily writing, reading
-
-
----
