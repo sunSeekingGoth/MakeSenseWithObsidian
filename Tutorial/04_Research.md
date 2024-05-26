@@ -1,7 +1,7 @@
 50 mins
 # 1 Intro
 
-As you saw in [[01_General syntax skills]] there are many ways we can make notes to make sense of different media and resources we want to work with. In this section we will be looking at some of the methods we have found useful for working within obsidian for research. 
+As you saw in [[01_General syntax skills]] there are many ways we can make notes to make sense of different media and resources we want to work with. In this section we will be looking at some of the methods and workflows we have found useful for using obsidian for research. 
 
 ---
 # 2 Structures \* Systems \* Routines

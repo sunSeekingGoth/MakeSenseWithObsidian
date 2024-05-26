@@ -36,8 +36,9 @@
 - [ ] Batool finish [[05_Process#3 Dataview]] and [[05_Process#4 Tracker]]
 - [ ] Both add examples to [[Demo page]]
 - [ ] Both edit [[03_Plugins]]
-- [ ] George Finish [[04_Research]]
+- [x] George Finish [[04_Research]]
 - [ ] Create feedback Qs in vault + maybe form?
 - [ ] add links for downloading all plugins [[03_Plugins]]
 
-Pad: https://digitalcare.noho.st/pad/p/MakeSenseWithObsidian
+Pad: 
+<iframe name="embed_readwrite" src="https://digitalcare.noho.st/pad/p/MakeSenseWithObsidian?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>

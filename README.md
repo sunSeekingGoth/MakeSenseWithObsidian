@@ -99,9 +99,9 @@ We will then introduce the concepts of the workshop where we will use basic func
 
 # Discussions:
 Doing things in different ways
-- note status, tags vs meta-data
-- annotations, inside vs outside PDFs
-- writing approaches
+- Note status, tags vs meta-data.
+- Annotations, inside vs outside PDFs.
+- Writing approaches.
 # Resources
 
 ## Technical References
