@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "Tutorial/03_Plugins.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/04_Research.md",
-                "mode": "source",
+                "file": "Demo Folder/Demo page.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/03_Plugins.md",
+                "file": "Tutorial/01_General syntax skills.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 303.5
   },
   "right": {
     "id": "aea8ede7cc4020cf",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Tutorial/01_General syntax skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Tutorial/01_General syntax skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Tutorial/01_General syntax skills.md"
               }
             }
           },
@@ -168,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TO DO.md",
+                "file": "Tutorial/01_General syntax skills.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,25 +233,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0522713dfba6da3",
+  "active": "c1feffe0ebd1293c",
   "lastOpenFiles": [
-    "README.md",
-    "meet.md",
-    "Templates/Daily.md",
-    "Templates/meeting.md",
-    "Demo Folder/Demo page.md",
+    "Tutorial/00_Intro.md",
+    "Templates/Time n Date.md",
+    "Demo Folder/Homepage.md",
+    "TO DO.md",
+    "creating-for.md",
+    "WEEK 1.md",
+    "Tutorial/07_TroubleShooting.md",
+    "Tutorial/06_Process.md",
+    "Tutorial/05_Writing.md",
+    "Daily Notes/2024-05-26.md",
+    "Daily Notes",
+    "Tutorial/06_TroubleShooting.md",
     "Tutorial/05_Process.md",
     "Tutorial/03_Plugins.md",
-    "Tutorial/04_Research.md",
-    "TO DO.md",
     "Tutorial/02_Interface.md",
-    "Demo Folder/BrittonPritchard.pdf",
-    "Tutorial/06_TroubleShooting.md",
-    "Tutorial/Attachments/ReadingView Menu.png",
-    "Tutorial/00_Intro.md",
-    "Tutorial/01_General syntax skills.md",
     "Demo Folder/Demo canvas_Weekly plan.canvas",
-    "WEEK 1.md",
+    "Templates/Daily.md",
+    "Tutorial/01_General syntax skills.md",
+    "Tutorial/04_Research.md",
+    "README.md",
+    "Demo Folder/Demo page.md",
+    "meet.md",
+    "Templates/meeting.md",
+    "Demo Folder/BrittonPritchard.pdf",
+    "Tutorial/Attachments/ReadingView Menu.png",
     "2024-W21.md",
     "Tutorial/Attachments/YTranscript.gif",
     "Tutorial/Attachments/QuickAdd template 3.png",

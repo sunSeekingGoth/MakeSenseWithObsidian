@@ -15,6 +15,8 @@ Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+f
 > [!note] Using this vault
 >  We have set it up so that all syntax is understandable and navigable. Usually Obsidian collapses syntax, but we have repeated things so you can see the markdown and code blocks and how they render next to each other.
 
+> [!note] Plugins
+> We have not pre-installed the plugins for you, we will download them together as we go, then some parts of the vault will make more sense
 
 ---
 
