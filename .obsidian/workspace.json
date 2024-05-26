@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/05_Process.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/05_Process.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/05_Process.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/05_Process.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tutorial/05_Process.md",
+                "file": "TO DO.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "d088f95175236516",
@@ -234,22 +234,24 @@
   },
   "active": "a0522713dfba6da3",
   "lastOpenFiles": [
+    "README.md",
+    "meet.md",
+    "Templates/Daily.md",
+    "Templates/meeting.md",
+    "Demo Folder/Demo page.md",
+    "Tutorial/05_Process.md",
+    "Tutorial/03_Plugins.md",
     "Tutorial/04_Research.md",
     "TO DO.md",
-    "Tutorial/05_Process.md",
     "Tutorial/02_Interface.md",
-    "Demo Folder/Demo page.md",
     "Demo Folder/BrittonPritchard.pdf",
     "Tutorial/06_TroubleShooting.md",
     "Tutorial/Attachments/ReadingView Menu.png",
     "Tutorial/00_Intro.md",
     "Tutorial/01_General syntax skills.md",
-    "Tutorial/03_Plugins.md",
     "Demo Folder/Demo canvas_Weekly plan.canvas",
     "WEEK 1.md",
     "2024-W21.md",
-    "Templates/meeting.md",
-    "Templates/Daily.md",
     "Tutorial/Attachments/YTranscript.gif",
     "Tutorial/Attachments/QuickAdd template 3.png",
     "Tutorial/Attachments/QuickAdd template 1.png",
@@ -266,10 +268,8 @@
     "hope",
     "hope/How to Survive the End of the World.md",
     "Demo Folder/Untitled",
-    "README.md",
     "Demo Folder/Project1/meetings",
     "Demo Folder/Project1",
-    "Templates",
-    "meet.md"
+    "Templates"
   ]
 }

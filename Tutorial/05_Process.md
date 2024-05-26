@@ -63,6 +63,7 @@ Dataview is a plugin that allows you to see different parts of your notes based 
 Defining your queries will help you articulate the question that you want to ask about your own knowledge base which will inform what kinda of connections you want to synthesise.
 
 ---
+### DataTypes
 
 - Tasks
 	- Querying all `NOT DONE` tasks
@@ -75,6 +76,8 @@ Defining your queries will help you articulate the question that you want to ask
 		- Published date
 		- Tags
 		- Ranking / Importance
+- Lists
+- Calendar
 
 ---
 # 4 Tracker
