@@ -12,6 +12,10 @@ Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+f
 - [[01_General syntax skills#10 Metadata / Properties|10 Metadata / Properties]]
 - [[01_General syntax skills#11 Why organise like this?|11 Why organise like this?]]
 
+> [!note] Using this vault
+>  We have set it up so that all syntax is understandable and navigable. Usually Obsidian collapses syntax, but we have repeated things so you can see the markdown and code blocks and how they render next to each other.
+
+
 ---
 
 # 2 Headings!
@@ -194,15 +198,15 @@ Create a new pad and use the share menu to get the embed code like above.
 
 ---
 # 9 Tagging
-
 This is similar to social media tagging, they are used to make content searchable.
 
 You simply use a `#` and word to create tags between documents. These can be #inline or in page metadata (info about a note).
 
 ---
 ## Subtags
+Tag can be nested! Think of having broader topics containing more specific ones:
 
-Batoollll
+#project/proposal and #project/log , #project/meeting etc.
 
 ---
 #  10 Metadata / Properties

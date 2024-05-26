@@ -31,12 +31,19 @@
 - [-] Do we want to export the Tutorial folder as a PDF to give as a follow along sheet? - maybe
 - [x] George finish [[01_General syntax skills]]
 - [x] Batool finish [[02_Interface]] ✅ 2024-05-25
-- [x] Batool reorder [[05_Process]] ✅ 2024-05-25
-- [ ] Batool add [[01_General syntax skills#Subtags]]
-- [ ] Batool finish [[05_Process#3 Dataview]] and [[05_Process#4 Tracker]]
+- [x] Batool reorder [[06_Process]] ✅ 2024-05-25
+- [x] Batool add [[01_General syntax skills#Subtags]] ✅ 2024-05-26
+- [ ] Batool finish [[06_Process#3 Dataview]] and [[06_Process#4 Tracker]]
 - [ ] Both add examples to [[Demo page]]
 - [ ] Both edit [[03_Plugins]]
+<<<<<<< Updated upstream
 - [x] George Finish [[04_Research]]
+=======
+	- [ ] George make thoughts on pipleine flowchart canvas example  [[03_Plugins#4 Canvas - G&B]]
+	- [ ] Batool add teaching plan timeline canvas [[03_Plugins#4 Canvas - G&B]]
+- [x] George Finish [[04_Research]] ✅ 2024-05-26
+- [ ] Batool expand writing approaches [[05_Writing]]
+>>>>>>> Stashed changes
 - [ ] Create feedback Qs in vault + maybe form?
 - [ ] add links for downloading all plugins [[03_Plugins]]
 

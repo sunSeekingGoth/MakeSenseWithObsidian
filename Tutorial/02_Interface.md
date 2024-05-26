@@ -58,7 +58,8 @@ This comes with the needs of your practice and so is highly different, but when 
 # 4 Graph View
 Auto-generated cloud of notes and how they are linked. Filters can be toggled to view different layers of information!
 #### Global (whole vault)
-Accessed through the Graph View icon in the Riboon
+Accessed through the Graph View icon in the Ribbon
+Note: it does not show canvases!
 #### Local
 Only showing links to and from the active note.
 Access through the three dot menu in the editor.
@@ -71,14 +72,14 @@ but don't make everything into a tag like author names and definitely not dates!
 
 We will look at how to manage that data in Metadata. Filtering by tags is best kept to simple sorts like #toread or #done etc. or themes like #midcentury or #classical
 #### Simple Queries 
-wWhich texts do I still need to read (that I have tagged with #toread):
+Which texts do I still need to read (that I have tagged with #toread):
 
 ```dataview
 LIST
 FROM #toread 
 ```
 #### More complex queries
-how many words am I writing on average daily? We will answer these questions, and create different "data-vis" things for them when we talk about [[05_Process#3 Dataview|dataview and trackers]]
+how many words am I writing on average daily? We will answer these questions, and create different "data-vis" things for them when we talk about [[06_Process#3 Dataview|dataview and trackers]]
 ___
 # 6 Yassification (or making it cute)
 The real reason we're here. Obsidian can have themes! 
@@ -89,4 +90,4 @@ The one we're using is the Default Obsidian theme, but the community has made MA
 	- press "Manage"
 
 > [!note] Some themes will effect how certain plugins work/look
-> We will see this with [[05_Process#2 Tasks ☑ - Core|Tasks]]
+> We will see this with [[06_Process#2 Tasks ☑ - Core|Tasks]]

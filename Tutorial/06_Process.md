@@ -48,10 +48,12 @@ The core tasks good for most things, but you can also use the Tasks community pl
 Calendar works well with Daily Notes plugin which we setup during the [[03_Plugins|plugins section]] 
 	- Set up time based tasks with due dates
 
-- Honorable mention: Task Rollover
+- Honorable mention: Task Rollover plugin
 
 ---
-### Structuring your Tasks
+### Structuring your Tasks (expand)
+
+putting tasks in project pages vs daily notes dif appraoch. etc.
 
 > [!Reflect]
 > Think about where you put your to-dos, in-line within notes, on project Index, or in a time-based view (like a calendar)?
@@ -64,6 +66,8 @@ Defining your queries will help you articulate the question that you want to ask
 
 ---
 ### DataTypes
+
+### demo in Homepage 
 
 - Tasks
 	- Querying all `NOT DONE` tasks
