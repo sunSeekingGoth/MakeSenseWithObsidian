@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/05_Writing.md",
+                "file": "Tutorial/03_Plugins.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/05_Writing.md",
+                "file": "Tutorial/03_Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/05_Writing.md",
+                "file": "Tutorial/03_Plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/05_Writing.md"
+                "file": "Tutorial/03_Plugins.md"
               }
             }
           },
@@ -169,16 +169,16 @@
   },
   "active": "2ff653c225e85fbb",
   "lastOpenFiles": [
-    "Demo Folder/Chapter planning/Demo canvas_Chapter Planner.canvas",
-    "Tutorial/05_Writing.md",
+    "README.md",
     "Tutorial/03_Plugins.md",
+    "Tutorial/05_Writing.md",
+    "Demo Folder/Chapter planning/Demo canvas_Chapter Planner.canvas",
     "Demo Folder/Chapter planning/04_Conclusion.md",
     "Demo Folder/Chapter planning/01.2_analysis.md",
     "Demo Folder/Chapter planning/00_Intro.md",
     "Demo Folder/Chapter planning/01.1_examples.md",
     "Demo Folder/Chapter planning/02_deeper concepts.md",
     "Demo Folder/Chapter planning/03_practice.md",
-    "README.md",
     "Demo Folder/01_foundations.md",
     "Demo Folder/Chapter planning/Chapter planning.md",
     "Demo Folder/Demo canvas timeline plan.canvas",

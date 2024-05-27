@@ -112,6 +112,20 @@ To find the search menu got to:
 	5. Then enable it.
 	6. Setup anything you need.
 
+
+>[!tip] Or in a flowchart
+>```mermaid
+flowchart TD
+A{Search for plugin} -->|Open it|C(Check it's configuration)
+C -->|Yes| D(Install it)
+C -->|Not right| A
+D --> E(enable it)
+E --> F(Setup plugin)
+F --> |Works| G[Awesome!]
+F --> |Doesn't work for you| H(Uninstall)
+H --> A
+>```
+
 We will show mainly step 4 in the next few slides for different plugins.
 
 ---
@@ -299,16 +313,12 @@ To do that:
 The folders and file should look something like this:
 ![[QuickAdd template 6.png]]
 
-
----
-
 ---
 ## Bonus mentions:
 
-- Highlighter
-- Advanced slides
-- Better Word Count
-- Homepage
+- [Highlighter](obsidian://show-plugin?id=highlightr-plugin)
+- [Advanced slides](obsidian://show-plugin?id=obsidian-advanced-slides)
+- [Better Word Count](obsidian://show-plugin?id=better-word-count)
+- [Homepage](obsidian://show-plugin?id=homepage)
 - [Folder Index](obsidian://show-plugin?id=obsidian-folder-index)
-- Zotero
 
