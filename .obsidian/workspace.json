@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd9106688907b280",
+        "id": "6d770b3646b4ddad",
         "type": "tabs",
         "children": [
           {
-            "id": "4884e8ea216e68df",
+            "id": "e57cc903aa175d2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -218,7 +218,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4884e8ea216e68df",
+  "active": "e57cc903aa175d2b",
   "lastOpenFiles": [
     "Demo Folder/Homepage.md",
     "Tutorial/06_Process.md",
