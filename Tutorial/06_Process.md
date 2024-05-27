@@ -15,6 +15,8 @@ This will inevitably become your own, for now, my suggested ones are:
 This is for doing most of what we covered in the [[04_Research#Research]] section and will be best for viewing two files side by side
 #### Writing
 Plugins: focus mode & typewriter scroll (dyslexia support).
+ZenFocus
+
 #### Admin or Daily
 The most 'cluttered view'. Best for time management and a overview on where you're at.
 
@@ -24,7 +26,7 @@ The most 'cluttered view'. Best for time management and a overview on where you'
 ---
 # 2 Tasks ☑ - Core
 - [ ] This is a thing to do
-	- [ ] This is a sub-thing, it will stay attached to the main task
+	- [x] This is a sub-thing, it will stay attached to the main task ✅ 2024-05-27
 ### Task Syntax 
 - Is `- [ ] `
 - You can also insert a checkbox with the `cmd-L` shortcut
@@ -65,7 +67,7 @@ putting tasks in project pages vs daily notes dif appraoch. etc.
 - Querying all `NOT DONE` tasks
 
 ```tasks
-(not done) AND NOT (status.name includes deferred) AND NOT (status.name includes note) AND NOT (status.name includes scheduled)
+(not done) AND NOT (status.name includes deferred)
 ```
 
 - Refine by a certain due date & sort by `sort by created reverse` to see more recent tasks on top

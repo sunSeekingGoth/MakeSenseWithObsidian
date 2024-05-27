@@ -42,7 +42,8 @@
 - [ ] Batool expand writing approaches [[05_Writing]]
 - [ ] Create feedback Qs in vault + maybe form?
 - [ ] add links for downloading all plugins [[03_Plugins]]
-- [ ] example task w due date Add all dataview queries 📅 2024-05-28 
+- [x] example task w due date Add all dataview queries 📅 2024-05-28 ✅ 2024-05-27
+- [ ] create a branch/fork for completed workshop vault
 
 Pad: 
 <iframe name="embed_readwrite" src="https://digitalcare.noho.st/pad/p/MakeSenseWithObsidian?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>

@@ -1,10 +1,9 @@
 ---
-date created: {{time}}
+date created: 11:56
 type: Daily note
 tags:
-hit 100 words: 
 ---
-# {{date:YYYY-MM-DD}} 
+# 2024-05-27 
 # Schedule 
 
 - [ ] 07:30-8:00 wake up
@@ -15,7 +14,6 @@ hit 100 words:
 - [ ] 15:45-17:00 closing laptop 
 - [ ] 17:30 giving dog cuddles 
 # Tasks 
-- [  ]
-- 
+- [ ]
 
 # Log

@@ -2,7 +2,6 @@ put dataview queries in here
 
 # Running Tasks
 Tasks from all of vault
-
 ```tasks
 ```
 

@@ -20,7 +20,6 @@ Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+f
 > We have not pre-installed the plugins for you, we will download them together as we go, then some parts of the vault will make more sense
 
 ---
-
 # 1 Headings!
 
 ## Oh Headings!!
@@ -113,11 +112,12 @@ To enable you to link to external websites and resources.
 ## Internal links
 
 **Simple (Wiki Link):**
-[[Tutorial/00_Intro]]
+[[00_Intro#Knowledge base & Research Collection]]
+
 syntax:
 `[[<FILE_NAME>]]`
 e.g.
-`[[00_Intro]]`
+`[[00_Intro#Knowledge base & Research Collection|short word]]`
 
 Use this to  link to files within your vault. when you start writing `[[` you will be prompted to search existing files you can link to.
 
@@ -154,7 +154,7 @@ This enables you to link to images and other sorts of information within the doc
 e.g.
 `![[cool pup.png]]`
 
-This lets you embed an image form your vault.
+This lets you embed an image form your vault. You can also drag files in!
 
 ---
 ## Embed Online Image
@@ -217,6 +217,8 @@ You simply use a `#` and word to create tags between documents. These can be #in
 Tag can be nested! Think of having broader topics containing more specific ones:
 
 #project/proposal and #project/log , #project/meeting etc.
+
+
 
 ---
 #  9 Metadata / Properties

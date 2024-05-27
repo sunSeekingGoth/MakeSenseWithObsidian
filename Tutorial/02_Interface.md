@@ -39,6 +39,8 @@ By default, we don't see the the markdown syntax of Obsidian unless we are *typi
 
 We can toggle Source Mode and Reading More from the top-right menu in the editor. Or the book icon.
 
+[[Tutorial/00_Intro|00_Intro]] 
+
 ![[ReadingView Menu.png|500]]
 
 > [!note] 
@@ -63,6 +65,10 @@ Note: it does not show canvases!
 #### Local
 Only showing links to and from the active note.
 Access through the three dot menu in the editor.
+
+#notfinished
+#anotherone
+
 
 ___
 # 5 Knowledge querying interfaces
@@ -93,3 +99,4 @@ The one we're using is the Default Obsidian theme, but the community has made MA
 
 > [!note] Some themes will effect how certain plugins work/look
 > We will see this with [[06_Process#2 Tasks ☑ - Core|Tasks]]
+

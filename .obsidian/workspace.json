@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2022e3d3301a32a5",
+        "id": "a32473169b1c0864",
         "type": "tabs",
         "children": [
           {
-            "id": "eb73d58f8b79c4f9",
+            "id": "cd58a3c2d942a4e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,19 @@
             }
           },
           {
-            "id": "f4f57fec21370071",
+            "id": "fc6161dbe0d72636",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/06_Process.md",
+                "file": "Daily Notes/2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "44c29021e361a9b8",
+            "id": "427fe4ab1cc3dcf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,8 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6850b863783cb6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demo Folder/Homepage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "565c2bd71c4a8791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorial/07_TroubleShooting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "calend",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 264.5
   },
   "right": {
     "id": "aea8ede7cc4020cf",
@@ -102,6 +127,7 @@
       {
         "id": "c9e6618d53bace42",
         "type": "tabs",
+        "dimension": 61.83932346723044,
         "children": [
           {
             "id": "998db1439fbccd95",
@@ -109,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo Folder/Homepage.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo Folder/Homepage.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo Folder/Homepage.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -162,11 +188,38 @@
             }
           },
           {
-            "id": "3f413c2b40b3f703",
+            "id": "21ea3363e114a54a",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "localgraph",
+              "state": {
+                "file": "TO DO.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.1217408182408957,
+                  "close": true
+                }
+              }
             }
           },
           {
@@ -178,11 +231,26 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
+      },
+      {
+        "id": "56931508082ff439",
+        "type": "tabs",
+        "dimension": 38.16067653276956,
+        "children": [
+          {
+            "id": "3f413c2b40b3f703",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,38 +267,39 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "eb73d58f8b79c4f9",
+  "active": "427fe4ab1cc3dcf8",
   "lastOpenFiles": [
     "Tutorial/06_Process.md",
-    "Tutorial/04_Research.md",
-    "Demo Folder/Homepage.md",
-    "Tutorial/05_Writing.md",
-    "Tutorial/03_Plugins.md",
-    "Qs for Feedback.md",
-    "Tutorial/Screenshot 2024-05-27 at 10.48.27.png",
-    "Tutorial/Screenshot 2024-05-27 at 10.47.02.png",
-    "Daily Notes/2024-05-26.md",
-    "TO DO.md",
-    "Tutorial/02_Interface.md",
-    "Tutorial/Attachments/finding themes menu.png",
-    "Daily Notes/2024-05-27.md",
-    "Tutorial/01_General syntax skills.md",
-    "Demo Folder/Demo page.md",
     "Tutorial/07_TroubleShooting.md",
+    "Demo Folder/Homepage.md",
+    "Daily Notes/2024-05-27.md",
+    "Demo Folder/meet.md",
+    "Daily Notes/2024-05-28.md",
     "Daily Notes/2024-05-25.md",
-    "Tutorial/00_Intro.md",
-    "Demo Folder/Chapter planning/01_foundations.md",
-    "Demo Folder/01_foundations.md",
+    "Demo Folder/Demo page.md",
     "Demo Folder/Demo canvas timeline plan.canvas",
-    "README.md",
+    "Tutorial/05_Writing.md",
+    "Tutorial/04_Research.md",
+    "Tutorial/03_Plugins.md",
+    "Templates/Daily.md",
     "Demo Folder/Chapter planning/Demo canvas_Chapter Planner.canvas",
-    "Demo Folder/Chapter planning/04_Conclusion.md",
-    "Demo Folder/Chapter planning/01.2_analysis.md",
-    "Demo Folder/Chapter planning/00_Intro.md",
-    "Demo Folder/Chapter planning/01.1_examples.md",
-    "Demo Folder/Chapter planning/02_deeper concepts.md",
-    "Demo Folder/Chapter planning/03_practice.md",
-    "Demo Folder/Chapter planning/Chapter planning.md",
+    "Demo Folder/Chapter planning/01_foundations.md",
+    "new note to put in cavas.md",
+    "Week 1.md",
+    "Daily Notes/Untitled.md",
+    "Templates/meeting.md",
+    "meeting w john.md",
+    "Templates/Time n Date.md",
+    "Tutorial/00_Intro.md",
+    "Tutorial/02_Interface.md",
+    "Tutorial/01_General syntax skills.md",
+    "Related Concept.md",
+    "TO DO.md",
+    "Qs for Feedback.md",
+    "Tutorial/Attachments/Screenshot 2024-05-27 at 10.48.27.png",
+    "Tutorial/Attachments/Screenshot 2024-05-27 at 10.47.02.png",
+    "Daily Notes/2024-05-26.md",
+    "Tutorial/Attachments/finding themes menu.png",
     "Demo Folder/Chapter planning",
     "Tutorial/Demo canvas_Weekly plan.canvas",
     "Tutorial/Attachments/plugin options.png",

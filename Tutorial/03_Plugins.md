@@ -31,7 +31,7 @@ It's not enabled by default so search it up in the settings of core plugins and 
 
 ![[slash commands.png]]
 
-If you enabled it test it out here (or anywhere in a pad . . . ):
+If you enabled it test it out here (or anywhere in a pad . . . ): 
 
 >[!Note]
 >This is great if you need to do inline commands, such as pasting in a template (shown next) into a specific place in a note etc. 
@@ -58,7 +58,9 @@ These are almost always just for variables. The syntax will just be stored in a 
 eg.
 `{{time}}` is the variable syntax for inserting the current time
 
+
 ##### try to insert that template here:
+2024-05-27 11:52 
 
 
 ---
@@ -144,7 +146,10 @@ So if we follow those steps above it looks like:
 7. Now open up a note and search up some emojis inline (in the note) with `:` and then the name of the emoji, using the arrow keys to navigate and then press enter to select!
 
 
-### Try it out! 🐡☎🌵🌴🔭🍭💙📚🐛💮📁🐦🥘👡⌨🔉🥣
+### Try it out! 🐡☎🌵🌴🔭🍭💙📚🐛💮📁🐦🥘👡⌨🔉🥣 
+
+🌈 🍮
+
 ---
 ## Day Planner - B
 
@@ -153,6 +158,8 @@ So if we follow those steps above it looks like:
 ![[Screenshot 2024-05-27 at 10.48.27.png|600]]
 
 Also creates a weekly view of them - toggle it through the table icon in the top bar of the timeline.
+
+> [!note] This needs dataview to work!
 
 ![[Screenshot 2024-05-27 at 10.47.02.png|600]]
 

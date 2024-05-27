@@ -10,7 +10,7 @@ Our uses of this tool, being within the context of research,
 
 ## Why we personally have a knowledge base:
 - To practice organising our own knowledge, and seeing how that feels⭐works
-- Learning to create helpful way-finding, especially neuro🍮divergent learning & rhythms 
+- Learning to create helpful way-finding, especially nuero🍮divergent learning & rhythms 
 - Non-compartmentalising and creating a trans⭐disciplinary knowledge practice
 - Emptying my brain, not having to remember everything
 - Sorting through information overload & overwhelm, creating steps, routines, cycles that we can catch ourselves with
