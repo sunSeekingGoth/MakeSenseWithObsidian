@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"8be864d05aa77424","type":"file","file":"Demo Folder/Chapter planning/04_Conclusion.md","x":1430,"y":-311,"width":400,"height":400},
+		{"id":"f9342c49c0b78cc3","type":"file","file":"Demo Folder/Chapter planning/01.2_analysis.md","x":58,"y":726,"width":400,"height":400},
+		{"id":"b24fd0b0c251e6aa","type":"file","file":"Demo Folder/Chapter planning/00_Intro.md","x":-120,"y":-360,"width":400,"height":400},
+		{"id":"0d3946f67c80caca","type":"file","file":"Demo Folder/01_foundations.md","x":20,"y":160,"width":400,"height":400},
+		{"id":"4d5db20c5fc4284f","type":"file","file":"Demo Folder/Chapter planning/01.1_examples.md","x":-505,"y":791,"width":400,"height":400},
+		{"id":"c30d4708a23588b7","type":"file","file":"Demo Folder/Chapter planning/02_deeper concepts.md","x":560,"y":-360,"width":400,"height":400},
+		{"id":"afdf273429a13830","type":"file","file":"Demo Folder/Chapter planning/03_practice.md","x":880,"y":241,"width":400,"height":400},
+		{"id":"b38d375834c87210","type":"file","file":"Demo Folder/Chapter planning/Chapter planning.md","x":-705,"y":-100,"width":400,"height":341}
+	],
+	"edges":[
+		{"id":"a3fb9941c77f1287","fromNode":"b38d375834c87210","fromSide":"right","toNode":"b24fd0b0c251e6aa","toSide":"left"},
+		{"id":"adf839d3e6017349","fromNode":"b24fd0b0c251e6aa","fromSide":"bottom","toNode":"0d3946f67c80caca","toSide":"top"},
+		{"id":"acf952d5d5a760d8","fromNode":"0d3946f67c80caca","fromSide":"bottom","toNode":"4d5db20c5fc4284f","toSide":"top"},
+		{"id":"b1deefb7c06dd0a0","fromNode":"4d5db20c5fc4284f","fromSide":"right","toNode":"f9342c49c0b78cc3","toSide":"left"},
+		{"id":"8e84a9ec22645939","fromNode":"0d3946f67c80caca","fromSide":"right","toNode":"c30d4708a23588b7","toSide":"left"},
+		{"id":"e1b61bbf284774b0","fromNode":"c30d4708a23588b7","fromSide":"bottom","toNode":"afdf273429a13830","toSide":"top"},
+		{"id":"dd82764d9e4626de","fromNode":"afdf273429a13830","fromSide":"right","toNode":"8be864d05aa77424","toSide":"left"}
+	]
+}

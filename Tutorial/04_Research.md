@@ -1,10 +1,10 @@
 50 mins
-# 1 Intro
+# Intro
 
 As you saw in [[01_General syntax skills]] there are many ways we can make notes to make sense of different media and resources we want to work with. In this section we will be looking at some of the methods and workflows we have found useful for using obsidian for research. 
 
 ---
-# 2 Structures \* Systems \* Routines
+# 1 Structures \* Systems \* Routines
 
 For us as neuro🍮diverse people with slightly chaotic rhythms, it is good to setup dependable but flexible structures, systems and routines for ourselves to come back to when we feel ready\*able.
 
@@ -16,11 +16,10 @@ Obsidian with its flexible structure lets us practice and learn what systems and
 - [[04_Research#3 Structure|3 Structure]]
 - [[04_Research#4 Automation|4 Automation]]
 - [[04_Research#5 Annotation|5 Annotation]]
-- [[04_Research#6 Writing approaches|6 Writing Approaches]]
 
 
 ---
-# 3 Structure 
+# 2 Structure 
 
 Some people may have already done the home work of starting to make their own directory structure (e.g. folders for papers, writing, etc.). We are now though, going to explore in more detail the possible systems and structures to setup. 
 
@@ -85,11 +84,11 @@ Well sad\*happy to say it's up to you! But there are a few minor differences, th
 > Don't be afraid to change your folder to match your evolving needs!
 
 ---
-# 4 Automation
+# 3 Automation
 
 By automation, we are not approaching this as a way of accelerating our work and getting maximum efficiencies, but as a way to setup protocols and rhythms for ourselves to easily keep somewhat uniform notes that we can come back to when we are ready and able. It is a way to take care setting up to provide simple and easy workflows for yourself! 
 
-There are many many many ways to do this in obsidian, but we will just show you a few handy addons/processes we have found that work well.
+We have already seen [[03_Plugins#Quick add|QuickAdd]] which is great for automating note structures and metadata in a standardised way, and here we are going to show you a another tool [[04_Research#Read it later|Read it later]] as well as reflect on what automation means for use within our practice instead of within its normative narratives of efficiency. 
 
 ---
 ## Read it later
@@ -132,15 +131,18 @@ I normally have a rhythm where I will close out my tabs etc when they are gettin
 
 ---
 
-
 ## Reflect
 
-> [! Reflect]
-> What would you want to automate?
-> How can we think about automation as a process of caring for our selves and research, creating space, time & systems for us to make our work through?
+
+What do you want to automate?
+
+How can we think about automation as a process of caring for our selves and research, creating space, time & systems for us to make our work through? instead of reducing it down. 
+
+Within obsidian we structure and decide on how we automate our systems and this is a great opportunity to question what your methods and desires we have when caring for ourselves and our research. 
+
 
 ---
-# 5 Annotation 
+# 4 Annotation 
 
 This is very flexible and enables you to practice a method that fits your approach of reading\*watching\*listening . Again, we are just going to look at some options quite quickly to give an understanding of what you can do, so do adapt and build on.
 

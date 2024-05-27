@@ -26,9 +26,11 @@ These notes should be comprehensible if read by themselves, but as they are stil
 - process
 At this point, your notes are larger
 ---
-## Mapping with the Canvas.
+## Mapping chapters/essays the Canvas.
 
 Now this isn't a new idea for getting your ideas out there but through this methodology we can keep keep it together as one fluid and growing seed within your practice and maybe recommend some processes to do that.
+
+There is a demo setup of this in: ![[Demo canvas_Chapter Planner.canvas]]
 
 ### My steps:
 

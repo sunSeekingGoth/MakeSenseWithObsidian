@@ -13,7 +13,7 @@ In this section we will be covering:
 
 The command palette is where we call and run almost all of our commands and processes inside of obsidian and from any plugins we have installed. 
 
-To get it up we just press `Cntrl+P` and Search the name of the command you want. Press enter to select the option you want.  
+To open it up we just press `Cntrl+P` and Search the name of the command you want. Press enter to select the option you want.  
 
 It will look like this:
 ![[Command palette.png]]
@@ -30,6 +30,8 @@ Slash commands has the same functionality as command palette above, but instead 
 It's not enabled by default so search it up in the settings of core plugins and activate it.
 
 ![[slash commands.png]]
+
+If you enabled it test it out here (or anywhere in a pad . . . ):
 
 >[!Note]
 >This is great if you need to do inline commands, such as pasting in a template (shown next) into a specific place in a note etc. 
@@ -83,7 +85,7 @@ ___
 Goodbye Miro. Canvases are a "infinite scroll" desk-space  for laying out, linking and organising notes visually. You can insert pre-existing notes into it, or use "cards" that are local to the canvas.
 
 - Timeline planning e.g. [[Demo canvas_Weekly plan.canvas|Demo canvas_Weekly plan]]
-- Chapter outline e.g.
+- Chapter outline e.g. [[Demo canvas_Chapter Planner.canvas|Demo canvas_Chapter Planner]]
 - Pipline example?
 ### Functionality
 The arrows that connect cards in canvas are only visual, they do not create wiki links in your vault.

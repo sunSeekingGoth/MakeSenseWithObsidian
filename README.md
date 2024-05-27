@@ -4,7 +4,7 @@ This gives an overview of how the we are approaching creating a constellation of
 
 # Monday Afternoon
 
-## [[00_Intro]]
+## [[Tutorial/00_Intro]]
 
 ### Knowledge Bases
 In this session we are introducing the concept of knowledge bases, and the use of obsidian in this spectrum of these software and tools. We will introduce how we can practice and adapt these flexible tools to work within  many approaches to note taking, reading and organising your knowledge and research. 

@@ -1,16 +1,17 @@
 20-25 mins
-# 1 Lets learn some syntax!
+# Intro: Lets learn some syntax!
 
 Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax) but we will run through the basics:
-- [[01_General syntax skills#2 Headings!|2 Headings]]
-- [[01_General syntax skills#3 Styling|3 Styling]]
-- [[01_General syntax skills#4 To Dos|4 To Dos]]
-- [[01_General syntax skills#5 Code!|5 Code!]]
-- [[01_General syntax skills#6 Notes * Comments|6 Notes*Comments]]
-- [[01_General syntax skills#7 There are many types of links 🔗|7 There are many types of links 🔗]]
-- [[01_General syntax skills#9 Tagging|9 Tagging]]
-- [[01_General syntax skills#10 Metadata / Properties|10 Metadata / Properties]]
-- [[01_General syntax skills#11 Why organise like this?|11 Why organise like this?]]
+- [[01_General syntax skills#1 Headings!|1 Headings]]
+- [[01_General syntax skills#2 Styling|2 Styling]]
+- [[01_General syntax skills#3 To Dos|3 To Dos]]
+- [[01_General syntax skills#4 Code!|4 Code!]]
+- [[01_General syntax skills#5 Notes * Comments|5 Notes*Comments]]
+- [[01_General syntax skills#6 There are many types of links 🔗|6 There are many types of links 🔗]]
+- [[01_General syntax skills#7 Embedding links|7 Embedding links]]
+- [[01_General syntax skills#8 Tagging|8 Tagging]]
+- [[01_General syntax skills#9 Metadata / Properties|9 Metadata / Properties]]
+- [[01_General syntax skills#10 Why organise like this?|10 Why organise like this?]]
 
 > [!note] Using this vault
 >  We have set it up so that all syntax is understandable and navigable. Usually Obsidian collapses syntax, but we have repeated things so you can see the markdown and code blocks and how they render next to each other.
@@ -20,7 +21,7 @@ Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+f
 
 ---
 
-# 2 Headings!
+# 1 Headings!
 
 ## Oh Headings!!
 
@@ -35,7 +36,7 @@ That enable you to break up notes into sections and structure many levels of sub
 
 ---
 
-# 3 Styling
+# 2 Styling
 
 **BOLD**
 
@@ -57,7 +58,7 @@ That enable you to break up notes into sections and structure many levels of sub
 
 ---
 
-# 4 To Dos
+# 3 To Dos
 
 - [ ] 
 
@@ -66,7 +67,7 @@ That enable you to break up notes into sections and structure many levels of sub
 They help mark progress, and as we will see later can work in many adaptive ways.
 
 ---
-# 5 Code!
+# 4 Code!
 
 ## Blocks 💻
 
@@ -83,7 +84,7 @@ using ` ``` ` either side of the text.
 Using one \` either side of the text.
 
 ---
-# 6 Notes \* Comments
+# 5 Notes \* Comments
 
 > [! note] This is a Callout, used to make stand out notes \* comments 
 > Use this to make comments \* notes that you want to be noticeable.
@@ -95,7 +96,7 @@ Using one \` either side of the text.
 > You can also use all sorts of normal formatting in **here** ==like== ~~this~~.
 ```
 ---
-# 7 There are many types of links 🔗
+# 6 There are many types of links 🔗
 
 And they are all pretty flexible and handy, creating a wide range of possibilities.
 
@@ -112,7 +113,7 @@ To enable you to link to external websites and resources.
 ## Internal links
 
 **Simple (Wiki Link):**
-[[00_Intro]]
+[[Tutorial/00_Intro]]
 syntax:
 `[[<FILE_NAME>]]`
 e.g.
@@ -133,7 +134,7 @@ Like if you are mid thought, and remember that this text connects to [[Related C
 > This keeps your sentence cohesive as note titles don't always make sense in-line
 
 ---
-# 8 Embedding links
+# 7 Embedding links
 
 This enables you to link to images and other sorts of information within the docs! It also means that multiple notes can share and link to the same image, saving space and time. It also means that it is fairly limitless what you can do when it comes to embedding which makes it very transformable and adaptable. 
 
@@ -199,7 +200,7 @@ e.g.
 Create a new pad and use the share menu to get the embed code like above.
 
 ---
-# 9 Tagging
+# 8 Tagging
 This is similar to social media tagging, they are used to make content searchable.
 
 You simply use a `#` and word to create tags between documents. These can be #inline or in page metadata (info about a note).
@@ -211,7 +212,7 @@ Tag can be nested! Think of having broader topics containing more specific ones:
 #project/proposal and #project/log , #project/meeting etc.
 
 ---
-#  10 Metadata / Properties
+#  9 Metadata / Properties
 
 Similar to tags, metadata can store information about your notes, but it can also store information about the file itself. 
 
@@ -251,7 +252,7 @@ In comparison to tags, metadata can also store _different kinds_ of data, like d
 >These property types can also by manually coded in if you prefer but the menu can help!
 
 ---
-# 11 Why organise like this?
+# 10 Why organise like this?
 
 This way of structuring your notes is what makes obsidian (and other knowledge bases with similar capacities) so useful, as they enable you to connect and thread your notes together in multiple ways! 
 
