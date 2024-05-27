@@ -44,6 +44,7 @@
 - [ ] add links for downloading all plugins [[03_Plugins]]
 - [x] example task w due date Add all dataview queries 📅 2024-05-28 ✅ 2024-05-27
 - [ ] create a branch/fork for completed workshop vault
+- [ ] shift focus away from data queries and quick add/day plannar. and more towards researching and bring back writing approaches
 
 Pad: 
 <iframe name="embed_readwrite" src="https://digitalcare.noho.st/pad/p/MakeSenseWithObsidian?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
