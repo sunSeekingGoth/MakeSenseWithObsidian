@@ -1,13 +1,42 @@
 25-35 mins
 # Intro 
 
----
-# Core Plugins
-# 1 Command Palette - G
-- Slash command
+Plugins let you add or extend functionality to your workspace letting you transform it to your needs and flows. 
+
+In this section we will be covering:
+- [[03_Plugins#1 Core Plugins|1 Core Plugins]]
+- [[03_Plugins#2 Community plugins|2 Community plugins]] 
 
 ---
-# 2 Templates - G&B
+# 1 Core Plugins
+## Command Palette - G
+
+The command palette is where we call and run almost all of our commands and processes inside of obsidian and from any plugins we have installed. 
+
+To get it up we just press `Cntrl+P` and Search the name of the command you want. Press enter to select the option you want.  
+
+It will look like this:
+![[Command palette.png]]
+
+>[!Note]
+>You will sometimes need to enter info or different bits depending on the command you call.
+
+---
+
+## Slash command
+
+Slash commands has the same functionality as command palette above, but instead lets you do it inline by just writing a slash `/`.
+
+It's not enabled by default so search it up in the settings of core plugins and activate it.
+
+![[slash commands.png]]
+
+>[!Note]
+>This is great if you need to do inline commands, such as pasting in a template (shown next) into a specific place in a note etc. 
+
+
+---
+## Templates - G&B
 
 A template is any preset format or info that can be inserted into different active notes. It can be used to create the structure of a whole note, or to insert an inline recurring snippets of info.
 ### Setup:
@@ -21,7 +50,7 @@ Notes in this folder will not be treated as other notes and will not come up in 
 > When we setup data querying with [[06_Process#3 Dataview|Dataview]] we have to remove the Templates from searches.
 
 ---
-## Inline templates - B
+### Inline templates - B
 These are almost always just for variables. The syntax will just be stored in a note and can be applied wherever you want.
 
 eg.
@@ -32,13 +61,13 @@ eg.
 Dates, blocks of repeating info. Full reference for variables on moment.js.
 
 ---
-## Page templates
+### Page templates
 For templates that setup a whole page, you want to make sure to apply them to an empty note. This is doubly important because these usually have metadata (or properties, or YAML, whatever you want to call it) and that will only be read correctly when its at the top of the note!
-### Make Daily Note template
+#### Make Daily Note template
 Most common use for page templates is Daily Notes, which are notes that can hold day to day content like tasks, work logs, journal entries etc, and can be linked to an in-vault calendar which we will setup as well.
 
 ___
-# 3 Daily notes - B
+## Daily notes - B
 
 ### Setup:
 - New File location: This is the folder we already have in the vault called "Daily Notes"
@@ -50,7 +79,7 @@ This will tell Obsidian where to save new notes where to get the template from.
 >Date Format is YYYY-MM-DD by default. Leave it that way!
 
 ___
-#  4 Canvas - G&B
+## Canvas - G&B
 Goodbye Miro. Canvases are a "infinite scroll" desk-space  for laying out, linking and organising notes visually. You can insert pre-existing notes into it, or use "cards" that are local to the canvas.
 
 - Timeline planning e.g. [[Demo canvas_Weekly plan.canvas|Demo canvas_Weekly plan]]
@@ -61,8 +90,49 @@ The arrows that connect cards in canvas are only visual, they do not create wiki
 But if you make a wiki link inside a card it will create a note of that title in your vault!
 
 ---
-# 5 Community plugins
-- Easy example get better emoji shortcode [link]
+# 2 Community plugins
+
+Community plugins are made and maintained by other people than obsidian, and provide the vast majority of its flexibility. Depending on how complex the plugin is, there will be different levels of setting up that need to be done. Here we will briefly show three different levels of complexity and some setting up, to get you used to what you may need to do for other plugins you want to setup. 
+
+---
+
+## Where to find community plugins?
+
+To find the search menu got to:
+1. Settings (in the bottom left): ![[Settings icon.png]]
+2. Click the community plugin option on the left of the settings menu (see highlighted in purple below).
+3. Select the browse button on the right to open the search menu:![[community plugins menu.png]]
+4. From here you choose a plugin you want and roughly:
+	1. Search for suitable Plugin
+	2. Open it
+	3. Check it's configuration.
+	4. Install it if you want it.
+	5. Then enable it.
+	6. Setup anything you need.
+
+We will show mainly step 4 in the next few slides for different plugins.
+
+---
+
+## Emoji shortcode (Easy example)
+
+### Install it
+So if we follow those steps above it looks like:
+
+1. Install [Emoji Shortcodes](obsidian://show-plugin?id=emoji-shortcodes) from the community plugins window and enable it, you can also get to this through the search menu if you have it open or want to try.
+2. Open it up.
+3. Scroll down and have a read of whats going on, in this case its quite a simple configuration. You just install and then use the `:` command inline (on a note) to start a search for emojis!.![[emoji_shortcodes.gif]]
+4. Install it if you want it with the install button: ![[Install button.png]]
+5. Then enable it: ![[Enable plugin.png]]
+6. Then you can check out the settings/options of the plugin if you want (but we don't need to here): ![[plugin options.png]]
+7. Now open up a note and search up some emojis inline (in the note) with `:` and then the name of the emoji, using the arrow keys to navigate and then press enter to select!
+
+
+### Try it out! 🐡☎🌵🌴🔭🍭💙📚🐛💮📁🐦🥘👡⌨🔉🥣
+
+
+---
+
 - Day Planner [link]
 ---
 ## Quick add
@@ -231,7 +301,7 @@ The folders and file should look something like this:
 ---
 
 ---
-# 6 Bonus mentions:
+## Bonus mentions:
 
 - Highlighter
 - Advanced slides

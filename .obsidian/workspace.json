@@ -8,55 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0522713dfba6da3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutorial/06_Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2ff653c225e85fbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demo Folder/Demo page.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1feffe0ebd1293c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bbaad4808aacece2",
+            "id": "a0522713dfba6da3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demo Folder/meet.md",
+                "file": "Tutorial/03_Plugins.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 218.50043487548828
   },
   "right": {
     "id": "aea8ede7cc4020cf",
@@ -115,7 +91,6 @@
       {
         "id": "c9e6618d53bace42",
         "type": "tabs",
-        "dimension": 59.39675174013921,
         "children": [
           {
             "id": "998db1439fbccd95",
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Tutorial/03_Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Tutorial/03_Plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Tutorial/03_Plugins.md"
               }
             }
           },
@@ -174,125 +149,73 @@
               "type": "podcast_player_view",
               "state": {}
             }
-          },
-          {
-            "id": "d0c0977b455e21ed",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "TO DO.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.758989014188216,
-                  "close": true
-                }
-              }
-            }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "d088f95175236516",
-        "type": "tabs",
-        "dimension": 40.60324825986079,
-        "children": [
-          {
-            "id": "016863ced8b0e8c7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "graph:Open graph view": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "workspaces:Manage workspace layouts": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1feffe0ebd1293c",
+  "active": "a0522713dfba6da3",
   "lastOpenFiles": [
-    "Demo Folder/Demo canvas timeline plan.canvas",
-    "Demo Folder/Demo canvas_Weekly plan.canvas",
-    "Demo Folder/Demo page.md",
-    "Tutorial/01_General syntax skills.md",
-    "Tutorial/06_Process.md",
-    "Daily Notes/2024-05-25.md",
-    "Daily Notes/2024-05-26.md",
-    "Daily Notes/2024-05-27.md",
-    "Demo Folder/meet.md",
-    "TO DO.md",
-    "Demo Folder/Homepage.md",
-    "WEEK 1.md",
+    "Tutorial/Attachments/plugin options.png",
+    "Tutorial/Attachments/Enable plugin.png",
+    "Tutorial/Attachments/community plugins menu.png",
+    "Tutorial/Attachments/Settings icon.png",
     "Tutorial/03_Plugins.md",
-    "Tutorial/00_Intro.md",
-    "Templates/Time n Date.md",
-    "Demo Folder/creating-for.md",
-    "Tutorial/07_TroubleShooting.md",
-    "Tutorial/05_Writing.md",
-    "Daily Notes",
-    "Tutorial/06_TroubleShooting.md",
-    "Tutorial/05_Process.md",
-    "Tutorial/02_Interface.md",
-    "Templates/Daily.md",
-    "Tutorial/04_Research.md",
+    "Tutorial/Attachments/Install button.png",
+    "Tutorial/Attachments/emoji_shortcodes.gif",
     "README.md",
-    "Templates/meeting.md",
+    "Tutorial/04_Research.md",
+    "Tutorial/Attachments/slash commands.png",
+    "Tutorial/Attachments/Command palette.png",
+    "Demo Folder/Demo canvas timeline plan.canvas",
+    "Daily Notes/2024-05-27.md",
+    "Daily Notes/2024-05-25.md",
+    "Tutorial/02_Interface.md",
+    "Tutorial/01_General syntax skills.md",
+    "Tutorial/00_Intro.md",
+    "Tutorial/07_TroubleShooting.md",
+    "Tutorial/06_Process.md",
+    "Tutorial/05_Writing.md",
+    "Templates/Time n Date.md",
+    "Demo Folder/meet.md",
+    "Demo Folder/creating-for.md",
+    "Demo Folder/Homepage.md",
+    "Daily Notes/2024-05-26.md",
+    "Daily Notes",
+    "TO DO.md",
+    "Tutorial/05_Process.md",
+    "Tutorial/06_TroubleShooting.md",
+    "Demo Folder/Demo page.md",
+    "Demo Folder/Demo canvas_Weekly plan.canvas",
     "Demo Folder/BrittonPritchard.pdf",
     "Tutorial/Attachments/ReadingView Menu.png",
-    "2024-W21.md",
     "Tutorial/Attachments/YTranscript.gif",
     "Tutorial/Attachments/QuickAdd template 3.png",
-    "Tutorial/Attachments/QuickAdd template 1.png",
-    "Tutorial/Attachments/Planning 1.png",
-    "Tutorial/Attachments/Planning 2.png",
     "Demo Folder/Project1/meetings/jeff - 2024 05 24.md",
     "Tutorial/Untitled.canvas",
-    "Tutorial/Attachments/Annotator 4.png",
-    "Tutorial/Pasted image 20240525090107.png",
-    "Tutorial/Attachments/Annotator 3.png",
-    "Tutorial/Attachments/Annotator 2.png",
+    "hope/How to Survive the End of the World/Witch School Graduation with Alexis Pauline Gumbs and Sangodare.md",
     "hope/How to Survive the End of the World",
     "hope",
+    "hope/How to Survive the End of the World.md",
     "Demo Folder/Untitled",
     "Demo Folder/Project1/meetings",
     "Demo Folder/Project1",
-    "Templates"
+    "Templates/Daily.md",
+    "Templates",
+    "meet.md"
   ]
 }
