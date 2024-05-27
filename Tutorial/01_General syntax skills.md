@@ -98,7 +98,7 @@ Using one \` either side of the text.
 ---
 # 6 There are many types of links 🔗
 
-And they are all pretty flexible and handy, creating a wide range of possibilities.
+Links are a core part of Obsidian! And they are all pretty flexible and handy, creating a wide range of possibilities.
 
 ---
 ## External
@@ -137,6 +137,13 @@ Like if you are mid thought, and remember that this text connects to [[Related C
 # 7 Embedding links
 
 This enables you to link to images and other sorts of information within the docs! It also means that multiple notes can share and link to the same image, saving space and time. It also means that it is fairly limitless what you can do when it comes to embedding which makes it very transformable and adaptable. 
+
+- [[#Embed Local Image]]
+- [[#Embed Local Image]]
+- [[#Embed Online Image]]
+- [[#Embed videos]]
+- [[#Embedding Websites in notes]]
+- [[#Shared pads?]]
 
 ---
 ## Embed Local Image

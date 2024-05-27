@@ -1,8 +1,7 @@
 ---
 type: demo
+annotation-target: BrittonPritchard.pdf
 ---
-<<<<<<< Updated upstream
-=======
 
 
 
@@ -32,4 +31,3 @@ type: demo
 >%%TAGS%%
 >#practice
 ^j5aibywvi18
->>>>>>> Stashed changes

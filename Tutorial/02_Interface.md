@@ -65,7 +65,7 @@ Only showing links to and from the active note.
 Access through the three dot menu in the editor.
 
 ___
-# 5 Knowledge querying interfaces.
+# 5 Knowledge querying interfaces
 Start thinking about what questions you have for your own notes and knowledge base. eg. What other 
 #### Filtering tags on Graph View
 but don't make everything into a tag like author names and definitely not dates! 
@@ -88,6 +88,8 @@ The one we're using is the Default Obsidian theme, but the community has made MA
 
 - Settings/Appearance/Themes
 	- press "Manage"
+
+![[finding themes menu.png]]
 
 > [!note] Some themes will effect how certain plugins work/look
 > We will see this with [[06_Process#2 Tasks ☑ - Core|Tasks]]

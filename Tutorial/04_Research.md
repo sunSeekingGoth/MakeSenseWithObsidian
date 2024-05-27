@@ -123,16 +123,14 @@ Two very simple steps!
 3. (Optional) Check to see if your note is there!
 
 ---
-### How Easy!
+### How Easy! 🌈
 
 See with these sorts of systems, once we have done a bit of setup, we can have a handy and easy tool to decongest and collect all our bits in one place!
 
 I normally have a rhythm where I will close out my tabs etc when they are getting toooo much, and save the ones I actually want to sort through and work with. Then once a month or maybe less, sort through them and organise them in the vault.
 
 ---
-
 ## Reflect
-
 
 What do you want to automate?
 
@@ -140,9 +138,8 @@ How can we think about automation as a process of caring for our selves and rese
 
 Within obsidian we structure and decide on how we automate our systems and this is a great opportunity to question what your methods and desires we have when caring for ourselves and our research. 
 
-
 ---
-# 4 Annotation 
+# 4 Annotation 💭
 
 This is very flexible and enables you to practice a method that fits your approach of reading\*watching\*listening . Again, we are just going to look at some options quite quickly to give an understanding of what you can do, so do adapt and build on.
 

@@ -4,35 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "c2c0c4839468c00a",
+        "id": "2022e3d3301a32a5",
         "type": "tabs",
         "children": [
-          {
-            "id": "b325d453e32486a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutorial/03_Plugins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "eb73d58f8b79c4f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/03_Plugins.md",
+                "file": "Tutorial/06_Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4f57fec21370071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorial/04_Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44c29021e361a9b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 285.5
   },
   "right": {
     "id": "aea8ede7cc4020cf",
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/03_Plugins.md",
+                "file": "Tutorial/06_Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/03_Plugins.md",
+                "file": "Tutorial/06_Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/03_Plugins.md"
+                "file": "Tutorial/06_Process.md"
               }
             }
           },
@@ -171,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,19 +201,25 @@
   },
   "active": "eb73d58f8b79c4f9",
   "lastOpenFiles": [
-    "Qs for Feedback.md",
+    "Tutorial/05_Writing.md",
+    "Tutorial/04_Research.md",
     "Tutorial/03_Plugins.md",
+    "Qs for Feedback.md",
+    "Tutorial/Screenshot 2024-05-27 at 10.48.27.png",
+    "Tutorial/Screenshot 2024-05-27 at 10.47.02.png",
+    "Daily Notes/2024-05-26.md",
+    "TO DO.md",
     "Tutorial/02_Interface.md",
+    "Tutorial/Attachments/finding themes menu.png",
+    "Daily Notes/2024-05-27.md",
     "Tutorial/01_General syntax skills.md",
+    "Demo Folder/Demo page.md",
     "Tutorial/07_TroubleShooting.md",
     "Tutorial/06_Process.md",
     "Demo Folder/Homepage.md",
-    "Daily Notes/2024-05-26.md",
     "Daily Notes/2024-05-25.md",
     "Tutorial/00_Intro.md",
-    "Tutorial/05_Writing.md",
     "Demo Folder/Chapter planning/01_foundations.md",
-    "Tutorial/04_Research.md",
     "Demo Folder/01_foundations.md",
     "Demo Folder/Demo canvas timeline plan.canvas",
     "README.md",
@@ -223,16 +240,9 @@
     "Tutorial/Attachments/Install button.png",
     "Tutorial/Attachments/emoji_shortcodes.gif",
     "Tutorial/Attachments/slash commands.png",
-    "Tutorial/Attachments/Command palette.png",
-    "Daily Notes/2024-05-27.md",
-    "Templates/Time n Date.md",
-    "Demo Folder/meet.md",
-    "Demo Folder/creating-for.md",
     "Daily Notes",
     "Demo Folder/Demo canvas_Weekly plan.canvas",
     "Demo Folder/BrittonPritchard.pdf",
-    "Tutorial/Attachments/ReadingView Menu.png",
-    "Tutorial/Attachments/YTranscript.gif",
     "Tutorial/Untitled.canvas",
     "hope/How to Survive the End of the World",
     "hope",
