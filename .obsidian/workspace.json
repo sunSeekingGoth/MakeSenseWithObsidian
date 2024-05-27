@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo Folder/meet.md",
+                "file": "Tutorial/01_General syntax skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo Folder/meet.md",
+                "file": "Tutorial/01_General syntax skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo Folder/meet.md"
+                "file": "Tutorial/01_General syntax skills.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Demo Folder/meet.md",
+                "file": "Tutorial/01_General syntax skills.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,21 +246,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2da3c4f2267b36ad",
+  "active": "c1feffe0ebd1293c",
   "lastOpenFiles": [
+    "Demo Folder/Demo page.md",
+    "Tutorial/06_Process.md",
+    "Daily Notes/2024-05-25.md",
+    "Daily Notes/2024-05-26.md",
+    "Daily Notes/2024-05-27.md",
+    "Demo Folder/meet.md",
+    "TO DO.md",
     "Demo Folder/Homepage.md",
     "WEEK 1.md",
-    "Tutorial/06_Process.md",
     "Tutorial/03_Plugins.md",
-    "Demo Folder/Demo page.md",
     "Tutorial/01_General syntax skills.md",
     "Tutorial/00_Intro.md",
     "Templates/Time n Date.md",
-    "TO DO.md",
     "Demo Folder/creating-for.md",
     "Tutorial/07_TroubleShooting.md",
     "Tutorial/05_Writing.md",
-    "Daily Notes/2024-05-26.md",
     "Daily Notes",
     "Tutorial/06_TroubleShooting.md",
     "Tutorial/05_Process.md",
@@ -269,7 +272,6 @@
     "Templates/Daily.md",
     "Tutorial/04_Research.md",
     "README.md",
-    "Demo Folder/meet.md",
     "Templates/meeting.md",
     "Demo Folder/BrittonPritchard.pdf",
     "Tutorial/Attachments/ReadingView Menu.png",
@@ -288,7 +290,6 @@
     "hope/How to Survive the End of the World/Witch School Graduation with Alexis Pauline Gumbs and Sangodare.md",
     "hope/How to Survive the End of the World",
     "hope",
-    "hope/How to Survive the End of the World.md",
     "Demo Folder/Untitled",
     "Demo Folder/Project1/meetings",
     "Demo Folder/Project1",

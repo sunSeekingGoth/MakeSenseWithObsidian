@@ -42,6 +42,7 @@
 - [ ] Batool expand writing approaches [[05_Writing]]
 - [ ] Create feedback Qs in vault + maybe form?
 - [ ] add links for downloading all plugins [[03_Plugins]]
+- [ ] Add all dataview queries 📅 2024-05-28 
 
 Pad: 
 <iframe name="embed_readwrite" src="https://digitalcare.noho.st/pad/p/MakeSenseWithObsidian?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>

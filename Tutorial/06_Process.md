@@ -58,21 +58,26 @@ putting tasks in project pages vs daily notes dif appraoch. etc.
 > Think about where you put your to-dos, in-line within notes, on project Index, or in a time-based view (like a calendar)?
 
 ---
+### Demo in [[Homepage]]
+
+#### Tasks
+
+- Querying all `NOT DONE` tasks
+```tasks
+(not done) AND NOT (status.name includes deferred) AND NOT (status.name includes note) AND NOT (status.name includes scheduled)
+```
+
+- Refine by a certain due date & sort by `sort by created reverse` to see more recent tasks on top
+```tasks
+not done
+due tomorrow
+```
 # 3 Dataview
 Dataview is a plugin that allows you to see different parts of your notes based on the meta-data and tags allocated to them. It does this by asking your vault for certain info.
 
 Defining your queries will help you articulate the question that you want to ask about your own knowledge base which will inform what kinda of connections you want to synthesise.
 
 ---
-### DataTypes
-
-### Demo in [[Homepage]]
-
-#### Tasks
-- Querying all `NOT DONE` tasks
-- Refine by a certain due date
-- sort by `sort by created reverse` to see more recent tasks on top
-
 #### Tables: querying notes about readings
 - create table with all metadata as column headers to see
 	- Author
@@ -80,12 +85,32 @@ Defining your queries will help you articulate the question that you want to ask
 	- Published date
 	- Tags
 	- Ranking / Importance
-#### Lists
-#### Calendar
+
+```dataview
+TABLE started, file.folder, file.etags 
+FROM #meeting
+```
+
+Full dataview docs [here](https://blacksmithgu.github.io/obsidian-dataview/queries/query-types/#task)
 
 ---
 # 4 Tracker
 - Writing tracker can be set up with the word count plugin
+
+```tracker
+searchType: fileMeta
+searchTarget: numWords, numChars
+folder: Daily Notes
+startDate: 2024-05-01
+endDate: 2024-06-05
+datasetName: words, chars
+line:
+    title: Word Counting
+    yAxisLocation: left, right
+    yAxisLabel: Words
+    lineColor: red, yellow
+    showLegend: true
+```
 
 > [! Reflect]
 > We are not trying to track for efficiency, but this could be helpful when writing on a deadline or you need to maintain a rhythm of daily writing, reading
