@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/05_Writing.md",
+                "file": "Demo Folder/Chapter planning/01_foundations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0522713dfba6da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorial/04_Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,6 +180,7 @@
   },
   "active": "6007ac0d1d205b40",
   "lastOpenFiles": [
+    "Demo Folder/Chapter planning/01_foundations.md",
     "Tutorial/04_Research.md",
     "Tutorial/06_Process.md",
     "Demo Folder/01_foundations.md",
