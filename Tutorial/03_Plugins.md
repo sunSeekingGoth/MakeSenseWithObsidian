@@ -38,7 +38,7 @@ If you enabled it test it out here (or anywhere in a pad . . . ):
 
 
 ---
-## Templates - G&B
+## Templates - B
 
 A template is any preset format or info that can be inserted into different active notes. It can be used to create the structure of a whole note, or to insert an inline recurring snippets of info.
 ### Setup:
@@ -78,13 +78,6 @@ This will tell Obsidian where to save new notes where to get the template from.
 
 >[! note]
 >Date Format is YYYY-MM-DD by default. Leave it that way!
-
----
-## Day Planner
-
-[Day Planner](obsidian://show-plugin?id=obsidian-day-planner) creates a (pretty) timeline of everything you put under the `# Schedule` heading in your daily notes. Display this through the calendar icon in the right sidebar.
-
-Also creates a weekly view of them - toggle it through the table icon in the top bar of the timeline.
 
 
 ___
@@ -137,7 +130,7 @@ We will show mainly step 4 in the next few slides for different plugins.
 
 ---
 
-## Emoji shortcode (Easy example)
+## Emoji shortcode (Easy example) - G
 
 ### Install it
 So if we follow those steps above it looks like:
@@ -153,7 +146,14 @@ So if we follow those steps above it looks like:
 
 ### Try it out! 🐡☎🌵🌴🔭🍭💙📚🐛💮📁🐦🥘👡⌨🔉🥣
 ---
-## Quick add
+## Day Planner - B
+
+[Day Planner](obsidian://show-plugin?id=obsidian-day-planner) creates a (pretty) timeline of everything you put under the `# Schedule` heading in your daily notes. Display this through the calendar icon in the right sidebar.
+
+Also creates a weekly view of them - toggle it through the table icon in the top bar of the timeline.
+
+---
+## Quick add - G
 
 This is a little more complex example, but hopefully once it is setup it will create easy ways to organise and maintain your notes! 
 
