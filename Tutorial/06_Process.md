@@ -63,6 +63,7 @@ putting tasks in project pages vs daily notes dif appraoch. etc.
 #### Tasks
 
 - Querying all `NOT DONE` tasks
+
 ```tasks
 (not done) AND NOT (status.name includes deferred) AND NOT (status.name includes note) AND NOT (status.name includes scheduled)
 ```
@@ -88,7 +89,7 @@ Defining your queries will help you articulate the question that you want to ask
 
 ```dataview
 TABLE started, file.folder, file.etags 
-FROM #meeting
+FROM #project/meeting 
 ```
 
 Full dataview docs [here](https://blacksmithgu.github.io/obsidian-dataview/queries/query-types/#task)
@@ -107,7 +108,7 @@ datasetName: words, chars
 line:
     title: Word Counting
     yAxisLocation: left, right
-    yAxisLabel: Words
+    yAxisLabel: Words, Charrs
     lineColor: red, yellow
     showLegend: true
 ```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/06_Process.md",
+                "file": "Demo Folder/Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/04_Research.md",
+                "file": "Tutorial/06_Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/06_Process.md",
+                "file": "Demo Folder/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/06_Process.md",
+                "file": "Demo Folder/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/06_Process.md"
+                "file": "Demo Folder/Homepage.md"
               }
             }
           },
@@ -201,8 +201,10 @@
   },
   "active": "eb73d58f8b79c4f9",
   "lastOpenFiles": [
-    "Tutorial/05_Writing.md",
+    "Tutorial/06_Process.md",
     "Tutorial/04_Research.md",
+    "Demo Folder/Homepage.md",
+    "Tutorial/05_Writing.md",
     "Tutorial/03_Plugins.md",
     "Qs for Feedback.md",
     "Tutorial/Screenshot 2024-05-27 at 10.48.27.png",
@@ -215,8 +217,6 @@
     "Tutorial/01_General syntax skills.md",
     "Demo Folder/Demo page.md",
     "Tutorial/07_TroubleShooting.md",
-    "Tutorial/06_Process.md",
-    "Demo Folder/Homepage.md",
     "Daily Notes/2024-05-25.md",
     "Tutorial/00_Intro.md",
     "Demo Folder/Chapter planning/01_foundations.md",
