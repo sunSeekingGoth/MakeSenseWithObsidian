@@ -9,7 +9,7 @@ Tasks from project notes
 ---
 # Writing Progress
 
-Tracker or calendar 
+Tracker 
 
 
 

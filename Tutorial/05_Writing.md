@@ -8,9 +8,9 @@ I will be showing ways that I as a dyslexic who finds it tricky to structure ess
 >This is for reference and think about how you can incorporate or transform your existing ways of working through these tools.
 
 ---
-## Iterating Complexity (Batool Approaches: (will expand))
+## Iterating Complexity - B
 
-Iterating complexity of notes by adding ambient on going cultivation of knowledge. 
+Iterating complexity of notes by slowly adding to ongoing clusters of notes.
 ### My steps
 1) Resource-bound notes (through annotator, physical sticky notes, canvas cards. etc)
 - process
