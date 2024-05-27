@@ -48,19 +48,18 @@ Notes in this folder will not be treated as other notes and will not come up in 
 
 ![[Templates setup.png]]
 
-> [! note] Remove from Dataview
-> When we setup data querying with [[06_Process#3 Dataview|Dataview]] we have to remove the Templates from searches.
+> [! note] Remove from Queries
+> When we setup data querying with [[06_Process#3 Dataview|Dataview, Tasks and Tracker]]we have to remove the Templates from searches.
 
 ---
 ### Inline templates - B
-These are almost always just for variables. The syntax will just be stored in a note and can be applied wherever you want.
+These are almost always just for variables. The syntax will just be stored in a note and can be applied wherever you want. Dates, blocks of repeating info. Full reference for variables on [moment.js](https://momentjs.com/docs/#/displaying/format/).
 
 eg.
 `{{time}}` is the variable syntax for inserting the current time
 
 ##### try to insert that template here:
 
-Dates, blocks of repeating info. Full reference for variables on moment.js.
 
 ---
 ### Page templates
@@ -83,9 +82,9 @@ This will tell Obsidian where to save new notes where to get the template from.
 ---
 ## Day Planner
 
-[Day Planner](obsidian://show-plugin?id=obsidian-day-planner) creates a (pretty) timeline of everything you put under the `# Schedule` heading in your daily notes. 
+[Day Planner](obsidian://show-plugin?id=obsidian-day-planner) creates a (pretty) timeline of everything you put under the `# Schedule` heading in your daily notes. Display this through the calendar icon in the right sidebar.
 
-Also creates a weekly view of them - toggle it through the
+Also creates a weekly view of them - toggle it through the table icon in the top bar of the timeline.
 
 
 ___

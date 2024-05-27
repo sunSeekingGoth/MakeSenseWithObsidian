@@ -79,7 +79,7 @@ LIST
 FROM #toread 
 ```
 #### More complex queries
-how many words am I writing on average daily? We will answer these questions, and create different "data-vis" things for them when we talk about [[06_Process#3 Dataview|dataview and trackers]]
+how many words am I writing on average daily? We will answer these questions, and create different "data-vis" graphs for them when we talk about [[06_Process#3 Dataview|dataview and trackers]]
 ___
 # 6 Yassification (or making it cute)
 The real reason we're here. Obsidian can have themes! 
