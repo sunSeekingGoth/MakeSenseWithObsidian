@@ -80,6 +80,14 @@ This will tell Obsidian where to save new notes where to get the template from.
 >[! note]
 >Date Format is YYYY-MM-DD by default. Leave it that way!
 
+---
+## Day Planner
+
+[Day Planner](obsidian://show-plugin?id=obsidian-day-planner) creates a (pretty) timeline of everything you put under the `# Schedule` heading in your daily notes. 
+
+Also creates a weekly view of them - toggle it through the
+
+
 ___
 ## Canvas - G&B
 Goodbye Miro. Canvases are a "infinite scroll" desk-space  for laying out, linking and organising notes visually. You can insert pre-existing notes into it, or use "cards" that are local to the canvas.
@@ -145,11 +153,6 @@ So if we follow those steps above it looks like:
 
 
 ### Try it out! 🐡☎🌵🌴🔭🍭💙📚🐛💮📁🐦🥘👡⌨🔉🥣
-
-
----
-
-- Day Planner [link]
 ---
 ## Quick add
 
