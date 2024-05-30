@@ -32,9 +32,7 @@ That enable you to break up notes into sections and structure many levels of sub
 
 `# Headings!`
 
-
 ---
-
 # 2 Styling
 
 **BOLD**
@@ -56,7 +54,6 @@ That enable you to break up notes into sections and structure many levels of sub
 `~~Strikethrough~~`
 
 ---
-
 # 3 To Dos
 
 - [ ] 

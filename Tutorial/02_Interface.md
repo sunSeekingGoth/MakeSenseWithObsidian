@@ -72,14 +72,27 @@ Access through the three dot menu in the editor.
 
 ___
 # 5 Knowledge querying interfaces
-Start thinking about what questions you have for your own notes and knowledge base. eg. What other 
+Start thinking about what questions you have for your own notes and knowledge base. 
 #### Filtering tags on Graph View
-but don't make everything into a tag like author names and definitely not dates! 
+Filtering by tags is best kept to simple sorts, examples: 
 
-We will look at how to manage that data in Metadata. Filtering by tags is best kept to simple sorts like #toread or #done etc. or themes like #midcentury or #classical
-#### Simple Queries 
+Actionable filters like
+#toread or #done etc. 
+
+Thematic groupings like
+#midcentury or #classical
+
+Vault overview like
+#meetings or #project 
+
+> [!note] 
+>Don't make everything into a tag like author names and definitely not dates!  We will look at how to manage that data in Metadata. 
+#### Filtering tags in search bar
+The search icon in the top left sidebar will let you search by tag (as well as other things):
+
+![[Screenshot 2024-05-30 at 11.27.19.png|300]]
+### Filtering tags thru simple Queries 
 Which texts do I still need to read (that I have tagged with #toread):
-
 ```dataview
 LIST
 FROM #toread 

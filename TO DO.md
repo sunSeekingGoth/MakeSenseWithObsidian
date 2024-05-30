@@ -39,13 +39,19 @@
 	- [ ] George make thoughts on pipleine flowchart canvas example  [[03_Plugins#4 Canvas - G&B]]
 	- [x] Batool add teaching plan timeline canvas [[03_Plugins#4 Canvas - G&B]] ✅ 2024-05-27
 - [x] George Finish [[04_Research]] ✅ 2024-05-26
-- [ ] Batool expand writing approaches [[05_Writing]]
-- [ ] Create feedback Qs in vault + maybe form?
-- [ ] add links for downloading all plugins [[03_Plugins]]
+
+- [-] Create feedback Qs in vault + maybe form?
+- [x] add links for downloading all plugins [[03_Plugins]] ✅ 2024-05-30
 - [x] example task w due date Add all dataview queries 📅 2024-05-28 ✅ 2024-05-27
-- [ ] create a branch/fork for completed workshop vault
+
+
+
+# Post Trial-run changes
 - [ ] shift focus away from data queries and quick add/day plannar. and more towards researching and bring back writing approaches
 - [ ] add note to the daily note section to do them from the core plugin [[03_Plugins#Daily notes - B]]
+- [ ] create a branch/fork for completed workshop vault
+- [ ] Batool expand writing approaches [[05_Writing]]
+
 
 Pad: 
 <iframe name="embed_readwrite" src="https://digitalcare.noho.st/pad/p/MakeSenseWithObsidian?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
