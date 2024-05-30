@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./",
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "newFileLocation": "current"
 }

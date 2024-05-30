@@ -78,7 +78,7 @@ We will then introduce the concepts of the workshop where we will use basic func
 - Ideation & Inspiration
 	- Canvas & layouts
 - Writing approaches discussion
-### [[06_Process]] - Batool
+### [[06_Practice]] - Batool
 - Intro
 - Work Modes:
 	- Reading / note-taking 

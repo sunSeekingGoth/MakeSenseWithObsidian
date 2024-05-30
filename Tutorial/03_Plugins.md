@@ -1,7 +1,7 @@
 25-35 mins
 # Intro 
 
-Plugins let you add or extend functionality to your workspace letting you transform it to your needs and flows. 
+Obsidian is very bare by default! Plugins let you add or extend functionality to your workspace letting you transform it to your needs and flows. 
 
 In this section we will be covering:
 - [[03_Plugins#1 Core Plugins|1 Core Plugins]]
@@ -9,7 +9,8 @@ In this section we will be covering:
 
 ---
 # 1 Core Plugins
-## Command Palette - G
+## Command Palette 
+#G
 
 The command palette is where we call and run almost all of our commands and processes inside of obsidian and from any plugins we have installed. 
 
@@ -22,7 +23,6 @@ It will look like this:
 >You will sometimes need to enter info or different bits depending on the command you call.
 
 ---
-
 ## Slash command
 
 Slash commands has the same functionality as command palette above, but instead lets you do it inline by just writing a slash `/`.
@@ -38,7 +38,8 @@ If you enabled it test it out here (or anywhere in a pad . . . ):
 
 
 ---
-## Templates - B
+## Templates
+#B
 
 A template is any preset format or info that can be inserted into different active notes. It can be used to create the structure of a whole note, or to insert an inline recurring snippets of info.
 ### Setup:
@@ -49,15 +50,14 @@ Notes in this folder will not be treated as other notes and will not come up in 
 ![[Templates setup.png]]
 
 > [! note] Remove from Queries
-> When we setup data querying with [[06_Process#3 Dataview|Dataview, Tasks and Tracker]]we have to remove the Templates from searches.
+> When we setup data querying with [[06_Practice#3 Dataview|Dataview, Tasks and Tracker]]we have to remove the Templates from searches.
 
 ---
-### Inline templates - B
+### Inline templates
 These are almost always just for variables. The syntax will just be stored in a note and can be applied wherever you want. Dates, blocks of repeating info. Full reference for variables on [moment.js](https://momentjs.com/docs/#/displaying/format/).
 
 eg.
 `{{time}}` is the variable syntax for inserting the current time
-
 
 ##### try to insert that template here:
 2024-05-27 11:52 
@@ -70,33 +70,47 @@ For templates that setup a whole page, you want to make sure to apply them to an
 Most common use for page templates is Daily Notes, which are notes that can hold day to day content like tasks, work logs, journal entries etc, and can be linked to an in-vault calendar which we will setup as well.
 
 ___
-## Daily notes - B
+## Daily notes 
+#B
 
 ### Setup:
 - New File location: This is the folder we already have in the vault called "Daily Notes"
 - Template location: This will be `Templates/Daily note`
 
-This will tell Obsidian where to save new notes where to get the template from.
+Obsidian core plugin lets us automate creating daily notes. This will tell Obsidian where to save new notes where to get the template from. 
+
+![[core daily notes button.png|300]]
 
 >[! note]
 >Date Format is YYYY-MM-DD by default. Leave it that way!
 
-
 ___
-## Canvas - G&B
+## Canvas 
+#G #B
+
 Goodbye Miro. Canvases are a "infinite scroll" desk-space  for laying out, linking and organising notes visually. You can insert pre-existing notes into it, or use "cards" that are local to the canvas.
 
-- Timeline planning e.g. [[Demo canvas_Weekly plan.canvas|Demo canvas_Weekly plan]]
+- Timeline planning e.g. [[Demo canvas timeline plan.canvas|Demo canvas_Weekly plan]]
 - Chapter outline e.g. [[Demo canvas_Chapter Planner.canvas|Demo canvas_Chapter Planner]]
-- Pipline example?
 ### Functionality
-The arrows that connect cards in canvas are only visual, they do not create wiki links in your vault.
-But if you make a wiki link inside a card it will create a note of that title in your vault!
+
+##### Adding different elements (in order of button left-to-right):
+- cards
+- notes from the vault 
+- and media from the vault
+![[Canvas toolbar.png|200]]
+##### Making visual links and creating notes:
+- The arrows that connect cards in canvas are only visual, they do not create wiki links in your vault.
+- You can make a wiki link inside a card or note it will create a note of that title in your vault!
+- you can also create new notes while inside canvas, using the note button and it will create it in your vault
 
 ---
 # 2 Community plugins
 
 Community plugins are made and maintained by other people than obsidian, and provide the vast majority of its flexibility. Depending on how complex the plugin is, there will be different levels of setting up that need to be done. Here we will briefly show three different levels of complexity and some setting up, to get you used to what you may need to do for other plugins you want to setup. 
+
+>[!note] 
+>Community plugins need to be unrestricted from the settings menu. Obsidian puts them in restricted mode by default!
 
 ---
 
@@ -114,8 +128,9 @@ To find the search menu got to:
 	5. Then enable it.
 	6. Setup anything you need.
 
+For the rest of the workshop, we have made links that take you straight to step 4.2 for different plugins (because its faster)!
 
->[!tip] Or in a flowchart
+>[!tip] Here is the same process displayed in (beautiful) flowchart
 >```mermaid
 flowchart TD
 A{Search for plugin} -->|Open it|C(Check it's configuration)
@@ -128,13 +143,10 @@ F --> |Doesn't work for you| H(Uninstall)
 H --> A
 >```
 
-We will show mainly step 4 in the next few slides for different plugins.
-
 ---
+## Emoji shortcode plugin (Easy example) 
+#G
 
-## Emoji shortcode (Easy example) - G
-
-### Install it
 So if we follow those steps above it looks like:
 
 1. Install [Emoji Shortcodes](obsidian://show-plugin?id=emoji-shortcodes) from the community plugins window and enable it, you can also get to this through the search menu if you have it open or want to try.
@@ -148,23 +160,24 @@ So if we follow those steps above it looks like:
 
 ### Try it out! 🐡☎🌵🌴🔭🍭💙📚🐛💮📁🐦🥘👡⌨🔉🥣 
 
-🌈 🍮
+---
+# Dataview 
+#B 
+
+```dataview 
+TASK 
+FROM -"Daily Notes" and -"Templates"
+WHERE !completed 
+GROUP BY [file.link]
+SORT rows.file.ctime ASC 
+```
+
+>[!note for batool]
+>quick intro to this. not tables. yes tasks.
 
 ---
-## Day Planner - B
-
-[Day Planner](obsidian://show-plugin?id=obsidian-day-planner) creates a (pretty) timeline of everything you put under the `# Schedule` heading in your daily notes. Display this through the calendar icon in the right sidebar.
-
-![[Screenshot 2024-05-27 at 10.48.27.png|600]]
-
-Also creates a weekly view of them - toggle it through the table icon in the top bar of the timeline.
-
-> [!note] This needs dataview to work!
-
-![[Screenshot 2024-05-27 at 10.47.02.png|600]]
-
----
-## Quick add - G
+## Quick add 
+#G
 
 This is a little more complex example, but hopefully once it is setup it will create easy ways to organise and maintain your notes! 
 

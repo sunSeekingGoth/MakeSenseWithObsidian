@@ -44,6 +44,24 @@ The core tasks good for most things, but you can also use the Tasks community pl
 
 
 ---
+
+---
+## Day Planner 
+#B
+
+[Day Planner](obsidian://show-plugin?id=obsidian-day-planner) creates a (pretty) timeline of everything you put under the `# Schedule` heading in your daily notes. Display this through the calendar icon in the right sidebar.
+
+![[Screenshot 2024-05-27 at 10.48.27.png|600]]
+
+Also creates a weekly view of them - toggle it through the table icon in the top bar of the timeline.
+
+> [!note] This needs dataview to work!
+
+![[Screenshot 2024-05-27 at 10.47.02.png|600]]
+
+---
+
+
 ## Calendar Plugin
 
 [Calendar](obsidian://show-plugin?id=calendar) works well with Daily Notes plugin which we setup during the [[03_Plugins|plugins section]] 

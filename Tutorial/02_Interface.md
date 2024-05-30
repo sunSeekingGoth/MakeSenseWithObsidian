@@ -86,11 +86,12 @@ Vault overview like
 
 > [!note] 
 >Don't make everything into a tag like author names and definitely not dates!  We will look at how to manage that data in Metadata. 
+>Ultimately its up to you.
 #### Filtering tags in search bar
 The search icon in the top left sidebar will let you search by tag (as well as other things):
 
-![[Screenshot 2024-05-30 at 11.27.19.png|300]]
-### Filtering tags thru simple Queries 
+![[builtin searchbar.png|300]]
+#### Filtering tags thru simple Queries 
 Which texts do I still need to read (that I have tagged with #toread)
 ```dataview
 LIST
@@ -100,7 +101,7 @@ FROM #toread
 > Are a way to pose questions to your vault.
 > ##### More complex queries: 
 > How many words am I writing on daily in the last two months? 
-> We will answer these questions, and create different "data-vis" graphs for them when we talk about [[06_Process#3 Dataview|dataview and trackers]]
+> We will answer these questions, and create different "data-vis" graphs for them when we talk about [[06_Practice#3 Dataview|dataview and trackers]]
 
 ___
 # 6 Yassification (or making it cute)
@@ -114,5 +115,5 @@ The one we're using is the Default Obsidian theme, but the community has made MA
 ![[finding themes menu.png]]
 
 > [!note] Some themes will effect how certain plugins work/look
-> We will see this with [[06_Process#2 Tasks ☑ - Core|Tasks]]
+> We will see this with [[06_Practice#2 Tasks ☑ - Core|Tasks]]
 

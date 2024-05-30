@@ -8,14 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8581c6babeda25f",
+            "id": "a872b56058699666",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/02_Interface.md",
+                "file": "Tutorial/03_Plugins.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "dcf009ba5b4ebfff",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Demo Folder/Chapter planning/Demo canvas_Chapter Planner.canvas",
+                "viewState": {
+                  "x": 544.6189856157055,
+                  "y": 1037.3792045365212,
+                  "zoom": -0.485642136587543
+                }
               }
             }
           }
@@ -65,12 +80,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 260.5
   },
   "right": {
     "id": "aea8ede7cc4020cf",
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/02_Interface.md",
+                "file": "Tutorial/03_Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/02_Interface.md",
+                "file": "Tutorial/03_Plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/02_Interface.md"
+                "file": "Tutorial/03_Plugins.md"
               }
             }
           },
@@ -145,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tutorial/02_Interface.md",
+                "file": "Tutorial/03_Plugins.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,11 +233,21 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c8581c6babeda25f",
+  "active": "a872b56058699666",
   "lastOpenFiles": [
-    "Tutorial/Screenshot 2024-05-30 at 11.27.19.png",
+    "Tutorial/06_Practice.md",
     "Tutorial/03_Plugins.md",
     "Tutorial/02_Interface.md",
+    "Demo Folder/Chapter planning/Demo canvas_Chapter Planner.canvas",
+    "demo page new.md",
+    "Demo Folder/Chapter planning/2nd try.md",
+    "Demo Folder/Demo canvas timeline plan.canvas",
+    "Demo Folder/BrittonPritchard.pdf",
+    "Demo canvas_Weekly plan.canvas",
+    "Tutorial/Attachments/builtin searchbar.png",
+    "Tutorial/core daily notes button.png",
+    "Tutorial/Canvas toolbar.png",
+    "Daily Notes/2024-05-30.md",
     "Tutorial/01_General syntax skills.md",
     "Tutorial/00_Intro.md",
     "Qs for Feedback.md",
@@ -233,22 +257,16 @@
     "Related Concept.md",
     "Week 1.md",
     "Demo Folder/Homepage.md",
-    "Tutorial/06_Process.md",
     "Tutorial/07_TroubleShooting.md",
     "Daily Notes/2024-05-27.md",
     "Demo Folder/meet.md",
     "Daily Notes/2024-05-28.md",
     "Daily Notes/2024-05-25.md",
     "Demo Folder/Demo page.md",
-    "Demo Folder/Demo canvas timeline plan.canvas",
     "Tutorial/05_Writing.md",
     "Tutorial/04_Research.md",
     "Templates/Daily.md",
-    "Demo Folder/Chapter planning/Demo canvas_Chapter Planner.canvas",
     "Demo Folder/Chapter planning/01_foundations.md",
-    "Daily Notes/Untitled.md",
-    "Templates/meeting.md",
-    "Templates/Time n Date.md",
     "Tutorial/Attachments/Screenshot 2024-05-27 at 10.48.27.png",
     "Tutorial/Attachments/Screenshot 2024-05-27 at 10.47.02.png",
     "Tutorial/Attachments/finding themes menu.png",
@@ -258,12 +276,8 @@
     "Tutorial/Attachments/Enable plugin.png",
     "Tutorial/Attachments/community plugins menu.png",
     "Tutorial/Attachments/Settings icon.png",
-    "Tutorial/Attachments/Install button.png",
-    "Tutorial/Attachments/emoji_shortcodes.gif",
-    "Tutorial/Attachments/slash commands.png",
     "Daily Notes",
     "Demo Folder/Demo canvas_Weekly plan.canvas",
-    "Demo Folder/BrittonPritchard.pdf",
     "Tutorial/Untitled.canvas",
     "hope/How to Survive the End of the World",
     "hope",
