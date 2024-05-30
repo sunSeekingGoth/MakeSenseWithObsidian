@@ -69,7 +69,6 @@ Access through the three dot menu in the editor.
 #notfinished
 #anotherone
 
-
 ___
 # 5 Knowledge querying interfaces
 Start thinking about what questions you have for your own notes and knowledge base. 
@@ -92,13 +91,17 @@ The search icon in the top left sidebar will let you search by tag (as well as o
 
 ![[Screenshot 2024-05-30 at 11.27.19.png|300]]
 ### Filtering tags thru simple Queries 
-Which texts do I still need to read (that I have tagged with #toread):
+Which texts do I still need to read (that I have tagged with #toread)
 ```dataview
 LIST
 FROM #toread 
 ```
-#### More complex queries
-how many words am I writing on average daily? We will answer these questions, and create different "data-vis" graphs for them when we talk about [[06_Process#3 Dataview|dataview and trackers]]
+> [!word] New word: Queries 
+> Are a way to pose questions to your vault.
+> ##### More complex queries: 
+> How many words am I writing on daily in the last two months? 
+> We will answer these questions, and create different "data-vis" graphs for them when we talk about [[06_Process#3 Dataview|dataview and trackers]]
+
 ___
 # 6 Yassification (or making it cute)
 The real reason we're here. Obsidian can have themes! 
