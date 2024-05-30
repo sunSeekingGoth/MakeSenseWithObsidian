@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6d770b3646b4ddad",
+        "id": "c45ca8eceeef0a53",
         "type": "tabs",
         "children": [
           {
-            "id": "e57cc903aa175d2b",
+            "id": "c8581c6babeda25f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "Demo Folder/Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Demo Folder/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Demo Folder/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Demo Folder/Homepage.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TO DO.md",
+                "file": "Demo Folder/Homepage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +218,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e57cc903aa175d2b",
+  "active": "c8581c6babeda25f",
   "lastOpenFiles": [
     "Demo Folder/Homepage.md",
     "Tutorial/06_Process.md",
