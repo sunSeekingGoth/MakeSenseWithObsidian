@@ -224,7 +224,7 @@ Similar to tags, metadata can store information about your notes, but it can als
 
 ![[Properties.png]]
 
-Properties are always at the top of the page, so the example is in the [[Demo page]] file. You can add them through the interface provided, or code them in like these examples:
+Properties are always at the top of the page, so the example is in the [[CS-Annotations]] file. You can add them through the interface provided, or code them in like these examples:
 
 ``` md
 ---

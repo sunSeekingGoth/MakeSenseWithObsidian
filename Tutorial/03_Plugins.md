@@ -73,13 +73,12 @@ ___
 ## Daily notes 
 #B
 
-### Setup:
-- New File location: This is the folder we already have in the vault called "Daily Notes"
-- Template location: This will be `Templates/Daily note`
-
 Obsidian core plugin lets us automate creating daily notes. This will tell Obsidian where to save new notes where to get the template from. 
 
 ![[core daily notes button.png|300]]
+### Setup:
+- New File location: This is the folder we already have in the vault called "Daily Notes"
+- Template location: This will be `Templates/Daily note`
 
 >[! note]
 >Date Format is YYYY-MM-DD by default. Leave it that way!
@@ -113,7 +112,6 @@ Community plugins are made and maintained by other people than obsidian, and pro
 >Community plugins need to be unrestricted from the settings menu. Obsidian puts them in restricted mode by default!
 
 ---
-
 ## Where to find community plugins?
 
 To find the search menu got to:
@@ -161,8 +159,44 @@ So if we follow those steps above it looks like:
 ### Try it out! 🐡☎🌵🌴🔭🍭💙📚🐛💮📁🐦🥘👡⌨🔉🥣 
 
 ---
-# Dataview 
+# Dataview Plugin (intermediate example)
 #B 
+
+[Dataview](obsidian://show-plugin?id=dataview) is a way to get different views of your vault, by grouping and filtering information according to the data attached to it.
+
+We talked about [[01_General syntax skills#8 Tagging|TAGS]] and [[01_General syntax skills#9 Metadata / Properties|METADATA / PROPERTIES]], these are two ways you create searchable data around the information in your vault. Dataview plugin can access and query this data.
+
+Dataview can see everything that is a tag, anything that is inside your metadata/properties header and anything that is a FIELD (new one).
+
+Example: [[active-unknowing]]
+
+## Creating / organising data
+#### Metadata or Properties
+```YAML
+--- 
+author: "Edgar Allan Poe" 
+published: 1845 
+tags: poems 
+---
+```
+#### Tags
+#practice 
+#### Inline Fields
+These are pieces of metadata that appear outside the metadata YAML header. Best suited if you prefer your data to be part of your texts. eg
+
+```
+- [ ] Send an mail to David about the deadline [due:: 2022-04-05].
+```
+
+`due` is the field
+
+or when you have occassional fields that dont need to be in a header template, eg: 
+
+[[active-unknowing]]
+
+`Further reserach` is not always prompted by every note, but when it is there I want to be able to see it.
+
+## Querying data
 
 ```dataview 
 TASK 
@@ -172,8 +206,8 @@ GROUP BY [file.link]
 SORT rows.file.ctime ASC 
 ```
 
->[!note for batool]
->quick intro to this. not tables. yes tasks.
+>[!note]
+> This is a quick overview of dataview, but actually managing tasks is much easier with the Tasks plugin
 
 ---
 ## Quick add 

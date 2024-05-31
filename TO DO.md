@@ -34,7 +34,7 @@
 - [x] Batool reorder [[06_Practice]] ✅ 2024-05-25
 - [x] Batool add [[01_General syntax skills#Subtags]] ✅ 2024-05-26
 - [x] Batool finish [[06_Practice#3 Dataview]] and [[06_Practice#4 Tracker]] ✅ 2024-05-27
-- [x] Both add examples to [[Demo page]] ✅ 2024-05-27
+- [x] Both add examples to [[CS-Annotations]] ✅ 2024-05-27
 - [ ] Both edit [[03_Plugins]]
 	- [ ] George make thoughts on pipleine flowchart canvas example  [[03_Plugins#4 Canvas - G&B]]
 	- [x] Batool add teaching plan timeline canvas [[03_Plugins#4 Canvas - G&B]] ✅ 2024-05-27
