@@ -8,12 +8,16 @@ I will be showing ways that I as a dyslexic who finds it tricky to structure ess
 >This is for reference and think about how you can incorporate or transform your existing ways of working through these tools.
 
 ---
-## Iterating Complexity - B
+## Iterating Complexity
+#B
 
 Iterating complexity of notes by slowly adding to ongoing clusters of notes.
 ### My steps
+
 1) Resource-bound notes (through annotator, physical sticky notes, canvas cards. etc)
-- process
+
+- proces
+
 These notes will only make sense when viewed in context of the original resource. Will include language like "this is a useful concept" without naming the concept how what it's useful for.
 
 2) Discrete, irreducible complete thoughts. These start to form idea-based links with each other
@@ -26,7 +30,8 @@ These notes should be comprehensible if read by themselves, but as they are stil
 - process
 At this point, your notes are larger
 ---
-## Mapping chapters/essays the Canvas.
+## Mapping chapters/essays the Canvas
+#G
 
 Now this isn't a new idea for getting your ideas out there but through this methodology we can keep keep it together as one fluid and growing seed within your practice and maybe recommend some processes to do that.
 

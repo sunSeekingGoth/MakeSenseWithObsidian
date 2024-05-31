@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/03_Plugins.md",
+                "file": "Tutorial/06_Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/03_Plugins.md",
+                "file": "Tutorial/05_Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/03_Plugins.md",
+                "file": "Tutorial/05_Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/03_Plugins.md"
+                "file": "Tutorial/05_Writing.md"
               }
             }
           },
@@ -169,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tutorial/03_Plugins.md",
+                "file": "Tutorial/05_Writing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,11 +242,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "08e15da247506711",
+  "active": "b8715389d5eabf94",
   "lastOpenFiles": [
+    "Tutorial/06_Practice.md",
     "Demo Folder/Reading Notes/active-unknowing.md",
-    "Tutorial/03_Plugins.md",
     "Tutorial/05_Writing.md",
+    "Tutorial/03_Plugins.md",
     "Demo Folder/Reading Notes/CS-Annotations.md",
     "Demo Folder/Reading Notes/Black and Blur-Index.md",
     "Demo Folder/Reading Notes/CS-Index.md",
@@ -264,7 +264,6 @@
     "Demo Folder/Homepage.md",
     "Demo Folder/Demo canvas timeline plan.canvas",
     "Tutorial/01_General syntax skills.md",
-    "Tutorial/06_Practice.md",
     "Tutorial/02_Interface.md",
     "Demo Folder/Chapter planning/Demo canvas_Chapter Planner.canvas",
     "demo page new.md",

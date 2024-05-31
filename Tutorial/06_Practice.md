@@ -1,6 +1,7 @@
 50 mins
 As well as being a place to create and keep your notes, Obsidian is also an interface for _how_ you work. Everyone will have difference preferences for tools that manage their tasks and the time needed to complete them. This section will be more about setting yourself up for a basic workflow and time management .
 # 1 Work Modes
+#B
 Similar to rearranging your desk for different projects, you can use different layouts to do different parts of you workflow.
 ## Workspaces Plugin
 A core plugin that saves each layout with the name you give it, then snaps you in and out of that layout 
@@ -25,6 +26,8 @@ The most 'cluttered view'. Best for time management and a overview on where you'
 
 ---
 # 2 Tasks ☑ - Core
+#B 
+
 - [ ] This is a thing to do
 	- [x] This is a sub-thing, it will stay attached to the main task ✅ 2024-05-27
 ### Task Syntax 
@@ -42,8 +45,17 @@ The core tasks good for most things, but you can also use the Tasks community pl
 >[!note]
 >Even if we cancel a task it still displays a tick. This is a CSS controlled thing and will vary per theme.
 
+## Querying through Tasks
+Dataview can display tasks, but the Tasks Plugin has a much better and easier way of querying through tasks.
 
----
+examples:
+
+### Structuring your Tasks (expand)
+
+putting tasks in project pages vs daily notes dif appraoch. etc.
+
+> [!Reflect]
+> Think about where you put your to-dos, in-line within notes, on project Index, or in a time-based view (like a calendar)?
 
 ---
 ## Day Planner 
@@ -59,23 +71,15 @@ Also creates a weekly view of them - toggle it through the table icon in the top
 
 ![[Screenshot 2024-05-27 at 10.47.02.png|600]]
 
+
 ---
-
-
-## Calendar Plugin
+## Calendar Plugin (optional)
+#b
 
 [Calendar](obsidian://show-plugin?id=calendar) works well with Daily Notes plugin which we setup during the [[03_Plugins|plugins section]] 
 
- - Set up time based tasks with due dates
+- Set up time based tasks with due dates
 - Honorable mention: Task Rollover plugin
-
----
-### Structuring your Tasks (expand)
-
-putting tasks in project pages vs daily notes dif appraoch. etc.
-
-> [!Reflect]
-> Think about where you put your to-dos, in-line within notes, on project Index, or in a time-based view (like a calendar)?
 
 ---
 ### Demo in [[Homepage]]
@@ -84,22 +88,29 @@ putting tasks in project pages vs daily notes dif appraoch. etc.
 
 - Querying all `NOT DONE` tasks
 
-```tasks
+```
+tasks
 (not done) AND NOT (status.name includes deferred)
 ```
 
+
 - Refine by a certain due date & sort by `sort by created reverse` to see more recent tasks on top
-```tasks
+
+```
 not done
 due tomorrow
 ```
-# 3 Dataview
-Dataview is a plugin that allows you to see different parts of your notes based on the meta-data and tags allocated to them. It does this by asking your vault for certain info.
+# 3 Dataview (in depth)
+
+## Tables
+
+The two remaining data types dataview can show us is TABLES and CALENDAR
 
 Defining your queries will help you articulate the question that you want to ask about your own knowledge base which will inform what kinda of connections you want to synthesise.
 
 ---
-#### Tables: querying notes about readings
+#### Creating tables about readings
+
 - create table with all metadata as column headers to see
 	- Author
 	- Title
