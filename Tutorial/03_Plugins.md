@@ -170,7 +170,7 @@ Dataview can see everything that is a tag, anything that is inside your metadata
 
 Example: [[active-unknowing]]
 
-## Creating / organising data
+## Creating / organising data 
 #### Metadata or Properties
 ```YAML
 --- 
@@ -190,13 +190,29 @@ These are pieces of metadata that appear outside the metadata YAML header. Best 
 
 `due` is the field
 
-or when you have occassional fields that dont need to be in a header template, eg: 
+or when you have occasional fields that don't need to be in a header template, eg: 
 
 [[active-unknowing]]
 
 `Further reserach` is not always prompted by every note, but when it is there I want to be able to see it.
 
 ## Querying data
+
+I want to see all the notes where i need to do "further research"
+
+	```dataview
+	LIST 
+	WHERE Further-research
+	```
+
+eg:
+```dataview
+LIST 
+WHERE Further-research
+```
+
+
+I want to see all incomplete To-dos not in the daily notes or templates folder:
 
 ```dataview 
 TASK 
