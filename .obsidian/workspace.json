@@ -93,7 +93,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< Updated upstream
     "width": 333.5
+=======
+    "width": 222.5
+>>>>>>> Stashed changes
   },
   "right": {
     "id": "aea8ede7cc4020cf",

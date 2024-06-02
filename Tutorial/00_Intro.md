@@ -35,7 +35,6 @@ Our uses of this tool, in the context of research:
 - Relating knowledge to other knowledge, not just to when and where you learned it.
 
 ---
-
 ## Why we personally have a knowledge base:
 
 We will go a bit more into this on the second day, but we find it really beneficial to practice our own methods for collating and collecting our research and knowledge! This is a way to actively practice your knowledge making instead of defaulting to existing systems, as it lets us learn what works for us and what doesn't.
@@ -58,11 +57,10 @@ It enables low-level access to potentially change _everything_ about the interfa
 by default everything is saved locally, not cloud dependant. They do offer a syncing service between devices, this is the only paid service. There are syncing alternatives that are free and not-cloud based [[README#Extra & Cool|Look in here]].
 
 ---
-# What we're doing to
 
 We will share some technical skills as well as some practice approaches that we find work really well. Some of these will refer to standardised/popular methods, but most will be a combination of different approaches we've found work for us. 
 
-We've made a folder called "Demo Folder" where you can create the exercises we will be going through today or take notes on what we're doing. we will create a small collection of notes and files to create a starting point that you can expand on and start to test⭐practice.
+We will create a small collection of notes and files to create a starting point that you can expand on and start to test⭐practice. We've made a folder called "Demo Folder" where you can create the exercises we will be going through today or take notes on what we're doing. 
 
 
 
