@@ -11,7 +11,8 @@ Tasks from project notes
 ---
 # Writing Progress
 
-``tracker
+
+```tracker
 searchType: fileMeta
 searchTarget: numWords, numChars
 folder: Daily Notes
