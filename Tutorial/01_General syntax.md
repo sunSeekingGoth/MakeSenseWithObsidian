@@ -3,7 +3,11 @@
 
 ## What is Markdown
 
+Is a way to format your text while you are typing. It's a more readable syntax-based code (technically a coding language) that is still used within many websites (eg wikipedia) and web-building tool (eg Wordpress).
 
+Markdown is saved as .md files
+
+Because Obdisian is essentially a text editor, understanding Markdown syntax is the first step to getting comfortable. You can always come back to this section as a reference! 
 
 Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax) but we will run through the basics:
 - [[01_General syntax#1 Headings!|1 Headings]]

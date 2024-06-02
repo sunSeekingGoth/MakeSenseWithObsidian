@@ -62,9 +62,11 @@ Auto-generated cloud of notes and how they are linked. Filters can be toggled to
 #### Global (whole vault)
 Accessed through the Graph View icon in the Ribbon
 Note: it does not show canvases!
-#### Local
+#### Local Graph
 Only showing links to and from the active note.
 Access through the three dot menu in the editor.
+
+![[Screenshot 2024-06-02 at 22.42.53.png|300]]
 
 #notfinished
 #anotherone

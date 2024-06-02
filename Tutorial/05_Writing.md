@@ -11,24 +11,28 @@ I will be showing ways that I as a dyslexic who finds it tricky to structure ess
 ## Iterating Complexity
 #B
 
-Iterating complexity of notes by slowly adding to ongoing clusters of notes.
-### My steps
+Iterating complexity of notes by slowly adding to ongoing clusters of notes. This method borrows from "atomic notes" but is more fluid.
+### Step 1: Resource-bound notes 
 
-1) Resource-bound notes (through annotator, physical sticky notes, canvas cards. etc)
+- This step is for taking notes however you usually do - through annotator, physical sticky notes, canvas cards. etc. 
 
-- proces
+These notes will only make sense when viewed in context of the original resource. You do not need to pay attention to making cohesive sentences yet. You can say things like "this is a useful concept" without naming the concept or what it's useful for.
 
-These notes will only make sense when viewed in context of the original resource. Will include language like "this is a useful concept" without naming the concept how what it's useful for.
+This is usually the kind of note-taking we do when annotating [[CS-Annotations]].
+### Step2: "atomic" notes
 
-2) Discrete, irreducible complete thoughts. These start to form idea-based links with each other
-- process
+- Discrete, irreducible complete thoughts. These start to form idea-based links with each other
+
 These are full sentences in your own words, that do not make verbal references to the original source. (eg. not saying things like "this concept is important", but names the concept) but keeps links to the original note or resource note. 
 
 These notes should be comprehensible if read by themselves, but as they are still notes, they will have wiki links to other related ideas (that sit in their own notes)
 
-3) Output oriented writing compiling those notes, links become citations. This steps usually compiles the content of the wiki-linked notes into one longer "page style" note
-- process
+### Step 3: Output oriented 
+
+writing compiling those notes, links become citations. This steps usually compiles the content of the wiki-linked notes into one longer "page style" note
+
 At this point, your notes are larger
+
 ---
 ## Mapping chapters/essays the Canvas
 #G
