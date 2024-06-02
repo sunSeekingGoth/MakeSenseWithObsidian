@@ -44,7 +44,7 @@ by default everything is saved locally, not cloud dependant. They do offer a syn
 
 # What we're doing to
 
-We will share some technical skills as well as some practice approaches that we find work really well. Some of these things will refer to standardised/popular methods, but most will be a combination of different things we've tried out. 
+We will share some technical skills as well as some practice approaches that we find work really well. Some of these will refer to standardised/popular methods, but most will be a combination of different approaches we've found work for us. 
 
 We've made a folder called "Demo Folder" where you can create the exercises we will be going through today or take notes on what we're doing. we will create a small collection of notes and files to create a starting point that you can expand on and start to test⭐practice.
 
