@@ -57,6 +57,7 @@ It enables low-level access to potentially change _everything_ about the interfa
 by default everything is saved locally, not cloud dependant. They do offer a syncing service between devices, this is the only paid service. There are syncing alternatives that are free and not-cloud based [[README#Extra & Cool|Look in here]].
 
 ---
+# What we're doing today
 
 We will share some technical skills as well as some practice approaches that we find work really well. Some of these will refer to standardised/popular methods, but most will be a combination of different approaches we've found work for us. 
 
