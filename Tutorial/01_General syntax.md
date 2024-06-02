@@ -2,16 +2,16 @@
 # Intro: Lets learn some syntax!
 
 Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax) but we will run through the basics:
-- [[01_General syntax skills#1 Headings!|1 Headings]]
-- [[01_General syntax skills#2 Styling|2 Styling]]
-- [[01_General syntax skills#3 To Dos|3 To Dos]]
-- [[01_General syntax skills#4 Code!|4 Code!]]
-- [[01_General syntax skills#5 Notes * Comments|5 Notes*Comments]]
-- [[01_General syntax skills#6 There are many types of links 🔗|6 There are many types of links 🔗]]
-- [[01_General syntax skills#7 Embedding links|7 Embedding links]]
-- [[01_General syntax skills#8 Tagging|8 Tagging]]
-- [[01_General syntax skills#9 Metadata / Properties|9 Metadata / Properties]]
-- [[01_General syntax skills#10 Why organise like this?|10 Why organise like this?]]
+- [[01_General syntax#1 Headings!|1 Headings]]
+- [[01_General syntax#2 Styling|2 Styling]]
+- [[01_General syntax#3 To Dos|3 To Dos]]
+- [[01_General syntax#4 Code!|4 Code!]]
+- [[01_General syntax#5 Notes * Comments|5 Notes*Comments]]
+- [[01_General syntax#6 There are many types of links 🔗|6 There are many types of links 🔗]]
+- [[01_General syntax#7 Embedding links|7 Embedding links]]
+- [[01_General syntax#8 Tagging|8 Tagging]]
+- [[01_General syntax#9 Metadata / Properties|9 Metadata / Properties]]
+- [[01_General syntax#10 Why organise like this?|10 Why organise like this?]]
 
 > [!note] Using this vault
 >  We have set it up so that all syntax is understandable and navigable. Usually Obsidian collapses syntax, but we have repeated things so you can see the markdown and code blocks and how they render next to each other.

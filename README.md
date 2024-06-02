@@ -14,7 +14,7 @@ In this session we are introducing the concept of knowledge bases, and the use o
 We will then introduce the concepts of the workshop where we will use basic functionalities of obsidian to formulate a small configurations of knowledge, formed from connected notes on your selected media or papers. This will come together with the basic skills we have show to explore how themes, tags and connections can create new and generative ways of exploring their research. 
 ## Basic skill intro
 
-### [[01_General syntax skills]] -George
+### [[01_General syntax]] -George
 - Mark down
 	-  Editing Syntax
 	- Tags

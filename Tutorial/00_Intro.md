@@ -1,5 +1,10 @@
 20 mins - settle and intro
 # Situating "Making Sense with Obsidian"
+
+## Pre-word (Share notes!)
+
+We find shared note taking really helpful so we have setup a pad in [[Shared notes and questions]] note, with subheadings for each section already setup.
+
 ## Knowledge base & Research Collection
 Our uses of this tool, being within the context of research, 
 - note-taking

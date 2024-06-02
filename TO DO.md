@@ -29,12 +29,19 @@
 - [x] Put to Github
 - [x] Do we want to number the headers so that people can follow along? - yes ✅ 2024-05-25
 - [-] Do we want to export the Tutorial folder as a PDF to give as a follow along sheet? - maybe
-- [x] George finish [[01_General syntax skills]]
+- [x] George finish [[01_General syntax]]
 - [x] Batool finish [[02_Interface]] ✅ 2024-05-25
+<<<<<<< Updated upstream
 - [x] Batool reorder [[06_Practice]] ✅ 2024-05-25
 - [x] Batool add [[01_General syntax skills#Subtags]] ✅ 2024-05-26
 - [x] Batool finish [[06_Practice#3 Dataview]] and [[06_Practice#4 Tracker]] ✅ 2024-05-27
 - [x] Both add examples to [[CS-Annotations]] ✅ 2024-05-27
+=======
+- [x] Batool reorder [[06_Process]] ✅ 2024-05-25
+- [x] Batool add [[01_General syntax#Subtags]] ✅ 2024-05-26
+- [x] Batool finish [[06_Process#3 Dataview]] and [[06_Process#4 Tracker]] ✅ 2024-05-27
+- [x] Both add examples to [[Demo page]] ✅ 2024-05-27
+>>>>>>> Stashed changes
 - [ ] Both edit [[03_Plugins]]
 	- [ ] George make thoughts on pipleine flowchart canvas example  [[03_Plugins#4 Canvas - G&B]]
 	- [x] Batool add teaching plan timeline canvas [[03_Plugins#4 Canvas - G&B]] ✅ 2024-05-27

@@ -61,6 +61,7 @@ Metadata for parsing different notes. eg.:
 - File Type (note, annotation, podcast).
 - Website
 
+
 ---
 ### `#`Tags: 
 
@@ -141,7 +142,7 @@ Within obsidian we structure and decide on how we automate our systems and this 
 ---
 # 4 Annotation 💭
 
-This is very flexible and enables you to practice a method that fits your approach of reading\*watching\*listening . Again, we are just going to look at some options quite quickly to give an understanding of what you can do, so do adapt and build on.
+This is very flexible and enables you to practice a method that fits your approach of reading\*watching\*listening. Again, we are just going to look at some options quite quickly to give an understanding of what you can do, so do adapt and build on.
 
 ---
 ## Annotator (text annotation)
