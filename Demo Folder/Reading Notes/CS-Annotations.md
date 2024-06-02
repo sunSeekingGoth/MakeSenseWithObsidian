@@ -49,13 +49,13 @@ annotation-target: For Careful Slugs-BrittonPritchard.pdf
 
 >%%
 >```annotation-json
->{"created":"2024-05-31T14:55:58.281Z","text":"from \"Black n Blur\".","updated":"2024-05-31T14:55:58.281Z","document":{"title":"For Careful Slugs: Caring for Unknowing in CS (Computer Science)","link":[{"href":"urn:x-pdf:caceabfd83c0dc49a26c205d4645c13b"},{"href":"vault:/Demo Folder/Reading Notes/For Careful Slugs-BrittonPritchard.pdf"}],"documentFingerprint":"caceabfd83c0dc49a26c205d4645c13b"},"uri":"vault:/Demo Folder/Reading Notes/For Careful Slugs-BrittonPritchard.pdf","target":[{"source":"vault:/Demo Folder/Reading Notes/For Careful Slugs-BrittonPritchard.pdf","selector":[{"type":"TextPositionSelector","start":2894,"end":3079},{"type":"TextQuoteSelector","exact":"“indeterminacy doesn’t ground freedom or equality...Rather, they are part of a complex field of scandal and chance, wherein the very idea of ground remains to be retheorized\" (2017, 38)","prefix":"g and unlearning. Moten writes, ","suffix":". As computer science researcher"}]}]}
+>{"text":"from \"Black n Blur\". [[Black and Blur-Index]]","target":[{"source":"vault:/Demo Folder/Reading Notes/For Careful Slugs-BrittonPritchard.pdf","selector":[{"type":"TextPositionSelector","start":2894,"end":3079},{"type":"TextQuoteSelector","exact":"“indeterminacy doesn’t ground freedom or equality...Rather, they are part of a complex field of scandal and chance, wherein the very idea of ground remains to be retheorized\" (2017, 38)","prefix":"g and unlearning. Moten writes,","suffix":". As computer science researcher"}]}],"created":"2024-05-31T14:55:58.281Z","updated":"2024-05-31T14:55:58.281Z","document":{"title":"For Careful Slugs: Caring for Unknowing in CS (Computer Science)","link":[{"href":"urn:x-pdf:caceabfd83c0dc49a26c205d4645c13b"},{"href":"vault:/Demo Folder/Reading Notes/For Careful Slugs-BrittonPritchard.pdf"}],"documentFingerprint":"caceabfd83c0dc49a26c205d4645c13b"},"uri":"vault:/Demo Folder/Reading Notes/For Careful Slugs-BrittonPritchard.pdf"}
 >```
 >%%
 >*%%PREFIX%%g and unlearning. Moten writes,%%HIGHLIGHT%% ==“indeterminacy doesn’t ground freedom or equality...Rather, they are part of a complex field of scandal and chance, wherein the very idea of ground remains to be retheorized" (2017, 38)== %%POSTFIX%%. As computer science researcher*
 >%%LINK%%[[#^fvly5i47caj|show annotation]]
 >%%COMMENT%%
->from "Black n Blur".
+>from "Black n Blur". [[Black and Blur-Index]]
 >%%TAGS%%
 >#toread
 ^fvly5i47caj

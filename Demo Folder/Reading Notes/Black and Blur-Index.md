@@ -8,4 +8,4 @@ tags: toread
 ---
 #toread 
 - [ ] Get this text
-Referenced in:: [[For Careful Slugs-BrittonPritchard.pdf]] 
+Referenced in:: [[CS-Annotations]] 
