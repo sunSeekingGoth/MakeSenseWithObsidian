@@ -19,13 +19,16 @@ Iterating complexity of notes by slowly adding to ongoing clusters of notes. Thi
 These notes will only make sense when viewed in context of the original resource. You do not need to pay attention to making cohesive sentences yet. You can say things like "this is a useful concept" without naming the concept or what it's useful for.
 
 This is usually the kind of note-taking we do when annotating [[CS-Annotations]].
-### Step2: "atomic" notes
+### Step2: Idenpendent or "atomic" notes
 
-- Discrete, irreducible complete thoughts. These start to form idea-based links with each other
+- This is when you flesh out each annotation into it's own note, and edit it into a short paragraph on one idea. These start to form idea-based links with each other
 
-These are full sentences in your own words, that do not make verbal references to the original source. (eg. not saying things like "this concept is important", but names the concept) but keeps links to the original note or resource note. 
+These are full sentences in your own words, that do not make verbal references to the original source. (eg. not saying things like "this concept is important", but names the concept and clarify how it is important.  
 
 These notes should be comprehensible if read by themselves, but as they are still notes, they will have wiki links to other related ideas (that sit in their own notes)
+
+> [! note]
+> Even though these notes are more "independent", they keep links to the original note or resource.
 
 ### Step 3: Output oriented 
 
