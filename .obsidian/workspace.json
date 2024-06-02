@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/05_Writing.md",
+                "file": "Tutorial/00_Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,25 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/06_Practice.md",
+                "file": "Tutorial/05_Writing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "be7132970f6e2545",
+            "id": "aed74474d85a5bb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demo Folder/Reading Notes/active-unknowing.md",
+                "file": "Tutorial/03_Plugins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "511fbba0d03be9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorial/00_Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "508aed15883ccacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorial/06_Practice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 273.5
   },
   "right": {
     "id": "aea8ede7cc4020cf",
@@ -110,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/05_Writing.md",
+                "file": "Tutorial/00_Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/05_Writing.md",
+                "file": "Tutorial/00_Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/05_Writing.md"
+                "file": "Tutorial/00_Intro.md"
               }
             }
           },
@@ -168,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tutorial/05_Writing.md",
+                "file": "Tutorial/00_Intro.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,45 +267,45 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2da3c4f2267b36ad",
+  "active": "511fbba0d03be9a8",
   "lastOpenFiles": [
-    "obs.md",
     "Tutorial/01_General syntax.md",
+    "Tutorial/03_Plugins.md",
+    "Tutorial/02_Interface.md",
+    "Tutorial/04_Research.md",
+    "Demo Folder/Reading Notes/CS-Annotations.md",
+    "Demo Folder/Reading Notes/active-unknowing.md",
+    "Demo Folder/Reading Notes/Black and Blur-Index.md",
+    "Demo Folder/Reading Notes/creating-for.md",
+    "Tutorial/05_Writing.md",
+    "Tutorial/06_Practice.md",
+    "Tutorial/00_Intro.md",
+    "Demo Folder/Reading Notes/For Careful Slugs-BrittonPritchard.pdf",
+    "Demo Folder/Reading Notes/CS-Index.md",
+    "Shared notes and questions.md",
+    "TO DO.md",
+    "Tutorial/Attachments/Canvas toolbar.png",
+    "obs.md",
     "ToSort/Moment.js  Docs.md",
     "ToSort",
-    "Shared notes and questions.md",
     "Demo Folder/Project2/meeting/jerry - 2024-05-27.md",
     "Demo Folder/Project2/meeting",
     "Demo Folder/Project2",
-    "Tutorial/06_Practice.md",
-    "Demo Folder/Reading Notes/active-unknowing.md",
-    "Tutorial/05_Writing.md",
-    "Tutorial/03_Plugins.md",
-    "Demo Folder/Reading Notes/CS-Annotations.md",
-    "Demo Folder/Reading Notes/Black and Blur-Index.md",
-    "Demo Folder/Reading Notes/CS-Index.md",
-    "Demo Folder/Reading Notes/creating-for.md",
-    "TO DO.md",
     "Daily Notes/2024-05-30.md",
     "Daily Notes/2024-05-28.md",
     "Daily Notes/2024-05-27.md",
     "Daily Notes/2024-05-26.md",
     "Daily Notes/2024-05-25.md",
-    "Demo Folder/Reading Notes/For Careful Slugs-BrittonPritchard.pdf",
     "Demo Folder/meet.md",
     "Demo Folder/Reading Notes",
     "Demo Folder/Homepage.md",
     "Demo Folder/Demo canvas timeline plan.canvas",
     "Tutorial/01_General syntax skills.md",
-    "Tutorial/02_Interface.md",
     "Demo Folder/Chapter planning/Demo canvas_Chapter Planner.canvas",
     "demo page new.md",
-    "Demo Folder/Chapter planning/2nd try.md",
     "Demo canvas_Weekly plan.canvas",
     "Tutorial/Attachments/builtin searchbar.png",
-    "Tutorial/core daily notes button.png",
-    "Tutorial/Canvas toolbar.png",
-    "Tutorial/00_Intro.md",
+    "Tutorial/Attachments/core daily notes button.png",
     "Tutorial/Attachments/Screenshot 2024-05-27 at 10.48.27.png",
     "Tutorial/Attachments/Screenshot 2024-05-27 at 10.47.02.png",
     "Tutorial/Attachments/finding themes menu.png",

@@ -1,6 +1,10 @@
 20-25 mins
 # Intro: Lets learn some syntax!
 
+## What is Markdown
+
+
+
 Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax) but we will run through the basics:
 - [[01_General syntax#1 Headings!|1 Headings]]
 - [[01_General syntax#2 Styling|2 Styling]]
@@ -44,10 +48,7 @@ That enable you to break up notes into sections and structure many levels of sub
 `*Italics*`
 
 ==Highlighted==
-
-```
-==Highlighted==
-```
+`==Highlighted==`
 
 ~~Strikethrough~~
 

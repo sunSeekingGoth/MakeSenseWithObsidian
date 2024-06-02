@@ -212,7 +212,7 @@ WHERE Further-research
 ```
 
 
-I want to see all incomplete To-dos not in the daily notes or templates folder:
+I want to see all incomplete To-dos not in the daily notes or templates folder & and I want to see which projects or readings they are in:
 
 ```dataview 
 TASK 
@@ -223,7 +223,7 @@ SORT rows.file.ctime ASC
 ```
 
 >[!note]
-> This is a quick overview of dataview, but actually managing tasks is much easier with the Tasks plugin
+> This is a quick overview of dataview,  to display lists & tasks. We will look into more complicated queries AND a better plugin for task management in the [[06_Practice|Practice]] section
 
 ---
 ## Quick add 
