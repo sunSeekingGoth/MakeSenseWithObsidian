@@ -3,7 +3,20 @@
 
 ## Pre-word (Share notes!)
 
-We find shared note taking really helpful so we have setup a pad in [[Shared notes and questions]] note, with subheadings for each section already setup.
+We find shared note taking really helpful so we have setup a pad in [[Shared notes and questions]] with subheadings for each section of this workshop.
+
+We will be talking about cultivating research through knowledge bases and how we do that using this tool called Obsidian. 
+
+---
+## A little bit about us:
+
+### George
+
+
+### Batool
+Artist, hacker, educator and etc. In my practice I work with historicising computing within non-western contexts, and I teach at the CCI, UaL on the Creative Robotics programme. What we're doing today is a tool that's been an backbone to help maintain how I work on everything for the past several years.
+
+Both of us are members of In-grid (artist collective) based in London, were working on collective methods and approaches of decentralised collective labour on infra \* structural transformation. We also host parties and 
 
 ---
 ## Knowledge base & Research Collection

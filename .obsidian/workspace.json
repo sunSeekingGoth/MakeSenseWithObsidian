@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "63c8ac7620ede449",
+        "id": "581d4751cf4c3a75",
         "type": "tabs",
         "children": [
           {
-            "id": "b8715389d5eabf94",
+            "id": "aaa0ec26513b339b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Tutorial/00_Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08e15da247506711",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutorial/06_Practice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be7132970f6e2545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Demo Folder/Reading Notes/active-unknowing.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 270.5
   },
   "right": {
     "id": "aea8ede7cc4020cf",
@@ -225,10 +201,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "homepage:Open homepage": false,
+      "obsidian-day-planner:Timeline": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -239,16 +218,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b8715389d5eabf94",
+  "active": "aaa0ec26513b339b",
   "lastOpenFiles": [
+    "README.md",
+    "Demo Folder/Homepage.md",
     "Tutorial/Attachments/core daily notes button.png",
     "Tutorial/Attachments/Canvas toolbar.png",
-    "README.md",
     "Tutorial/00_Intro.md",
     "Tutorial/01_General syntax.md",
     "Tutorial/05_Writing.md",
     "Templates/Daily.md",
-    "Demo Folder/Homepage.md",
     "Demo Folder/Reading Notes/Black and Blur-Index.md",
     "Demo Folder/Reading Notes/CS-Index.md",
     "Demo Folder/Reading Notes/creating-for.md",
@@ -283,7 +262,6 @@
     "Tutorial/Demo canvas_Weekly plan.canvas",
     "Tutorial/Attachments/plugin options.png",
     "Tutorial/Attachments/Enable plugin.png",
-    "Tutorial/Attachments/community plugins menu.png",
     "Daily Notes",
     "Demo Folder/Demo canvas_Weekly plan.canvas",
     "Tutorial/Untitled.canvas",
