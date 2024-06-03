@@ -6,8 +6,8 @@
 		{"id":"0d3946f67c80caca","type":"file","file":"Demo Folder/Chapter planning/01_foundations.md","x":20,"y":160,"width":400,"height":400},
 		{"id":"4d5db20c5fc4284f","type":"file","file":"Demo Folder/Chapter planning/01.1_examples.md","x":-505,"y":791,"width":400,"height":400},
 		{"id":"c30d4708a23588b7","type":"file","file":"Demo Folder/Chapter planning/02_deeper concepts.md","x":560,"y":-360,"width":400,"height":400},
-		{"id":"afdf273429a13830","type":"file","file":"Demo Folder/Chapter planning/03_practice.md","x":880,"y":241,"width":400,"height":400},
-		{"id":"b38d375834c87210","type":"file","file":"Demo Folder/Chapter planning/Chapter planning.md","x":-705,"y":-100,"width":400,"height":341}
+		{"id":"b38d375834c87210","type":"file","file":"Demo Folder/Chapter planning/Chapter planning.md","x":-705,"y":-100,"width":400,"height":341},
+		{"id":"afdf273429a13830","type":"file","file":"Demo Folder/Chapter planning/03_practice.md","x":920,"y":360,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"a3fb9941c77f1287","fromNode":"b38d375834c87210","fromSide":"right","toNode":"b24fd0b0c251e6aa","toSide":"left"},

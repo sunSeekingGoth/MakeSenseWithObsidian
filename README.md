@@ -1,8 +1,8 @@
 # Components to Introduce
 
 This gives an overview of how the we are approaching creating a constellation of knowledge throughout the workshop. Through introducing the interface we will ad layers of complexity and skills whilst also showing a guide to how they might practice a knowledge base for themselves. As this workshop is fairly short for the amount of content, it is about opening doors for them to go through in the future and in their own way.
+# Monday Afternoon 
 
-# Monday Afternoon
 
 ## [[Tutorial/00_Intro]]
 
@@ -62,7 +62,6 @@ We will then introduce the concepts of the workshop where we will use basic func
 > 2. Create an index or overview in each new directory to explain what it is. Remember you can use a template so they are all the same format, and then you can add tags, link them to related files and write some info about them.
 > 3. Maybe even start to add some existing research into the vault and place them in the relevant folders.
 
-
 # Tuesday Morning:
 
 ## [[04_Research]] - George
@@ -113,7 +112,8 @@ Doing things in different ways
 - Better Word Count
 - Homepage
 - Day Planner
-- Syncthing
+- Syncthing << update link
+- [ ] Tagg Wrangler add link to this! 
 # Community
 - [Tech Support](https://help.obsidian.md/Help+and+support)
 - [Forum](https://forum.obsidian.md)

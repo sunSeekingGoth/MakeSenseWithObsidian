@@ -42,6 +42,8 @@ By default, we don't see the the markdown syntax of Obsidian unless we are *typi
 
 We can toggle Source Mode and Reading More from the top-right menu in the editor. Or the book icon.
 
+*see youre syntanc*x
+
 
 ![[ReadingView Menu.png|500]]
 

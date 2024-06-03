@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "63c8ac7620ede449",
+        "id": "581d4751cf4c3a75",
         "type": "tabs",
         "children": [
           {
-            "id": "b8715389d5eabf94",
+            "id": "aaa0ec26513b339b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/06_Practice.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc5d2b8fd58eb70c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demo Folder/Reading Notes/active-unknowing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "217676338176b00e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shared notes and questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 243.50260543823242
   },
   "right": {
     "id": "aea8ede7cc4020cf",
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/06_Practice.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,20 +126,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/06_Practice.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ee9fdf98d02f5358",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/06_Practice.md"
+                "file": "README.md"
               }
             }
           },
@@ -143,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tutorial/06_Practice.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,31 +179,67 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1217408182408957,
+                  "scale": 1.006780636928138,
                   "close": true
                 }
               }
             }
           },
           {
-            "id": "f8c5eb07874445f5",
+            "id": "ee9fdf98d02f5358",
             "type": "leaf",
             "state": {
-              "type": "timeline",
-              "state": {}
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7aab9d006c25c590",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "README.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.1051266305115688,
+                  "close": true
+                }
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -200,48 +249,51 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b8715389d5eabf94",
+  "active": "aaa0ec26513b339b",
   "lastOpenFiles": [
-    "Tutorial/05_Writing.md",
-    "Tutorial/04_Research.md",
-    "Tutorial/06_Practice.md",
-    "Tutorial/01_General syntax.md",
-    "Tutorial/Screenshot 2024-06-03 at 13.48.30.png",
-    "Tutorial/Attachments/attachments.png",
-    "Tutorial/Screenshot 2024-06-02 at 22.42.53.png",
-    "Tutorial/Attachments/local graph menu 1.png",
-    "Tutorial/Attachments/command palett workspaces.png",
+    "Demo Folder/Chapter planning/love.md",
     "README.md",
+    "Tutorial/later.md",
     "Tutorial/03_Plugins.md",
+    "Templates/tip.md",
+    "Demo Folder/Project2/meeting/dave - 2024 06 03.md",
     "Templates/meeting.md",
-    "Tutorial/02_Interface.md",
+    "Demo Folder/Project2/meeting",
+    "Demo Folder/Project2",
+    "meet jo.md",
+    "Demo Folder/Reading Notes/Black and Blur-Index.md",
+    "Demo Folder/Reading Notes/active-unknowing.md",
+    "Demo Folder/Chapter planning/Demo canvas_Chapter Planner.canvas",
+    "Demo Folder/Demo canvas timeline plan.canvas",
+    "Demo Folder/Chapter planning/03_practice.md",
+    "Daily Notes/2024-06-03.md",
     "Templates/Daily.md",
     "Templates/Time n Date.md",
-    "Demo Folder/Reading Notes/active-unknowing.md",
-    "Tutorial/00_Intro.md",
+    "Tutorial/02_Interface.md",
+    "Tutorial/04_Research.md",
     "Shared notes and questions.md",
+    "Tutorial/05_Writing.md",
+    "Tutorial/new note ile.md",
+    "Tutorial/01_General syntax.md",
+    "Demo Folder/Reading Notes/CS-Annotations.md",
+    "Tutorial/Related Concept.md",
+    "Tutorial/00_Intro.md",
+    "Tutorial/Attachments/tasks filtering globally.png",
+    "Tutorial/Attachments/attachments.png",
+    "Tutorial/06_Practice.md",
+    "Tutorial/Attachments/local graph menu 1.png",
+    "Tutorial/Attachments/command palett workspaces.png",
     "Tutorial/Attachments/local graph menu.png",
+    "Demo Folder/Homepage.md",
     "Tutorial/Attachments/core daily notes button.png",
     "Tutorial/Attachments/Canvas toolbar.png",
-    "Demo Folder/Homepage.md",
-    "Demo Folder/Reading Notes/Black and Blur-Index.md",
     "Demo Folder/Reading Notes/CS-Index.md",
-    "Demo Folder/Reading Notes/creating-for.md",
-    "Demo Folder/Reading Notes/CS-Annotations.md",
     "Demo Folder/Reading Notes/For Careful Slugs-BrittonPritchard.pdf",
-    "TO DO.md",
-    "Daily Notes/2024-05-30.md",
-    "Daily Notes/2024-05-28.md",
-    "Daily Notes/2024-05-27.md",
-    "Daily Notes/2024-05-26.md",
-    "Daily Notes/2024-05-25.md",
-    "Demo Folder/meet.md",
     "Demo Folder/Reading Notes",
-    "Demo Folder/Demo canvas timeline plan.canvas",
-    "Demo Folder/Chapter planning/Demo canvas_Chapter Planner.canvas",
     "Demo canvas_Weekly plan.canvas",
     "Tutorial/Attachments/builtin searchbar.png",
     "Tutorial/core daily notes button.png",
+    "Tutorial/Canvas toolbar.png",
     "Demo Folder/Chapter planning",
     "Tutorial/Demo canvas_Weekly plan.canvas",
     "Daily Notes",
@@ -250,7 +302,6 @@
     "hope/How to Survive the End of the World",
     "hope",
     "Demo Folder/Project1/meetings",
-    "Demo Folder/Project1",
-    "Templates"
+    "Demo Folder/Project1"
   ]
 }

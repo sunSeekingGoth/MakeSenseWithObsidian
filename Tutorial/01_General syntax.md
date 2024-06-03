@@ -34,7 +34,11 @@ That enable you to break up notes into sections and structure many levels of sub
 
 # For organising
 
-`# Headings!`
+`# ngs!`
+
+## jam
+#### small jam
+
 
 ---
 # 2 Styling
@@ -51,13 +55,12 @@ That enable you to break up notes into sections and structure many levels of sub
 `==Highlighted==`
 
 ~~Strikethrough~~
-
 `~~Strikethrough~~`
 
 ---
 # 3 To Dos
 
-- [ ] 
+- [ ]  something to do! 
 
 `- [ ]`
 
@@ -68,7 +71,7 @@ They help mark progress, and as we will see later can work in many adaptive ways
 
 ## Blocks 💻
 
-``` shell
+``` zsh
 pip install cute-things
 ```
 
@@ -83,7 +86,7 @@ Using one \` either side of the text.
 ---
 # 5 Notes \* Comments
 
-> [! note] This is a Callout, used to make stand out notes \* comments 
+> [! ] This is a Callout, used to make stand out notes \* comments 
 > Use this to make comments \* notes that you want to be noticeable.
 > You can also use all sorts of normal formatting in **here** ==like== ~~this~~.
 
@@ -110,7 +113,13 @@ To enable you to link to external websites and resources.
 ## Internal links
 
 **Simple (Wiki Link):**
-[[00_Intro#Knowledge base & Research Collection]]
+[[00_Intro]]
+[[06_Practice#Structuring your Tasks (expand)]]
+
+[[01_General syntax|anythinghdskfhslkdhas]]
+
+
+` | ` pipe
 
 syntax:
 `[[<FILE_NAME>]]`
@@ -125,6 +134,9 @@ Use this to  link to files within your vault. when you start writing `[[` you wi
 Obsidian can create new notes from links, so that you don't have to interrupt your process to create a new note.
 
 Like if you are mid thought, and remember that this text connects to [[Related Concept | something else]] you were reading the other day. You can put square brackets around that to create a place holder for a new note.
+
+I want to work on somehitng [[later]]
+
 
 > [! note] the title of the linked note and what appears in the sentence are diferent
 > You can give a link another name using the `|` symbol
@@ -164,6 +176,7 @@ e.g.
 `![](https://farm8.staticflickr.com/7007/6684384907_b093c428b4_z.jpg)`
 
 This lets you embed images from online. I would recommend using local though as it is more stable, and uses less energy.  
+
 
 ---
 ## Embed videos
@@ -214,9 +227,9 @@ You simply use a `#` and word to create tags between documents. These can be #in
 ## Subtags
 Tag can be nested! Think of having broader topics containing more specific ones:
 
+#projects/meeting  
+
 #project/proposal and #project/log , #project/meeting etc.
-
-
 
 ---
 #  9 Metadata / Properties

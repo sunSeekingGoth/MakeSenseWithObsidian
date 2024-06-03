@@ -76,7 +76,7 @@ eg.
 We have made a date and time template, in the templates folder.
 
 ##### try to insert that template here:
-
+2024-06-03 15:53
 
 ---
 ### Page templates
@@ -173,7 +173,6 @@ So if we follow those steps above it looks like:
 6. Then you can check out the settings/options of the plugin if you want (but we don't need to here): ![[plugin options.png]]
 7. Now open up a note and search up some emojis inline (in the note) with `:` and then the name of the emoji, using the arrow keys to navigate and then press enter to select!
 
-
 ### Try it out! 🐡☎🌵🌴🔭🍭💙📚🐛💮📁🐦🥘👡⌨🔉🥣 
 
 ---
@@ -230,6 +229,11 @@ I want to see all the notes where I need to do "further research"
 	WHERE Further-research
 	```
 
+```dataview
+LIST
+WHERE Further-research
+```
+
 eg:
 ```dataview
 LIST 
@@ -238,6 +242,14 @@ WHERE Further-research
 
 
 I want to see all incomplete To-dos not in the daily notes or templates folder & and I want to see which projects or readings they are in:
+	
+	```dataview 
+	TASK 
+	FROM -"Daily Notes" and -"Templates" 
+	WHERE !completed 
+	GROUP BY [file.link]
+	SORT rows.file.ctime ASC 
+	```
 
 ```dataview 
 TASK 
@@ -322,7 +334,7 @@ With one variable name like this, you will be prompted to input for `tags`.
 
 e.g. 
 ``` md
-{{VALUE:project1, project2, project3}}
+{{VALUE:project1,project2,project3}}
 ```
 With multiple variable names separated by commas like this, you will be prompted to select from the options (e.g. `project1`, `project2`, `project3`).
 
@@ -398,6 +410,7 @@ To add some auto structuring like the setup above:
 ###### Again test the template command
 
 We can now test this command again to see what its like!
+
 
 To do that:
 1. Get command pallet out (cntrl+P).
