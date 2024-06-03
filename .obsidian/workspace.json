@@ -23,11 +23,9 @@
             "id": "7606d76e321f42be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Tutorial/06_Practice.md",
-                "mode": "source",
-                "source": false
+                "file": "Tutorial/Attachments/tasks filtering globally.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/06_Practice.md",
+                "file": "Tutorial/Attachments/tasks filtering globally.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/06_Practice.md",
+                "file": "Tutorial/Attachments/tasks filtering globally.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/06_Practice.md"
+                "file": "Tutorial/Attachments/tasks filtering globally.png"
               }
             }
           },
@@ -156,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tutorial/06_Practice.md",
+                "file": "Tutorial/Attachments/tasks filtering globally.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,12 +201,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7606d76e321f42be",
+  "active": "2da3c4f2267b36ad",
   "lastOpenFiles": [
-    "Tutorial/Screenshot 2024-06-03 at 13.48.30.png",
+    "Tutorial/06_Practice.md",
+    "Tutorial/Attachments/tasks filtering globally.png",
     "Tutorial/Attachments/local graph menu 1.png",
     "Tutorial/Attachments/command palett workspaces.png",
-    "Tutorial/06_Practice.md",
     "Tutorial/04_Research.md",
     "Tutorial/03_Plugins.md",
     "Templates/meeting.md",
@@ -245,7 +243,6 @@
     "Tutorial/core daily notes button.png",
     "Tutorial/Canvas toolbar.png",
     "Tutorial/Attachments/Screenshot 2024-05-27 at 10.48.27.png",
-    "Tutorial/Attachments/Screenshot 2024-05-27 at 10.47.02.png",
     "Demo Folder/Chapter planning",
     "Tutorial/Demo canvas_Weekly plan.canvas",
     "Daily Notes",

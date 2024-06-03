@@ -62,7 +62,7 @@ Dataview can display tasks, but the Tasks Plugin has a much better and easier wa
 > Hint: Think about when we talked about Templates
 > 
 
-![[Screenshot 2024-06-03 at 13.48.30.png|500]]
+![[tasks filtering globally.png|500]]
 
 	path does not include Templates/
 	heading does not include Schedule
