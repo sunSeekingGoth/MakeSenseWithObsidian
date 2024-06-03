@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "581d4751cf4c3a75",
+        "id": "63c8ac7620ede449",
         "type": "tabs",
         "children": [
           {
-            "id": "aaa0ec26513b339b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutorial/01_General syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7606d76e321f42be",
+            "id": "b8715389d5eabf94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 333.5
   },
   "right": {
     "id": "aea8ede7cc4020cf",
@@ -184,16 +171,26 @@
                 }
               }
             }
+          },
+          {
+            "id": "f8c5eb07874445f5",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -203,26 +200,30 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7606d76e321f42be",
+  "active": "b8715389d5eabf94",
   "lastOpenFiles": [
+    "Tutorial/05_Writing.md",
+    "Tutorial/04_Research.md",
+    "Tutorial/06_Practice.md",
+    "Tutorial/01_General syntax.md",
     "Tutorial/Screenshot 2024-06-03 at 13.48.30.png",
+    "Tutorial/Attachments/attachments.png",
+    "Tutorial/Screenshot 2024-06-02 at 22.42.53.png",
     "Tutorial/Attachments/local graph menu 1.png",
     "Tutorial/Attachments/command palett workspaces.png",
-    "Tutorial/06_Practice.md",
-    "Tutorial/04_Research.md",
+    "README.md",
     "Tutorial/03_Plugins.md",
     "Templates/meeting.md",
     "Tutorial/02_Interface.md",
-    "Tutorial/00_Intro.md",
-    "Tutorial/01_General syntax.md",
+    "Templates/Daily.md",
+    "Templates/Time n Date.md",
     "Demo Folder/Reading Notes/active-unknowing.md",
-    "Tutorial/05_Writing.md",
+    "Tutorial/00_Intro.md",
+    "Shared notes and questions.md",
     "Tutorial/Attachments/local graph menu.png",
-    "README.md",
-    "Demo Folder/Homepage.md",
     "Tutorial/Attachments/core daily notes button.png",
     "Tutorial/Attachments/Canvas toolbar.png",
-    "Templates/Daily.md",
+    "Demo Folder/Homepage.md",
     "Demo Folder/Reading Notes/Black and Blur-Index.md",
     "Demo Folder/Reading Notes/CS-Index.md",
     "Demo Folder/Reading Notes/creating-for.md",
@@ -237,15 +238,10 @@
     "Demo Folder/meet.md",
     "Demo Folder/Reading Notes",
     "Demo Folder/Demo canvas timeline plan.canvas",
-    "Tutorial/01_General syntax skills.md",
     "Demo Folder/Chapter planning/Demo canvas_Chapter Planner.canvas",
-    "demo page new.md",
     "Demo canvas_Weekly plan.canvas",
     "Tutorial/Attachments/builtin searchbar.png",
     "Tutorial/core daily notes button.png",
-    "Tutorial/Canvas toolbar.png",
-    "Tutorial/Attachments/Screenshot 2024-05-27 at 10.48.27.png",
-    "Tutorial/Attachments/Screenshot 2024-05-27 at 10.47.02.png",
     "Demo Folder/Chapter planning",
     "Tutorial/Demo canvas_Weekly plan.canvas",
     "Daily Notes",

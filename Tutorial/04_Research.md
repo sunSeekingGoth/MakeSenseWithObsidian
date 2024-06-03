@@ -1,12 +1,11 @@
-50 mins
 # Intro
 
-As you saw in [[01_General syntax skills]] there are many ways we can make notes to make sense of different media and resources we want to work with. In this section we will be looking at some of the methods and workflows we have found useful for using obsidian for research. 
+As we have seen yesterday there are many ways we can make notes to make sense of different media and resources we want to work with. In this section we will be looking at some of the methods and workflows we have found useful for using obsidian for research. 
 
 ---
 # 1 Structures \* Systems \* Routines
 
-For us as neuro🍮diverse people with slightly chaotic rhythms, it is good to setup dependable but flexible structures, systems and routines for ourselves to come back to when we feel ready\*able.
+As we said in the intro, for us as neuro🍮diverse people with slightly chaotic rhythms, it is good to setup dependable but flexible structures, systems and routines for ourselves to come back to when we feel ready\*able.
 
 Obsidian with its flexible structure lets us practice and learn what systems and routines work well for us individually. The skills we are showing here are more possibilities and higher level functionality, instead of a specific setup, so please adapt and transform them to fit needs.
 
@@ -23,8 +22,10 @@ Obsidian with its flexible structure lets us practice and learn what systems and
 
 Some people may have already done the home work of starting to make their own directory structure (e.g. folders for papers, writing, etc.). We are now though, going to explore in more detail the possible systems and structures to setup. 
 
->[!Oh!]
+>[!tip]
 >As you get going the structure will change as you learn what works, but do put effort in at the beginning to think through what your needs are. This is because big changes can take a bit of work after you have lots of notes.  
+
+---
 ## Recommended Folders
 
 #### Tosort 
@@ -49,25 +50,41 @@ Notes/
 		Img.png
 ```
 
->[!Oh!]
+We can get it to do this by default when pasting in attachments by going to `Settings/Files and links` and setting `Default location for new attachments` to `In subfolder under current folder`.
+
+![[attachments.png]]
+
+>[!Tip]
 >If you want to see this not in the abstract symbolic text, check out the `Tutorial` folder this file is in. It has the `Attachments` sub-folder setup and has the [[cool pup.png]] for the [[01_General syntax skills#Embed Local Image]] note.
 
 ---
 ## Data Structure
-We were introduced 
-### Properties: 
+
+So yesterday we saw how data in the form of properties and tags can be used to create different threads in your notes that you can start to weave together in different ways. 
+
+When we start to build up this system it is good to think about:
+- How we want to sort through our notes?
+- Do we want to pre-define themes or find them?
+- What feels easy and comfy to do as you are writing?
+
+---
+### Recommended research note properties: 
 Metadata for parsing different notes. eg.:
 - Author
-- File Type (note, annotation, podcast).
+- File Type (meeting, note, annotation, podcast).
 - Website
-
+- Collaborators (can be links to other notes)
+- Title
+- Citation
+- Date publish (of note or resource)
+- Importance (0-10 or emojis)
 
 ---
 ### `#`Tags: 
 
 `#`Tags work similarly to how they do on social platforms, but this way you create and form your own sets of themes and trends to follow within your own research. 
 
-With this think about what your process might be for developing and maintaining a set of themes or tracking other groupings or sedimentations. 
+With this think about what your process might be for developing and maintaining a set of themes,  groupings or sedimentations. 
 
 Do you think it will be good to set the themes (or whatever you want to call it) before and work them out? Or do you want to read and see what calls out and falls into place? Or probably do a bit of both? 
 
@@ -79,12 +96,6 @@ The inevitable question! Should it be a tag, or should it be a property?
 Well sad\*happy to say it's up to you! But there are a few minor differences, the most major being that #tags show up in the graph, and properties don't. 
 
 ---
-#### Love
-
-> [! Reflect]
-> Don't be afraid to change your folder to match your evolving needs!
-
----
 # 3 Automation
 
 By automation, we are not approaching this as a way of accelerating our work and getting maximum efficiencies, but as a way to setup protocols and rhythms for ourselves to easily keep somewhat uniform notes that we can come back to when we are ready and able. It is a way to take care setting up to provide simple and easy workflows for yourself! 
@@ -94,7 +105,7 @@ We have already seen [[03_Plugins#Quick add|QuickAdd]] which is great for automa
 ---
 ## Read it later
 
-This is a very simple example that I especially use when clearing my tabs and archiving bits I want to keep. It basically is a addon that adds a simple button that takes the URL you have copied in your clipboard and saves it as a note in a designated folder. 
+This is a very simple example that I especially use when clearing my tabs and archiving bits I want to keep. It basically is a plugin that adds a simple button that takes the URL you have copied in your clipboard and saves it as a note in a designated folder. 
 
 A bonus here, if you are nerdy and care about energy expense of networks and accessibility of resources offline on your local computers, is that it actually saves it as a note in your vault! This also means you can write notes around, add properties\*tags and edit it as well.
 
@@ -106,13 +117,13 @@ Install it [HERE](obsidian://show-plugin?id=obsidian-read-it-later), or go to Se
 ---
 ### Setting it up?
 
-To get started we open it's settings by pressing the cog in the bottom left, and then pressing `ReadItLater`'s tab (highlighted on the left in the image below). In here we can edit our setup!
+To get started we open it go to `Settings/ReadItLater` (highlighted on the left in the image below). In here we can edit our setup!
 
 ![[ReadItLater settings.png]]
 
 The main thing we have to set is the __Inbox dir__ which is the folder these files will be saved to. I normally use the `ToSort` we recommended making before. 
 
- Low on the settings is the syntax that the notes take from each type of site. We don't have the time to look through this but check out their [DOCS](obsidian://show-plugin?id=obsidian-read-it-later) on this page for more info.
+ Lower on the settings is the syntax that the notes take from each type of site. We don't have the time to look through this but check out their [DOCS](obsidian://show-plugin?id=obsidian-read-it-later) on this page for more info.
  
 ---
 ### How to use it?
@@ -142,12 +153,12 @@ Within obsidian we structure and decide on how we automate our systems and this 
 ---
 # 4 Annotation 💭
 
-This is very flexible and enables you to practice a method that fits your approach of reading\*watching\*listening. Again, we are just going to look at some options quite quickly to give an understanding of what you can do, so do adapt and build on.
+This is very flexible and enables you to practice a method that fits your approach of reading\*watching\*listening. Again, we are just going to look at some options quite quickly to give an understanding of what you can do, so do adapt and build on what we show.
 
 ---
 ## Annotator (text annotation)
 
-This is a nice plugin for adding and tracking annotations on PDF and epub documents within obsidian. It lets you add comments on highlighted sections or whole pages, as well as add comments, and easily export quotes, comments and tags to a handy document. You may prefer other ways, but this is a quick intro to this one.
+This is a nice plugin for adding and tracking annotations on PDF and epub documents within obsidian. It lets you add comments on highlighted sections or whole pages and easily export quotes, comments and tags to a handy document. You may prefer other ways, but there is a quick intro to this one.
 
 Install it [HERE](obsidian://show-plugin?id=obsidian-annotator), or go to Settings>community plugins>browse and search `Annotator`. (Make sure you remember to enable it.)
 
@@ -165,7 +176,7 @@ annotation-target: <document path or url>
 For a local file:
 ``` properties
 --- 
-annotation-target: BrittonPritchard.pdf
+annotation-target: For Careful Slugs-BrittonPritchard.pdf
 ---
 ```
  For a remote file
