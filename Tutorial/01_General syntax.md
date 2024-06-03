@@ -1,13 +1,12 @@
-20-25 mins
 # Intro: Lets learn some syntax!
 
 ## What is Markdown
 
-Is a way to format your text while you are typing. It's a more readable syntax-based code (technically a coding language) that is still used within many websites (eg wikipedia) and web-building tool (eg Wordpress).
+It is a way to format your text while you are typing. It's a more readable syntax-based code (technically a coding language) that is used within many websites (eg wikipedia) and web-building tool (eg Wordpress, pico).
 
-Markdown is saved as .md files
+Markdown is saved as .md files.
 
-Because Obdisian is essentially a text editor, understanding Markdown syntax is the first step to getting comfortable. You can always come back to this section as a reference! 
+Because Obsidian is essentially a text editor, understanding Markdown syntax is the first step to getting comfortable. You can always come back to this section as a reference, so don't feel like you have to remember everythingggg! 
 
 Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax) but we will run through the basics:
 - [[01_General syntax#1 Headings!|1 Headings]]
@@ -22,10 +21,7 @@ Official docs are [HERE](https://help.obsidian.md/Editing+and+formatting/Basic+f
 - [[01_General syntax#10 Why organise like this?|10 Why organise like this?]]
 
 > [!note] Using this vault
->  We have set it up so that all syntax is understandable and navigable. Usually Obsidian collapses syntax, but we have repeated things so you can see the markdown and code blocks and how they render next to each other.
-
-> [!note] Plugins
-> We have not pre-installed the plugins for you, we will download them together as we go, then some parts of the vault will make more sense
+>  We have set it up to try and make all syntax understandable and navigable. Usually Obsidian collapses syntax, but we have repeated things so you can see the markdown in code blocks and how they render next to each other.
 
 ---
 # 1 Headings!
@@ -265,7 +261,7 @@ In comparison to tags, metadata can also store _different kinds_ of data, like d
 ---
 # 10 Why organise like this?
 
-This way of structuring your notes is what makes obsidian (and other knowledge bases with similar capacities) so useful, as they enable you to connect and thread your notes together in multiple ways! 
+Structuring your notes with metadata, links, headings and tags is what makes obsidian (and other knowledge bases with similar capacities) so useful, as they enable you to connect and thread your notes together in multiple ways! 
 
 Throughout the workshop we will also see how these threads will  enable us to bring together different ways of accessing your notes and research into new formations and interfaces that can help us understand it and connect it in different ways. 
 
