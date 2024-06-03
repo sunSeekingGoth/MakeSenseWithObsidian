@@ -70,7 +70,7 @@ Note: it does not show canvases!
 Only showing links to and from the active note.
 Access through the three dot menu in the editor.
 
-![[Screenshot 2024-06-02 at 22.42.53.png|300]]
+![[local graph menu 1.png|300]]
 
 ___
 # 5 Knowledge querying interfaces
