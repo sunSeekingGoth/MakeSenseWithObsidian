@@ -10,10 +10,9 @@ We will be talking about cultivating research through knowledge bases and how we
 ## A little bit about us:
 
 ### George (they/she/he)
-Researcher, dev\*hacker, queer instigator and crip trouble. I am finishing off a PhD in queer and crip collective methods towards sociotechnical infrastructure and also teach experimental media, speculative computing and coding skillz at I-Dat, UoP. 
+Researcher, dev\*hacker, queer instigator and crip trouble. In their work they create and develop digital tools and collective infrastructures\*protocols for distributed network infrastructures. They are currently finishing off a PhD in queer and crip collective methods towards automated socio-technical infrastructure. They teach and mentor experimental media, speculative computing and coding skills at I-Dat, UoP. They are also a founding member of In-grid, a trans\*feminist collective that produces events, skills shares and socio-technical infrastructures.
 ### Batool (they/them)
 Artist, hacker, educator and sometimes a technician. In my practice I work with historicising computing within non-western contexts, and I teach at the CCI, UaL on the Creative Robotics programme. 
-
 ### Both!
 What we're sharing today is a tool that's been a backbone to help maintain how we work on everything, from research to journalling, and recipes to yoga.
 
